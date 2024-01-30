@@ -1,0 +1,238 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://ja.dbpedia.org/property/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ja.dbpedia.org/resource/2PM> ns1:background "group_or_band"@ja ;
+    ns1:currentMembers <http://ja.dbpedia.org/resource/Jun.K>,
+        <http://ja.dbpedia.org/resource/ウヨン>,
+        <http://ja.dbpedia.org/resource/ジュノ_(2PM)>,
+        <http://ja.dbpedia.org/resource/チャンソン>,
+        <http://ja.dbpedia.org/resource/テギョン>,
+        <http://ja.dbpedia.org/resource/ニックン> ;
+    ns1:genre <http://ja.dbpedia.org/resource/K-POP> ;
+    ns1:img 2 ;
+    ns1:imgSize 300 ;
+    ns1:label <http://ja.dbpedia.org/resource/JYPエンターテインメント>,
+        <http://ja.dbpedia.org/resource/エピックレコードジャパン>,
+        "（日本）"@ja,
+        "（韓国）"@ja ;
+    ns1:name 2 ;
+    ns1:origin <http://ja.dbpedia.org/resource/大韓民国> ;
+    ns1:pastMembers <http://ja.dbpedia.org/resource/パク・ジェボム> ;
+    ns1:yearsActive "--09-04"^^xsd:gMonthDay ;
+    foaf:name "2PM"@ja .
+
+<http://ja.dbpedia.org/resource/2パック> ns1:alias "Tupac, Makaveli, Pac"@ja ;
+    ns1:associatedActs <http://ja.dbpedia.org/resource/サグ・ライフ>,
+        <http://ja.dbpedia.org/resource/スヌープ・ドッグ>,
+        <http://ja.dbpedia.org/resource/デジタル・アンダーグラウンド>,
+        <http://ja.dbpedia.org/resource/ドクター・ドレー>,
+        <http://ja.dbpedia.org/resource/ノトーリアス・B.I.G.>,
+        "Live Squad"@ja,
+        "アウトロウズ"@ja ;
+    ns1:background "solo_singer"@ja ;
+    ns1:birthName "トゥパック・アマル・シャクール"@ja ;
+    ns1:born <http://ja.dbpedia.org/resource/アメリカ合衆国>,
+        "--06-16"^^xsd:gMonthDay,
+        "ニューヨーク州ニューヨーク市"@ja ;
+    ns1:died <http://ja.dbpedia.org/resource/アメリカ合衆国>,
+        "1996-09-13"^^xsd:date,
+        "ネバダ州ラスベガス"@ja ;
+    ns1:genre <http://ja.dbpedia.org/resource/ウエスト・コースト・ヒップホップ>,
+        <http://ja.dbpedia.org/resource/ギャングスタ・ラップ> ;
+    ns1:img "Tupac drawing by Makaveli75.jpg"@ja ;
+    ns1:label <http://ja.dbpedia.org/resource/アマル・エンターテインメント>,
+        <http://ja.dbpedia.org/resource/インタースコープ・レコード>,
+        <http://ja.dbpedia.org/resource/デス・ロウ・レコード>,
+        "Out Da Gutta"@ja,
+        "マキャベリ"@ja ;
+    ns1:name 2 ;
+    ns1:occupation <http://ja.dbpedia.org/resource/MC_(ヒップホップ)>,
+        <http://ja.dbpedia.org/resource/俳優>,
+        <http://ja.dbpedia.org/resource/脚本家>,
+        <http://ja.dbpedia.org/resource/詩人>,
+        <http://ja.dbpedia.org/resource/音楽プロデューサー> ;
+    ns1:origin <http://ja.dbpedia.org/resource/アメリカ合衆国>,
+        <http://ja.dbpedia.org/resource/ニューヨーク>,
+        <http://ja.dbpedia.org/resource/マンハッタン> ;
+    ns1:yearsActive 1991 ;
+    foaf:name "2パック"@ja .
+
+<http://ja.dbpedia.org/resource/4AD> ns1:country "イギリス"@ja ;
+    ns1:distributor <http://ja.dbpedia.org/resource/ベガーズ・グループ> ;
+    ns1:founded 1979 ;
+    ns1:founder "Ivo Watts-Russell、Peter Kent"@ja ;
+    ns1:genre <http://ja.dbpedia.org/resource/インディー・ロック> ;
+    ns1:location <http://ja.dbpedia.org/resource/ロンドン> ;
+    ns1:name 4 ;
+    ns1:parent <http://ja.dbpedia.org/resource/ベガーズ・グループ> .
+
+<http://ja.dbpedia.org/resource/U-20サッカー大韓民国代表> ns1:bg "#CE1126"@ja ;
+    ns1:body "EE1111"@ja,
+        "FFFFFF"@ja ;
+    ns1:bordercolor "blue"@ja ;
+    ns1:coach <http://ja.dbpedia.org/resource/キム・チャンギ>,
+        <http://ja.dbpedia.org/resource/朴成華>,
+        <http://ja.dbpedia.org/resource/李光宗>,
+        <http://ja.dbpedia.org/resource/洪明甫> ;
+    ns1:comp 1979,
+        2005,
+        2009,
+        2011 ;
+    ns1:compLink 1979,
+        2005,
+        2009,
+        2011 ;
+    ns1:country "KOR"@ja,
+        "South Korea"@ja ;
+    ns1:fg "White"@ja,
+        "white"@ja ;
+    ns1:fifaコード "KOR"@ja ;
+    ns1:leftarm "EE1111"@ja,
+        "FFFFFF"@ja ;
+    ns1:name 1979,
+        2005,
+        2009,
+        2011 ;
+    ns1:p <http://ja.dbpedia.org/resource/イ・キルヨン_(1959年生)>,
+        <http://ja.dbpedia.org/resource/キム・スクォン>,
+        <http://ja.dbpedia.org/resource/キム・ハクチュル>,
+        <http://ja.dbpedia.org/resource/キム・マンスー>,
+        <http://ja.dbpedia.org/resource/キム・ミョングァン>,
+        <http://ja.dbpedia.org/resource/ソン・ヨンソク>,
+        <http://ja.dbpedia.org/resource/ソ・スクボム>,
+        <http://ja.dbpedia.org/resource/チョン・チャシク>,
+        <http://ja.dbpedia.org/resource/チョ永哲>,
+        <http://ja.dbpedia.org/resource/パク・ボジュン>,
+        <http://ja.dbpedia.org/resource/ファイル:Captain_sports.svg>,
+        <http://ja.dbpedia.org/resource/丁東浩>,
+        <http://ja.dbpedia.org/resource/具滋哲>,
+        <http://ja.dbpedia.org/resource/南昇佑>,
+        <http://ja.dbpedia.org/resource/呉宰碩>,
+        <http://ja.dbpedia.org/resource/呉章銀>,
+        <http://ja.dbpedia.org/resource/呉連教>,
+        <http://ja.dbpedia.org/resource/安泰垠>,
+        <http://ja.dbpedia.org/resource/尹日録>,
+        <http://ja.dbpedia.org/resource/尹錫榮>,
+        <http://ja.dbpedia.org/resource/崔淳鎬>,
+        <http://ja.dbpedia.org/resource/崔誠根>,
+        <http://ja.dbpedia.org/resource/張碩元>,
+        <http://ja.dbpedia.org/resource/張賢秀>,
+        <http://ja.dbpedia.org/resource/徐庸徳>,
+        <http://ja.dbpedia.org/resource/徐訂晋>,
+        <http://ja.dbpedia.org/resource/文相潤>,
+        <http://ja.dbpedia.org/resource/文起韓>,
+        <http://ja.dbpedia.org/resource/朴主永>,
+        <http://ja.dbpedia.org/resource/朴喜成>,
+        <http://ja.dbpedia.org/resource/朴宗真>,
+        <http://ja.dbpedia.org/resource/朴潤基>,
+        <http://ja.dbpedia.org/resource/朴煕鐵>,
+        <http://ja.dbpedia.org/resource/李勇載>,
+        <http://ja.dbpedia.org/resource/李周泳>,
+        <http://ja.dbpedia.org/resource/李康珍>,
+        <http://ja.dbpedia.org/resource/李承賢>,
+        <http://ja.dbpedia.org/resource/李昇烈>,
+        <http://ja.dbpedia.org/resource/李曜漢>,
+        <http://ja.dbpedia.org/resource/李根鎬>,
+        <http://ja.dbpedia.org/resource/李泰昊>,
+        <http://ja.dbpedia.org/resource/李相龍_(1961年生)>,
+        <http://ja.dbpedia.org/resource/李範永>,
+        <http://ja.dbpedia.org/resource/李記帝>,
+        <http://ja.dbpedia.org/resource/李鐘浩_(サッカー選手)>,
+        <http://ja.dbpedia.org/resource/林宗垠>,
+        <http://ja.dbpedia.org/resource/林昌宇>,
+        <http://ja.dbpedia.org/resource/梁韓彬>,
+        <http://ja.dbpedia.org/resource/沈愚燃>,
+        <http://ja.dbpedia.org/resource/洪正好>,
+        <http://ja.dbpedia.org/resource/白承敏>,
+        <http://ja.dbpedia.org/resource/白星東>,
+        <http://ja.dbpedia.org/resource/白智勲>,
+        <http://ja.dbpedia.org/resource/盧東健>,
+        <http://ja.dbpedia.org/resource/車奇席>,
+        <http://ja.dbpedia.org/resource/辛泳録>,
+        <http://ja.dbpedia.org/resource/辛炯ミン>,
+        <http://ja.dbpedia.org/resource/鄭仁煥>,
+        <http://ja.dbpedia.org/resource/鄭成龍>,
+        <http://ja.dbpedia.org/resource/鄭昇勇>,
+        <http://ja.dbpedia.org/resource/鄭龍煥>,
+        <http://ja.dbpedia.org/resource/金ダソル>,
+        <http://ja.dbpedia.org/resource/金善ミン>,
+        <http://ja.dbpedia.org/resource/金大呼>,
+        <http://ja.dbpedia.org/resource/金承奎>,
+        <http://ja.dbpedia.org/resource/金承龍>,
+        <http://ja.dbpedia.org/resource/金振永>,
+        <http://ja.dbpedia.org/resource/金敬重>,
+        <http://ja.dbpedia.org/resource/金東燮>,
+        <http://ja.dbpedia.org/resource/金民友>,
+        <http://ja.dbpedia.org/resource/金泳徹_(1960年生)>,
+        <http://ja.dbpedia.org/resource/金泳旭>,
+        <http://ja.dbpedia.org/resource/金珍圭>,
+        <http://ja.dbpedia.org/resource/金珍洙>,
+        <http://ja.dbpedia.org/resource/金甫ギョン>,
+        <http://ja.dbpedia.org/resource/金英権>,
+        <http://ja.dbpedia.org/resource/金鏞世>,
+        <http://ja.dbpedia.org/resource/閔尚基>,
+        <http://ja.dbpedia.org/resource/黄圭煥>,
+        <http://ja.dbpedia.org/resource/黄道然>,
+        <http://ja.dbpedia.org/resource/黄錫根> ;
+    ns1:patternB "5094000.0"^^<http://dbpedia.org/datatype/second>,
+        "_southkorea1415a"@ja ;
+    ns1:patternLa "5094000.0"^^<http://dbpedia.org/datatype/second>,
+        "_southkorea1415a"@ja ;
+    ns1:patternRa "5094000.0"^^<http://dbpedia.org/datatype/second>,
+        "_southkorea1415a"@ja ;
+    ns1:rightarm "EE1111"@ja,
+        "FFFFFF"@ja ;
+    ns1:shorts 122 ;
+    ns1:socks "F9041D"@ja,
+        "FFFFFF"@ja ;
+    ns1:teamLink "サッカー大韓民国代表"@ja ;
+    ns1:title "U-20韓国代表"@ja ;
+    ns1:ナショナルチームによる国際大会 <http://ja.dbpedia.org/resource/AFC_U-19選手権>,
+        <http://ja.dbpedia.org/resource/FIFA_U-20ワールドカップ> ;
+    ns1:協会 <http://ja.dbpedia.org/resource/大韓サッカー協会> ;
+    ns1:国際大会出場回数 12,
+        35 ;
+    ns1:国際大会最高成績 4,
+        "優勝"@ja ;
+    ns1:愛称 "アジアの虎、太極虎、太極戦士、赤い悪魔"@ja ;
+    ns1:監督 <http://ja.dbpedia.org/resource/キム・サンホ_(サッカー監督)> .
+
+<http://ja.dbpedia.org/resource/ファイヴ・セカンズ・オブ・サマー> ns1:background "group_or_band"@ja ;
+    ns1:currentMembers "Ashton Irwin"@ja,
+        "Calum Hood"@ja,
+        "Luke Hemmings"@ja,
+        "Michael Clifford"@ja ;
+    ns1:genre <http://ja.dbpedia.org/resource/ポップ・パンク>,
+        <http://ja.dbpedia.org/resource/ポップ・ロック> ;
+    ns1:img 5 ;
+    ns1:imgCapt 2014,
+        "左からルーク・ヘミングス、マイケル・クリフォード、カラム・フッド、アシュトン・アーウィン"@ja ;
+    ns1:label <http://ja.dbpedia.org/resource/キャピトル・レコード> ;
+    ns1:name 5 ;
+    ns1:origin "シドニー"@ja ;
+    ns1:yearsActive 2011 ;
+    foaf:name "5 Seconds of Summer (5SOS)"@ja .
+
+<http://ja.dbpedia.org/resource/ロイス・ダ・ファイブ・ナイン> ns1:alias "9.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:associatedActs <http://ja.dbpedia.org/resource/DJプレミア>,
+        <http://ja.dbpedia.org/resource/エミネム>,
+        <http://ja.dbpedia.org/resource/スローターハウス>,
+        <http://ja.dbpedia.org/resource/バッド・ミーツ・イーヴィル> ;
+    ns1:background "solo_singer"@ja ;
+    ns1:birthName "Ryan Daniel Montgomery"@ja ;
+    ns1:born "1977-07-05"^^xsd:date ;
+    ns1:genre <http://ja.dbpedia.org/resource/ヒップホップ> ;
+    ns1:label <http://ja.dbpedia.org/resource/インタースコープ・レコード>,
+        <http://ja.dbpedia.org/resource/シェイディー・レコード>,
+        "Game Recordings"@ja,
+        "Gracie Productions"@ja ;
+    ns1:name "9.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:occupation <http://ja.dbpedia.org/resource/MC_(ヒップホップ)> ;
+    ns1:origin <http://ja.dbpedia.org/resource/アメリカ合衆国>,
+        <http://ja.dbpedia.org/resource/デトロイト>,
+        <http://ja.dbpedia.org/resource/ミシガン州> ;
+    ns1:yearsActive 1997 ;
+    foaf:givenName "Ryan Daniel Montgomery"@ja ;
+    foaf:name "Royce da 5'9\""@ja .
+

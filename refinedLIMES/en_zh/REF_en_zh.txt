@@ -1,0 +1,7 @@
+<http://zh.dbpedia.org/resource/伦敦> <> <http://dbpedia.org/resource/London> .
+<http://zh.dbpedia.org/resource/聯合航空> <> <http://dbpedia.org/resource/United_Airlines> .
+<http://zh.dbpedia.org/resource/議會_(以色列)> <> <http://dbpedia.org/resource/Knesset> .
+<http://zh.dbpedia.org/resource/耶拿大学> <> <http://dbpedia.org/resource/University_of_Jena> .
+<http://zh.dbpedia.org/resource/汉诺威96足球俱乐部> <> <http://dbpedia.org/resource/Hannover_96> .
+<http://zh.dbpedia.org/resource/柏林洪堡大學> <> <http://dbpedia.org/resource/Humboldt_University_of_Berlin> .
+<http://zh.dbpedia.org/resource/本地治里> <> <http://dbpedia.org/resource/Puducherry> .

@@ -1,0 +1,689 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/property/> .
+@prefix ns2: <http://dbpedia.org/property/km²> .
+@prefix ns3: <http://dbpedia.org/property/his/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/2003–04_NHL_season> ns1:conf1Champ <http://dbpedia.org/resource/Tampa_Bay_Lightning> ;
+    ns1:conf1RunnerUp <http://dbpedia.org/resource/Philadelphia_Flyers> ;
+    ns1:conf2Champ <http://dbpedia.org/resource/Calgary_Flames> ;
+    ns1:conf2RunnerUp <http://dbpedia.org/resource/San_Jose_Sharks> ;
+    ns1:duration "--06-07"^^xsd:gMonthDay ;
+    ns1:finalsChamp <http://dbpedia.org/resource/Tampa_Bay_Lightning> ;
+    ns1:finalsLink 2004 ;
+    ns1:finalsRunnerUp <http://dbpedia.org/resource/Calgary_Flames> ;
+    ns1:group <http://dbpedia.org/resource/Eastern_Conference_(NHL)>,
+        <http://dbpedia.org/resource/Western_Conference_(NHL)> ;
+    ns1:mvp <http://dbpedia.org/resource/Martin_St._Louis>,
+        <http://dbpedia.org/resource/Tampa_Bay_Lightning> ;
+    ns1:nextseasonYear 2004 ;
+    ns1:noOfGames 82 ;
+    ns1:noOfTeams 30 ;
+    ns1:playoffsLink 2004 ;
+    ns1:playoffsMvp <http://dbpedia.org/resource/Brad_Richards>,
+        <http://dbpedia.org/resource/Tampa_Bay_Lightning> ;
+    ns1:prevseasonYear 2002 ;
+    ns1:rd1Score 1,
+        2,
+        3,
+        4 ;
+    ns1:rd1Seed 1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8 ;
+    ns1:rd1Team <http://dbpedia.org/resource/Boston_Bruins>,
+        <http://dbpedia.org/resource/Dallas_Stars>,
+        <http://dbpedia.org/resource/Nashville_Predators>,
+        <http://dbpedia.org/resource/New_Jersey_Devils>,
+        <http://dbpedia.org/resource/New_York_Islanders>,
+        <http://dbpedia.org/resource/Ottawa_Senators>,
+        <http://dbpedia.org/resource/St._Louis_Blues>,
+        <http://dbpedia.org/resource/Vancouver_Canucks>,
+        "Calgary"@en,
+        "Colorado"@en,
+        "Detroit"@en,
+        "Montreal"@en,
+        "Philadelphia"@en,
+        "San Jose"@en,
+        "Tampa Bay"@en,
+        "Toronto"@en ;
+    ns1:rd2Score 0,
+        2,
+        4 ;
+    ns1:rd2Seed 1,
+        2,
+        3,
+        4,
+        6,
+        7 ;
+    ns1:rd2Team <http://dbpedia.org/resource/Colorado_Avalanche>,
+        <http://dbpedia.org/resource/Detroit_Red_Wings>,
+        <http://dbpedia.org/resource/Montreal_Canadiens>,
+        <http://dbpedia.org/resource/Toronto_Maple_Leafs>,
+        "Calgary"@en,
+        "Philadelphia"@en,
+        "San Jose"@en,
+        "Tampa Bay"@en ;
+    ns1:rd3Score 2,
+        3,
+        4 ;
+    ns1:rd3Seed 1,
+        2,
+        3,
+        6 ;
+    ns1:rd3Team <http://dbpedia.org/resource/Philadelphia_Flyers>,
+        <http://dbpedia.org/resource/San_Jose_Sharks>,
+        "Calgary"@en,
+        "Tampa Bay"@en ;
+    ns1:rd4Score 3,
+        4 ;
+    ns1:rd4Seed "E1"@en,
+        "W6"@en ;
+    ns1:rd4Team <http://dbpedia.org/resource/Calgary_Flames>,
+        "Tampa Bay"@en ;
+    ns1:seasonChamps <http://dbpedia.org/resource/Detroit_Red_Wings> ;
+    ns1:title 2003 ;
+    ns1:topScorer <http://dbpedia.org/resource/Martin_St._Louis>,
+        <http://dbpedia.org/resource/Tampa_Bay_Lightning> .
+
+<http://dbpedia.org/resource/Abe_Sapien> ns1:aliases "Brother Blue, Fishstick, Waterfisher, King Ocean"@en ;
+    ns1:alliances <http://dbpedia.org/resource/Bureau_for_Paranormal_Research_and_Defense> ;
+    ns1:alterEgo "Langdon Everett Caul"@en ;
+    ns1:caption "Abe Sapien by Mike Mignola"@en ;
+    ns1:characterName "Abraham \"Abe\" Sapien"@en ;
+    ns1:creators <http://dbpedia.org/resource/Mike_Mignola> ;
+    ns1:debut "Hellboy: Seed of Destruction"@en ;
+    ns1:partners <http://dbpedia.org/resource/Hellboy>,
+        <http://dbpedia.org/resource/Liz_Sherman> ;
+    ns1:powers <http://dbpedia.org/resource/Psychometry_(paranormal)>,
+        <http://dbpedia.org/resource/Telepathy>,
+        "Excellent marksman"@en,
+        "Formidable hand-to-hand combatant"@en,
+        "Genius-level intelligence"@en,
+        "Underwater breathing"@en ;
+    ns1:publisher <http://dbpedia.org/resource/Dark_Horse_Comics> ;
+    foaf:givenName "Abraham \"Abe\" Sapien"@en ;
+    foaf:name "Langdon Everett Caul"@en .
+
+<http://dbpedia.org/resource/Allsvenskan> ns1:barWidth 15 ;
+    ns1:caption "Locations of the cities who have won the league"@en ;
+    ns1:champions <http://dbpedia.org/resource/IFK_Norrköping> ;
+    ns1:confed <http://dbpedia.org/resource/UEFA> ;
+    ns1:confedCup <http://dbpedia.org/resource/UEFA_Champions_League>,
+        <http://dbpedia.org/resource/UEFA_Europa_League> ;
+    ns1:current 2015 ;
+    ns1:data 7132,
+        7210,
+        7326,
+        7627,
+        9967 ;
+    ns1:dataMax 11000 ;
+    ns1:dataType "Spectators per match"@en ;
+    ns1:domestCup <http://dbpedia.org/resource/Svenska_Cupen> ;
+    ns1:float "right"@en ;
+    ns1:founded "1924-01-13"^^xsd:date ;
+    ns1:label 2011,
+        2012,
+        2013,
+        2014,
+        2015 ;
+    ns1:labelType "Year"@en ;
+    ns1:levels 1 ;
+    ns1:logo "Allsvenskan.svg"@en ;
+    ns1:mostSuccessfulClub <http://dbpedia.org/resource/IFK_Göteborg> ;
+    ns1:name "Allsvenskan"@en ;
+    ns1:pixels 150 ;
+    ns1:places 70 ;
+    ns1:relegation <http://dbpedia.org/resource/Superettan> ;
+    ns1:season 2015 ;
+    ns1:teams "[[#Clubs"@en ;
+    ns1:title "Last five seasons average attendance"@en ;
+    ns1:tv <http://dbpedia.org/resource/TV4_Group> ;
+    ns1:width 250,
+        400 ;
+    foaf:name "Allsvenskan"@en .
+
+<http://dbpedia.org/resource/Arrondissement_of_Blois> ns1:cheflieu <http://dbpedia.org/resource/Prefectures_in_France> ;
+    ns1:dépt <http://dbpedia.org/resource/Loir-et-Cher> ;
+    ns2:_ 2239 ;
+    ns1:nbco 113 ;
+    ns1:nomarr "Arrondissement of Blois"@en ;
+    ns1:pop 170961 ;
+    ns1:rég <http://dbpedia.org/resource/Centre-Val_de_Loire> ;
+    ns1:town <http://dbpedia.org/resource/Blois> ;
+    ns1:year 2011 .
+
+<http://dbpedia.org/resource/Arrondissement_of_Cholet> ns1:cheflieu <http://dbpedia.org/resource/Subprefectures_in_France> ;
+    ns1:dens "auto"@en ;
+    ns1:dépt <http://dbpedia.org/resource/Maine-et-Loire> ;
+    ns2:_ 1750 ;
+    ns1:nbco 23 ;
+    ns1:nomarr "Arrondissement of Cholet"@en ;
+    ns1:pop 202394 ;
+    ns1:rég <http://dbpedia.org/resource/Pays_de_la_Loire> ;
+    ns1:town <http://dbpedia.org/resource/Cholet> ;
+    ns1:year 2012 .
+
+<http://dbpedia.org/resource/Cairo_International_Stadium> ns1:after <http://dbpedia.org/resource/Accra_Sports_Stadium>,
+        "Accra"@en ;
+    ns1:before <http://dbpedia.org/resource/Radès>,
+        "--11-07"^^xsd:gMonthDay ;
+    ns1:built 1955 ;
+    ns1:capacity 75000 ;
+    ns1:fullName "Cairo International Stadium"@en ;
+    ns1:location "Nasr City, Cairo"@en ;
+    ns1:logoImage "Cairo International Stadium.jpg"@en ;
+    ns1:name "Cairo Stad"@en ;
+    ns1:nickname "Stad El Qahira El Dawly"@en ;
+    ns1:opened 1960 ;
+    ns1:recordAttendance 130000 ;
+    ns1:renovated 2004 ;
+    ns1:surface "Grass"@en ;
+    ns1:tenants <http://dbpedia.org/resource/Al_Ahly_SC>,
+        <http://dbpedia.org/resource/Egypt_national_football_team>,
+        <http://dbpedia.org/resource/Zamalek_SC> ;
+    ns1:title <http://dbpedia.org/resource/Africa_Cup_of_Nations>,
+        "Final Venue"@en ;
+    ns1:years 2006 ;
+    foaf:name "Cairo Stad"@en ;
+    foaf:nick "Stad El Qahira El Dawly"@en .
+
+<http://dbpedia.org/resource/Currie_Cup> ns1:country <http://dbpedia.org/resource/South_Africa> ;
+    ns1:currentSeason 2015 ;
+    ns1:founded 1889 ;
+    ns1:inaugural 1892 ;
+    ns1:logo "Currie cup logo.jpg"@en ;
+    ns1:pixels 300 ;
+    ns1:relatedComps <http://dbpedia.org/resource/Vodacom_Cup> ;
+    ns1:sport "Rugby union football"@en ;
+    ns1:teams "First Division: 6"@en,
+        "Premier Division: 8"@en ;
+    ns1:title "National Rugby Championship"@en ;
+    ns1:tv <http://dbpedia.org/resource/Fox_Sports_(Australia)>,
+        <http://dbpedia.org/resource/Setanta_Sports_Asia>,
+        <http://dbpedia.org/resource/SuperSport_(South_African_TV_channel)> .
+
+<http://dbpedia.org/resource/Division_1_Féminine> ns1:champions <http://dbpedia.org/resource/Olympique_Lyonnais_(Ladies)> ;
+    ns1:confed <http://dbpedia.org/resource/UEFA> ;
+    ns1:confedCup <http://dbpedia.org/resource/UEFA_Women's_Champions_League> ;
+    ns1:current 2015 ;
+    ns1:divisions 1 ;
+    ns1:domestCup <http://dbpedia.org/resource/Coupe_de_France_Féminine> ;
+    ns1:founded 1974 ;
+    ns1:levels 1 ;
+    ns1:mostSuccessfulClub <http://dbpedia.org/resource/Olympique_Lyonnais_(Ladies)> ;
+    ns1:relegation <http://dbpedia.org/resource/French_football_league_system> ;
+    ns1:season 2014 ;
+    ns1:teams 12 ;
+    ns1:tv <http://dbpedia.org/resource/Eurosport>,
+        <http://dbpedia.org/resource/France_Télévisions> .
+
+<http://dbpedia.org/resource/English_Premiership_(rugby_union)> ns1:caption "Locations of the English Premiership teams"@en ;
+    ns1:champions <http://dbpedia.org/resource/Saracens_F.C.> ;
+    ns1:confedCup <http://dbpedia.org/resource/European_Rugby_Champions_Cup>,
+        "European Rugby Challenge Cup"@en ;
+    ns1:currentSeason 2015 ;
+    ns1:domestCup <http://dbpedia.org/resource/Anglo-Welsh_Cup> ;
+    ns1:float "center"@en ;
+    ns1:founded 1987 ;
+    ns1:levels 1 ;
+    ns1:logo "Aviva Premiership logo.svg"@en ;
+    ns1:mostChamps <http://dbpedia.org/resource/Leicester_Tigers> ;
+    ns1:pixels 160 ;
+    ns1:relegation <http://dbpedia.org/resource/RFU_Championship> ;
+    ns1:season 2015 ;
+    ns1:teams 12 ;
+    ns1:tv <http://dbpedia.org/resource/BT_Sport>,
+        <http://dbpedia.org/resource/ITV_(TV_network)> ;
+    ns1:width 400 .
+
+<http://dbpedia.org/resource/Franco-Manitoban> ns1:caption "Daniel LavoieTyler BrûléLaurent Poliquin"@en,
+        "Marc-Amable GirardGabrielle RoyLouis Riel"@en ;
+    ns1:flag 200,
+        "Franco-Manitoban flag"@en ;
+    ns1:group "Franco-Manitobans"@en ;
+    ns1:langs <http://dbpedia.org/resource/Canadian_English>,
+        <http://dbpedia.org/resource/Canadian_French> ;
+    ns1:popplace <http://dbpedia.org/resource/Manitoba> ;
+    ns1:poptime 51280 ;
+    ns1:related <http://dbpedia.org/resource/Acadians>,
+        <http://dbpedia.org/resource/Cajuns>,
+        <http://dbpedia.org/resource/Franco-Albertans>,
+        <http://dbpedia.org/resource/Franco-Columbian>,
+        <http://dbpedia.org/resource/Franco-Ontarian>,
+        <http://dbpedia.org/resource/Fransaskois>,
+        <http://dbpedia.org/resource/French-speaking_Quebecer>,
+        <http://dbpedia.org/resource/French_Americans>,
+        <http://dbpedia.org/resource/French_Canadians>,
+        <http://dbpedia.org/resource/French_people>,
+        <http://dbpedia.org/resource/Métis_people_(Canada)> ;
+    ns1:rels "Mainly Roman Catholic"@en ;
+    foaf:name "Franco-Manitobans"@en .
+
+<http://dbpedia.org/resource/Franz_Joseph_II,_Prince_of_Liechtenstein> ns1:after <http://dbpedia.org/resource/Hans-Adam_II,_Prince_of_Liechtenstein> ;
+    ns1:before <http://dbpedia.org/resource/Franz_I,_Prince_of_Liechtenstein> ;
+    ns1:birthDate "1906-08-16"^^xsd:date ;
+    ns1:birthPlace <http://dbpedia.org/resource/Austria-Hungary>,
+        <http://dbpedia.org/resource/Deutschlandsberg>,
+        <http://dbpedia.org/resource/Schloss_Frauenthal> ;
+    ns1:caption "Franz Joseph II official portrait"@en ;
+    ns1:deathDate "1989-11-13"^^xsd:date ;
+    ns1:deathPlace "Grabs, Switzerland"@en ;
+    ns1:father <http://dbpedia.org/resource/Prince_Aloys_of_Liechtenstein> ;
+    ns1:fullName "Franz Josef Maria Aloys Alfred Karl Johannes Heinrich Michael Georg Ignaz Benediktus Gerhardus Majella"@en ;
+    ns1:house <http://dbpedia.org/resource/Princely_Family_of_Liechtenstein> ;
+    ns1:issue <http://dbpedia.org/resource/Hans-Adam_II,_Prince_of_Liechtenstein>,
+        <http://dbpedia.org/resource/Prince_Nikolaus_of_Liechtenstein>,
+        <http://dbpedia.org/resource/Princely_Family_of_Liechtenstein>,
+        <http://dbpedia.org/resource/Princess_Nora_of_Liechtenstein>,
+        "Prince Wenzel"@en ;
+    ns1:mother <http://dbpedia.org/resource/Archduchess_Elisabeth_Amalie_of_Austria> ;
+    ns1:name "Francis Joseph II"@en ;
+    ns1:placeOfBurial <http://dbpedia.org/resource/Vaduz>,
+        <http://dbpedia.org/resource/Vaduz_Cathedral> ;
+    ns1:predecessor <http://dbpedia.org/resource/Franz_I,_Prince_of_Liechtenstein> ;
+    ns1:regType <http://dbpedia.org/resource/List_of_heads_of_government_of_Liechtenstein> ;
+    ns1:reign "1989-11-13"^^xsd:date,
+        "--07-25"^^xsd:gMonthDay ;
+    ns1:religion <http://dbpedia.org/resource/Catholic_Church> ;
+    ns1:spouse <http://dbpedia.org/resource/Countess_Georgina_von_Wilczek> ;
+    ns1:succession <http://dbpedia.org/resource/Monarchy_of_Liechtenstein> ;
+    ns1:successor <http://dbpedia.org/resource/Hans-Adam_II,_Prince_of_Liechtenstein> ;
+    ns1:title <http://dbpedia.org/resource/List_of_monarchs_of_Liechtenstein> ;
+    ns1:years 1938 ;
+    foaf:name "Francis Joseph II"@en,
+        "Franz Josef Maria Aloys Alfred Karl Johannes Heinrich Michael Georg Ignaz Benediktus Gerhardus Majella"@en .
+
+<http://dbpedia.org/resource/I_Want_Out> ns1:artist <http://dbpedia.org/resource/Helloween> ;
+    ns1:cover "Helloween - I Want Out.jpg"@en ;
+    ns1:format "12.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:fromAlbum <http://dbpedia.org/resource/Keeper_of_the_Seven_Keys:_Part_II> ;
+    ns1:genre <http://dbpedia.org/resource/Heavy_metal_music>,
+        <http://dbpedia.org/resource/Neoclassical_metal>,
+        <http://dbpedia.org/resource/Power_metal> ;
+    ns1:label <http://dbpedia.org/resource/Noise_Records> ;
+    ns1:lastSingle "\"Dr. Stein\""@en ;
+    ns1:length "279.0"^^<http://dbpedia.org/datatype/second>,
+        "285.0"^^<http://dbpedia.org/datatype/second>,
+        "312.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:name "I Want Out"@en ;
+    ns1:nextSingle "\"Kids of the Century\""@en ;
+    ns1:released "1988-10-31"^^xsd:date ;
+    ns1:thisSingle "\"I Want Out\""@en ;
+    ns1:title "Don't Run for Cover"@en,
+        "I Want Out"@en,
+        "Save Us"@en ;
+    ns1:writer <http://dbpedia.org/resource/Kai_Hansen> ;
+    foaf:name "I Want Out"@en .
+
+<http://dbpedia.org/resource/LNB_Pro_A> ns1:champion <http://dbpedia.org/resource/Limoges_CSP> ;
+    ns1:continent "FIBA Europe"@en ;
+    ns1:currentSeason 2015 ;
+    ns1:founded 1921 ;
+    ns1:levels 1 ;
+    ns1:logo "LNB Pro A Logo.jpg"@en ;
+    ns1:mostChamps <http://dbpedia.org/resource/ASVEL_Basket> ;
+    ns1:pixels 180 ;
+    ns1:relatedComps <http://dbpedia.org/resource/French_Basketball_Cup>,
+        <http://dbpedia.org/resource/Leaders_Cup>,
+        <http://dbpedia.org/resource/Match_des_Champions_(basketball)> ;
+    ns1:relegation <http://dbpedia.org/resource/LNB_Pro_B> ;
+    ns1:sport "Basketball"@en ;
+    ns1:teams 18 ;
+    ns1:title "LNB Pro A"@en ;
+    ns1:tv <http://dbpedia.org/resource/Eurosport> .
+
+<http://dbpedia.org/resource/List_of_Governors_of_Louisiana> ns1:body <http://dbpedia.org/resource/Louisiana> ;
+    ns1:formation <http://dbpedia.org/resource/Constitution_of_Louisiana> ;
+    ns1:incumbent <http://dbpedia.org/resource/John_Bel_Edwards> ;
+    ns1:incumbentsince "2016-01-11"^^xsd:date ;
+    ns1:insignia "Seal_of_Louisiana.svg"@en ;
+    ns1:insigniacaption <http://dbpedia.org/resource/Seal_of_Louisiana> ;
+    ns1:insigniasize 150 ;
+    ns1:post "Governor of the State"@en ;
+    ns1:residence <http://dbpedia.org/resource/Louisiana_Governor's_Mansion> ;
+    ns1:salary "130000.0"^^<http://dbpedia.org/datatype/usDollar> ;
+    ns1:style "The Honorable"@en ;
+    ns1:termlength "Four years, renewable once consecutively"@en .
+
+<http://dbpedia.org/resource/Ministry_of_Foreign_Affairs_(Romania)> ns1:first <http://dbpedia.org/resource/Apostol_Arsache> ;
+    ns1:formation "1862-01-22"^^xsd:date ;
+    ns1:imagesize 100 ;
+    ns1:incumbent <http://dbpedia.org/resource/Lazăr_Comănescu> ;
+    ns1:incumbentsince "2015-11-17"^^xsd:date ;
+    ns1:insignia "COA_Ministry_of_Foreign_Affairs_Romania.svg"@en ;
+    ns1:insigniacaption "Coat of arms of the Romanian Ministry of Foreign Affairs"@en ;
+    ns1:insigniasize 100 ;
+    ns1:post "Ministry of Foreign Affairs"@en .
+
+<http://dbpedia.org/resource/Mobutu_Sese_Seko> ns1:birthDate "1930-10-14"^^xsd:date ;
+    ns1:birthPlace <http://dbpedia.org/resource/Belgian_Congo>,
+        <http://dbpedia.org/resource/Lisala> ;
+    ns1:caption "--08-05"^^xsd:gMonthDay ;
+    ns1:children 14 ;
+    ns1:deathDate "1997-09-07"^^xsd:date ;
+    ns1:deathPlace "Rabat, Morocco"@en ;
+    ns1:name "Mobutu Sese Seko"@en ;
+    ns1:nationality "Congolese"@en ;
+    ns1:order <http://dbpedia.org/resource/List_of_heads_of_state_of_the_Democratic_Republic_of_the_Congo> ;
+    ns1:party <http://dbpedia.org/resource/Popular_Movement_of_the_Revolution> ;
+    ns1:predecessor <http://dbpedia.org/resource/Joseph_Kasa-Vubu> ;
+    ns1:religion <http://dbpedia.org/resource/Roman_Catholicism_in_the_Democratic_Republic_of_the_Congo> ;
+    ns1:spouse "Bobi Ladawa"@en,
+        "Marie-Antoinette Mobutu"@en ;
+    ns1:successor <http://dbpedia.org/resource/Laurent-Désiré_Kabila> ;
+    ns1:termEnd "1997-05-16"^^xsd:date ;
+    ns1:termStart "1965-11-24"^^xsd:date ;
+    ns1:title "President of Zaire'"@en ;
+    ns1:years "--11-24"^^xsd:gMonthDay ;
+    foaf:name "Mobutu Sese Seko"@en .
+
+<http://dbpedia.org/resource/Monarchy_of_Denmark> ns1:coatofarms "Royal_coat_of_arms_of_Denmark.svg"@en ;
+    ns1:coatofarmsArticle "Royal coat of arms of Denmark"@en ;
+    ns1:firstMonarch <http://dbpedia.org/resource/Gorm_the_Old> ;
+    ns1:heirApparent <http://dbpedia.org/resource/Frederik,_Crown_Prince_of_Denmark> ;
+    ns3:her "Her"@en ;
+    ns1:incumbent <http://dbpedia.org/resource/Margrethe_II_of_Denmark> ;
+    ns1:incumbentsince "1972-01-14"^^xsd:date ;
+    ns1:realm <http://dbpedia.org/resource/Danish_Realm> ;
+    ns1:residence <http://dbpedia.org/resource/Amalienborg> ;
+    ns1:royalTitle "Queen"@en .
+
+<http://dbpedia.org/resource/President_of_Egypt> ns1:body "Arab Republic of Egypt"@en,
+        "the"@en ;
+    ns1:inaugural <http://dbpedia.org/resource/Muhammad_Naguib>,
+        "1953-06-18"^^xsd:date ;
+    ns1:incumbent <http://dbpedia.org/resource/Abdel_Fattah_el-Sisi> ;
+    ns1:incumbentsince "2014-06-08"^^xsd:date ;
+    ns1:insignia "Presidential Standard of Egypt.svgborder"@en ;
+    ns1:insigniacaption "Presidential Standard"@en ;
+    ns1:insigniasize 125 ;
+    ns1:post "President"@en ;
+    ns1:residence "Heliopolis Palace, Cairo, Egypt"@en ;
+    ns1:salary "E£504,000  annually"@en ;
+    ns1:termlength "(renewable once)"@en,
+        "Four years"@en .
+
+<http://dbpedia.org/resource/President_of_Greece> ns1:appointer <http://dbpedia.org/resource/Hellenic_Parliament> ;
+    ns1:body "the Hellenic Republic"@en ;
+    ns1:formation <http://dbpedia.org/resource/Constitution_of_Greece> ;
+    ns1:imagesize 165 ;
+    ns1:inaugural <http://dbpedia.org/resource/Michail_Stasinopoulos>,
+        "--12-18"^^xsd:gMonthDay ;
+    ns1:incumbent <http://dbpedia.org/resource/Prokopis_Pavlopoulos> ;
+    ns1:incumbentsince "2015-03-13"^^xsd:date ;
+    ns1:insignia "Standard of the President of Greece.svgborder"@en ;
+    ns1:insigniacaption "Standard of the President"@en ;
+    ns1:insigniasize 125 ;
+    ns1:nativeName "Πρόεδρος της Ελληνικής Δημοκρατίας"@en ;
+    ns1:post "President"@en ;
+    ns1:residence <http://dbpedia.org/resource/Athens>,
+        <http://dbpedia.org/resource/Presidential_Mansion,_Athens> ;
+    ns1:salary "138732.0"^^<http://dbpedia.org/datatype/euro> ;
+    ns1:style <http://dbpedia.org/resource/Excellency> ;
+    ns1:termlength "(renewable once)"@en,
+        "Five years"@en .
+
+<http://dbpedia.org/resource/Rami_Hamdallah> ns1:almaMater <http://dbpedia.org/resource/Lancaster_University>,
+        <http://dbpedia.org/resource/University_of_Jordan>,
+        <http://dbpedia.org/resource/University_of_Manchester> ;
+    ns1:birthDate "1958-08-10"^^xsd:date ;
+    ns1:birthPlace <http://dbpedia.org/resource/Anabta>,
+        <http://dbpedia.org/resource/West_Bank> ;
+    ns1:name "Rami Hamdallah"@en ;
+    ns1:nativeName "رامي حمدالله"@en ;
+    ns1:nativeNameLang "ar"@en ;
+    ns1:office <http://dbpedia.org/resource/Prime_Minister_of_the_Palestinian_National_Authority>,
+        "(Disputed)"@en ;
+    ns1:party <http://dbpedia.org/resource/Fatah> ;
+    ns1:predecessor <http://dbpedia.org/resource/Ismail_Haniyeh>,
+        <http://dbpedia.org/resource/Salam_Fayyad>,
+        "Himself"@en ;
+    ns1:president <http://dbpedia.org/resource/Mahmoud_Abbas> ;
+    ns1:successor "Himself"@en ;
+    ns1:termEnd "2014-06-02"^^xsd:date ;
+    ns1:termStart "2013-06-06"^^xsd:date,
+        "2014-06-02"^^xsd:date ;
+    ns1:title <http://dbpedia.org/resource/Prime_Minister_of_the_State_of_Palestine> ;
+    ns1:years 2013 ;
+    foaf:name "Rami Hamdallah"@en .
+
+<http://dbpedia.org/resource/Republican_Party_(United_States)> ns1:affiliation <http://dbpedia.org/resource/Asia_Pacific_Democrat_Union> ;
+    ns1:affiliation1Title "Regional affiliation"@en ;
+    ns1:align "right"@en ;
+    ns1:caption 1874,
+        "A previous GOP logo, incorporating the Republican elephant"@en,
+        "George H. W. Bush, 41st President of the United States"@en,
+        "The modern Republican elephant"@en ;
+    ns1:chairman "Reince Priebus"@en ;
+    ns1:colors "Red"@en ;
+    ns1:country "United States"@en ;
+    ns1:direction "vertical"@en ;
+    ns1:european <http://dbpedia.org/resource/Alliance_of_European_Conservatives_and_Reformists> ;
+    ns1:footer "Father and son presidents of the United States"@en ;
+    ns1:headquarters 310,
+        "Washington, D.C. 20003"@en ;
+    ns1:ideology <http://dbpedia.org/resource/Conservatism_in_the_United_States>,
+        <http://dbpedia.org/resource/Economic_liberalism>,
+        <http://dbpedia.org/resource/Fiscal_conservatism>,
+        <http://dbpedia.org/resource/Neoconservatism>,
+        <http://dbpedia.org/resource/Social_conservatism_in_the_United_States> ;
+    ns1:image "GOP Logo1.svg"@en,
+        "George H. W. Bush, President of the United States, 1989 official portrait.jpg"@en,
+        "George-W-Bush.jpeg"@en,
+        "NastRepublicanElephant.jpg"@en,
+        "Republicanlogo.svg"@en ;
+    ns1:international <http://dbpedia.org/resource/International_Democrat_Union> ;
+    ns1:leader1Name "Speaker Paul Ryan"@en ;
+    ns1:leader1Title "House leader"@en ;
+    ns1:leader2Name "Majority Leader Mitch McConnell"@en ;
+    ns1:leader2Title "Senate leader"@en ;
+    ns1:leader3Name "Bill Haslam"@en ;
+    ns1:leader3Title "Chair of Governors Association"@en ;
+    ns1:logo 250 ;
+    ns1:membership 30700000 ;
+    ns1:membershipYear 2012 ;
+    ns1:name "Republican Party"@en ;
+    ns1:predecessor <http://dbpedia.org/resource/Free_Soil_Party>,
+        <http://dbpedia.org/resource/Whig_Party_(United_States)> ;
+    ns1:seats1Title <http://dbpedia.org/resource/United_States_Senate> ;
+    ns1:seats2Title <http://dbpedia.org/resource/United_States_House_of_Representatives> ;
+    ns1:seats3Title <http://dbpedia.org/resource/Governor_(United_States)> ;
+    ns1:seats4Title <http://dbpedia.org/resource/State_legislature_(United_States)> ;
+    ns1:seats5Title <http://dbpedia.org/resource/State_legislature_(United_States)> ;
+    ns1:studentWing <http://dbpedia.org/resource/College_Republicans> ;
+    ns1:width 174,
+        200,
+        220 ;
+    ns1:wing <http://dbpedia.org/resource/National_Federation_of_Republican_Women>,
+        <http://dbpedia.org/resource/Republicans_Overseas> ;
+    ns1:wing1Title "Women's wing"@en ;
+    ns1:wing2Title "Overseas wing"@en ;
+    ns1:youthWing <http://dbpedia.org/resource/Teen_Age_Republicans>,
+        <http://dbpedia.org/resource/Young_Republicans> ;
+    foaf:name "Republican Party"@en .
+
+<http://dbpedia.org/resource/Roberto_Venturini> ns1:almaMater <http://dbpedia.org/resource/University_of_Bologna> ;
+    ns1:alongside <http://dbpedia.org/resource/Andrea_Belluzzi> ;
+    ns1:birthDate "1960-12-30"^^xsd:date ;
+    ns1:birthPlace <http://dbpedia.org/resource/San_Marino> ;
+    ns1:dateOfBirth "1960-12-30"^^xsd:date ;
+    ns1:name "Roberto Venturini"@en,
+        "Venturini, Roberto"@en ;
+    ns1:office <http://dbpedia.org/resource/List_of_Captains_Regent_of_San_Marino> ;
+    ns1:party <http://dbpedia.org/resource/Sammarinese_Christian_Democratic_Party> ;
+    ns1:placeOfBirth <http://dbpedia.org/resource/San_Marino> ;
+    ns1:predecessor <http://dbpedia.org/resource/Gianfranco_Terenzi>,
+        <http://dbpedia.org/resource/Guerrino_Zanotti> ;
+    ns1:shortDescription "captain-regent of San Marino"@en ;
+    ns1:successor <http://dbpedia.org/resource/Lorella_Stefanelli>,
+        <http://dbpedia.org/resource/Nicola_Renzi> ;
+    ns1:termEnd "2015-10-01"^^xsd:date ;
+    ns1:termStart "2015-04-01"^^xsd:date ;
+    dc:description "captain-regentofSan Marino" ;
+    foaf:name "Roberto Venturini"@en,
+        "Venturini, Roberto"@en .
+
+<http://dbpedia.org/resource/Sali_Berisha> ns1:almaMater <http://dbpedia.org/resource/University_of_Tirana> ;
+    ns1:birthDate "1944-10-15"^^xsd:date ;
+    ns1:birthPlace <http://dbpedia.org/resource/Albanian_Kingdom_(1943–44)>,
+        <http://dbpedia.org/resource/Viçidol> ;
+    ns1:children 2 ;
+    ns1:deputy <http://dbpedia.org/resource/Edmond_Haxhinasto>,
+        <http://dbpedia.org/resource/Gazmend_Oketa>,
+        <http://dbpedia.org/resource/Genc_Pollo>,
+        <http://dbpedia.org/resource/Ilir_Meta>,
+        <http://dbpedia.org/resource/Ilir_Rusmali>,
+        <http://dbpedia.org/resource/Myqerem_Tafaj> ;
+    ns1:name "Sali Berisha"@en ;
+    ns1:office 2,
+        31,
+        "Founder and Leader of the Democratic Party of Albania"@en ;
+    ns1:party "Democratic Party"@en,
+        "Party of Labour"@en ;
+    ns1:predecessor <http://dbpedia.org/resource/Fatos_Nano>,
+        <http://dbpedia.org/resource/Ramiz_Alia> ;
+    ns1:president <http://dbpedia.org/resource/Alfred_Moisiu>,
+        <http://dbpedia.org/resource/Bamir_Topi>,
+        <http://dbpedia.org/resource/Bujar_Nishani> ;
+    ns1:primeminister <http://dbpedia.org/resource/Aleksandër_Meksi>,
+        <http://dbpedia.org/resource/Bashkim_Fino>,
+        <http://dbpedia.org/resource/Vilson_Ahmeti> ;
+    ns1:religion <http://dbpedia.org/resource/Muslim> ;
+    ns1:signature "Sali Berisha Signature.svg"@en ;
+    ns1:spouse "Liri Ramaj"@en ;
+    ns1:successor <http://dbpedia.org/resource/Edi_Rama>,
+        <http://dbpedia.org/resource/Rexhep_Meidani> ;
+    ns1:termEnd "1997-07-24"^^xsd:date,
+        "2013-09-15"^^xsd:date ;
+    ns1:termStart "1992-04-09"^^xsd:date,
+        "2005-09-11"^^xsd:date ;
+    ns1:title <http://dbpedia.org/resource/Democratic_Party_of_Albania>,
+        <http://dbpedia.org/resource/List_of_Prime_Ministers_of_Albania>,
+        <http://dbpedia.org/resource/List_of_heads_of_state_of_Albania>,
+        "Leader of the"@en ;
+    ns1:years 1991,
+        1992,
+        1997,
+        2005 ;
+    foaf:name "Sali Berisha"@en .
+
+<http://dbpedia.org/resource/Scream_(1996_film)> ns1:align "left"@en ;
+    ns1:artist "Various artists"@en ;
+    ns1:budget "1.5E7"^^<http://dbpedia.org/datatype/usDollar> ;
+    ns1:caption "Theatrical release poster"@en ;
+    ns1:cinematography <http://dbpedia.org/resource/Mark_Irwin> ;
+    ns1:collapsed "yes"@en ;
+    ns1:country "United States"@en ;
+    ns1:description "The theme for the main character of Sidney Prescott by Marco Beltrami is used throughout the series."@en ;
+    ns1:director <http://dbpedia.org/resource/Wes_Craven> ;
+    ns1:distributor <http://dbpedia.org/resource/Dimension_Films> ;
+    ns1:editing <http://dbpedia.org/resource/Patrick_Lussier> ;
+    ns1:extra <http://dbpedia.org/resource/Birdbrain_(band)>,
+        <http://dbpedia.org/resource/Catherine_(alternative_rock_band)>,
+        <http://dbpedia.org/resource/Gus_Black>,
+        <http://dbpedia.org/resource/Julee_Cruise>,
+        <http://dbpedia.org/resource/Moby>,
+        <http://dbpedia.org/resource/Nick_Cave_and_the_Bad_Seeds>,
+        <http://dbpedia.org/resource/Sister_Machine_Gun>,
+        <http://dbpedia.org/resource/Soho_(band)>,
+        <http://dbpedia.org/resource/The_Connells>,
+        <http://dbpedia.org/resource/The_Last_Hard_Men_(band)>,
+        "Marco Beltrami"@en ;
+    ns1:extraColumn "Artist"@en ;
+    ns1:filename "SidneysLament.ogg"@en ;
+    ns1:format <http://dbpedia.org/resource/Ogg> ;
+    ns1:genre <http://dbpedia.org/resource/Alternative_rock> ;
+    ns1:gross "1.73E8"^^<http://dbpedia.org/datatype/usDollar> ;
+    ns1:headline "Scream: Music from the Dimension Motion Picture"@en ;
+    ns1:label <http://dbpedia.org/resource/TVT_Records> ;
+    ns1:language "English"@en ;
+    ns1:length "137.0"^^<http://dbpedia.org/datatype/second>,
+        "183.0"^^<http://dbpedia.org/datatype/second>,
+        "192.0"^^<http://dbpedia.org/datatype/second>,
+        "208.0"^^<http://dbpedia.org/datatype/second>,
+        "221.0"^^<http://dbpedia.org/datatype/second>,
+        "241.0"^^<http://dbpedia.org/datatype/second>,
+        "2790.0"^^<http://dbpedia.org/datatype/second>,
+        "287.0"^^<http://dbpedia.org/datatype/second>,
+        "308.0"^^<http://dbpedia.org/datatype/second>,
+        "316.0"^^<http://dbpedia.org/datatype/second>,
+        "326.0"^^<http://dbpedia.org/datatype/second>,
+        "371.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:music <http://dbpedia.org/resource/Marco_Beltrami> ;
+    ns1:name "Scream"@en,
+        "Scream: Music from the Dimension Motion Picture"@en ;
+    ns1:nextAlbum "Scream 2: Music from the Dimension Motion Picture"@en ;
+    ns1:pos "right"@en ;
+    ns1:producer <http://dbpedia.org/resource/Cary_Woods>,
+        <http://dbpedia.org/resource/Cathy_Konrad>,
+        "*"@en,
+        "Marco Beltrami, Tony Cohen, Kelley Deal, Ed Gerrard, Tim Harper, Timothy London, Tim Patalan, Jefferey Rabhan, Chris Randall"@en ;
+    ns1:quote "I'm a director who can do something very well but am not allowed to put it on screen. And they ultimately get you, as they did on this one, on intensity. They say, \"it's not a specific shot, it's not blood, it's just too intense\"."@en ;
+    ns1:released "1996-12-17"^^xsd:date ;
+    ns1:runtime "6660.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:salign "right"@en ;
+    ns1:source "— Director Wes Craven on his conflict with MPAA censorship during production of Scream"@en ;
+    ns1:starring <http://dbpedia.org/resource/Courteney_Cox>,
+        <http://dbpedia.org/resource/David_Arquette>,
+        <http://dbpedia.org/resource/Drew_Barrymore>,
+        <http://dbpedia.org/resource/Matthew_Lillard>,
+        <http://dbpedia.org/resource/Neve_Campbell>,
+        <http://dbpedia.org/resource/Rose_McGowan>,
+        <http://dbpedia.org/resource/Skeet_Ulrich>,
+        "*"@en ;
+    ns1:studio "Woods Entertainment"@en ;
+    ns1:thisAlbum "Scream: Music from the Dimension Motion Picture"@en ;
+    ns1:title <http://dbpedia.org/resource/(Don't_Fear)_The_Reaper>,
+        <http://dbpedia.org/resource/Birds_Fly_(Whisper_to_a_Scream)>,
+        <http://dbpedia.org/resource/Hot_Saki_&_Bedtime_Stories>,
+        <http://dbpedia.org/resource/Red_Right_Hand>,
+        <http://dbpedia.org/resource/School's_Out_(song)>,
+        <http://dbpedia.org/resource/Youth_of_America_(Birdbrain_song)>,
+        "Artificial World [Interdimensional Mix]"@en,
+        "Better Than Me"@en,
+        "Bitter Pill"@en,
+        "First Cool Hive"@en,
+        "Marco Beltrami – Sidney's Lament"@en,
+        "Trouble In Woodsboro\"/\"Sidney's Lament"@en ;
+    ns1:totalLength "2790.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:type "Soundtrack"@en ;
+    ns1:width 30 ;
+    ns1:writer <http://dbpedia.org/resource/Alice_Cooper>,
+        <http://dbpedia.org/resource/Birdbrain_(band)>,
+        <http://dbpedia.org/resource/Buck_Dharma>,
+        <http://dbpedia.org/resource/Dennis_Dunaway>,
+        <http://dbpedia.org/resource/Glen_Buxton>,
+        <http://dbpedia.org/resource/Ian_McNabb>,
+        <http://dbpedia.org/resource/Kevin_Williamson_(screenwriter)>,
+        <http://dbpedia.org/resource/Marco_Beltrami>,
+        <http://dbpedia.org/resource/Michael_Owen_Bruce>,
+        <http://dbpedia.org/resource/Neal_Smith_(drummer)>,
+        "Chris Randall"@en,
+        "Julee Cruise, Louis Tucci, Supa D.J. Dmittry, D.J. Silver"@en,
+        "Mark Rew, Keith Brown, Kerry Brown"@en,
+        "Mick Harvey, Nick Cave and Thomas Wydler"@en,
+        "Peele Wimberley"@en,
+        "Richard Hall"@en ;
+    ns1:writingCredits "yes"@en ;
+    foaf:name "Scream"@en .
+
+<http://dbpedia.org/resource/Top_14> ns1:caption "Locations of the 2015–16 Top 14 teams"@en ;
+    ns1:champion <http://dbpedia.org/resource/Stade_Français> ;
+    ns1:currentSeason 2015 ;
+    ns1:float "center"@en ;
+    ns1:founded 1892 ;
+    ns1:logo "Logo Top14 2012.png"@en ;
+    ns1:mostChamps <http://dbpedia.org/resource/Stade_Toulousain> ;
+    ns1:pixels 150 ;
+    ns1:season 2014 ;
+    ns1:sport <http://dbpedia.org/resource/Rugby_union> ;
+    ns1:teams 14 ;
+    ns1:title "Top 14"@en ;
+    ns1:width 395 .
+

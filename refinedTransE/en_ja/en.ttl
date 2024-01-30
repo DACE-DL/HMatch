@@ -1,0 +1,587 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/property/> .
+@prefix ns2: <http://dbpedia.org/property/presentus$> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/A&M_Records> ns1:country "United States"@en ;
+    ns1:distributor <http://dbpedia.org/resource/Interscope_Geffen_A&M_Records>,
+        <http://dbpedia.org/resource/Polydor_Records> ;
+    ns1:founder <http://dbpedia.org/resource/Herb_Alpert>,
+        <http://dbpedia.org/resource/Jerry_Moss> ;
+    ns1:genre "Various; leaned to jazz and pop music"@en ;
+    ns1:location <http://dbpedia.org/resource/Santa_Monica,_California> ;
+    ns1:parent <http://dbpedia.org/resource/Universal_Music_Group> ;
+    ns1:status "Defunct"@en .
+
+<http://dbpedia.org/resource/Born_This_Way_(album)> ns1:accessdate "2011-05-30"^^xsd:date,
+        "2011-07-08"^^xsd:date,
+        "2011-07-15"^^xsd:date,
+        "2011-08-08"^^xsd:date,
+        "2011-08-25"^^xsd:date,
+        "2011-09-07"^^xsd:date,
+        "2011-11-28"^^xsd:date,
+        "2012-01-03"^^xsd:date,
+        "2012-01-25"^^xsd:date,
+        "2012-01-28"^^xsd:date,
+        "2012-02-24"^^xsd:date,
+        "2012-04-25"^^xsd:date,
+        "2013-01-19"^^xsd:date,
+        "2013-07-31"^^xsd:date,
+        "2013-08-26"^^xsd:date,
+        "2013-09-03"^^xsd:date,
+        "2015-01-27"^^xsd:date,
+        "2015-03-19"^^xsd:date ;
+    ns1:align "left"@en ;
+    ns1:alt "Grayscale image of a bike against a black background. The bike has a blond woman's head at its front, whose right hand stretches out to the front tires of the bike. The words \"Born This Way\" is embossed above the image."@en ;
+    ns1:artist <http://dbpedia.org/resource/Lady_Gaga>,
+        "Lady Gaga"@en ;
+    ns1:autocat "yes"@en ;
+    ns1:award "Gold"@en,
+        "Platinum"@en ;
+    ns1:caption "Bruce Springsteen has prominent influences on the album, notably in songs such as \"Hair\" and \"The Edge of Glory\"."@en,
+        "In songs such as \"Marry the Night\" and \"Fashion of His Love\" Gaga seeks influence from Whitney Houston."@en,
+        "Madonna's influence can be heard throughout the album, especially in songs such as \"Born This Way\" and \"Scheiße\"."@en ;
+    ns1:certmonth 11 ;
+    ns1:certyear 2011,
+        2012,
+        2013 ;
+    ns1:ceryear 2011 ;
+    ns1:collapsed "yes"@en ;
+    ns1:cover "Born This Way album cover.png"@en ;
+    ns1:direction "horizontal"@en ;
+    ns1:extraColumn "Producer"@en ;
+    ns1:genre <http://dbpedia.org/resource/Dance-pop> ;
+    ns1:header "Major influences on Born This Way"@en ;
+    ns1:headline "Born This Way –"@en ;
+    ns1:id 1640 ;
+    ns1:image "Bundesarchiv Bild 183-1988-0719-38, Bruce Springsteen, Konzert in der DDR.jpg"@en,
+        "Madonna by David Shankbone.jpg"@en,
+        "Whitney Houston Welcome Heroes 7 cropped.JPEG"@en ;
+    ns1:language "Brazilian Portuguese"@en,
+        "Danish"@en,
+        "Dutch"@en,
+        "Finnish"@en,
+        "German"@en,
+        "Hungarian"@en ;
+    ns1:lastAlbum "The Remix"@en ;
+    ns1:length "204.0"^^<http://dbpedia.org/datatype/second>,
+        "206.0"^^<http://dbpedia.org/datatype/second>,
+        "215.0"^^<http://dbpedia.org/datatype/second>,
+        "216.0"^^<http://dbpedia.org/datatype/second>,
+        "219.0"^^<http://dbpedia.org/datatype/second>,
+        "225.0"^^<http://dbpedia.org/datatype/second>,
+        "226.0"^^<http://dbpedia.org/datatype/second>,
+        "230.0"^^<http://dbpedia.org/datatype/second>,
+        "231.0"^^<http://dbpedia.org/datatype/second>,
+        "245.0"^^<http://dbpedia.org/datatype/second>,
+        "247.0"^^<http://dbpedia.org/datatype/second>,
+        "248.0"^^<http://dbpedia.org/datatype/second>,
+        "249.0"^^<http://dbpedia.org/datatype/second>,
+        "251.0"^^<http://dbpedia.org/datatype/second>,
+        "252.0"^^<http://dbpedia.org/datatype/second>,
+        "253.0"^^<http://dbpedia.org/datatype/second>,
+        "254.0"^^<http://dbpedia.org/datatype/second>,
+        "256.0"^^<http://dbpedia.org/datatype/second>,
+        "258.0"^^<http://dbpedia.org/datatype/second>,
+        "259.0"^^<http://dbpedia.org/datatype/second>,
+        "260.0"^^<http://dbpedia.org/datatype/second>,
+        "261.0"^^<http://dbpedia.org/datatype/second>,
+        "262.0"^^<http://dbpedia.org/datatype/second>,
+        "265.0"^^<http://dbpedia.org/datatype/second>,
+        "307.0"^^<http://dbpedia.org/datatype/second>,
+        "308.0"^^<http://dbpedia.org/datatype/second>,
+        "315.0"^^<http://dbpedia.org/datatype/second>,
+        "317.0"^^<http://dbpedia.org/datatype/second>,
+        "318.0"^^<http://dbpedia.org/datatype/second>,
+        "321.0"^^<http://dbpedia.org/datatype/second>,
+        "328.0"^^<http://dbpedia.org/datatype/second>,
+        "332.0"^^<http://dbpedia.org/datatype/second>,
+        "335.0"^^<http://dbpedia.org/datatype/second>,
+        "341.0"^^<http://dbpedia.org/datatype/second>,
+        "358.0"^^<http://dbpedia.org/datatype/second>,
+        "440.0"^^<http://dbpedia.org/datatype/second>,
+        "575.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:misc "--02-11"^^xsd:gMonthDay ;
+    ns1:name "Born This Way"@en ;
+    ns1:nextAlbum "Born This Way: The Remix"@en ;
+    ns1:note "Bollywood Remix"@en,
+        "Cahill Major Radio Mix"@en,
+        "DJ White Shadow Mugler Remix"@en,
+        "Desi Hits! Bollywood Remix"@en,
+        "Electrolightz Remix"@en,
+        "Fernando Garibay Remix"@en,
+        "Jost & Naaf Remix"@en,
+        "LLG vs. GLG Radio Mix"@en,
+        "The Country Road Version"@en,
+        "Thomas Gold Remix"@en,
+        "UK Desi Remix"@en,
+        "Zedd Remix"@en,
+        "music video"@en,
+        "webisode)"@en ;
+    ns1:number 2,
+        3,
+        4 ;
+    ns1:quote "\"It's like Whitney, but imagine if Bruce Springsteen had a baby with Whitney Houston – that's what it is\", she said. \"And that was it! We made a baby. Finally. After all that fornication, miserably long and tedious, Fernando and I finally conceived.\""@en ;
+    ns1:recorded 2010 ;
+    ns1:refname "\"aria\""@en,
+        "\"bpi\""@en,
+        "\"riaa\""@en,
+        "\"riaj\""@en,
+        "\"rianz\""@en,
+        "\"snep\""@en ;
+    ns1:region "Australia"@en,
+        "Belgium"@en,
+        "Brazil"@en,
+        "Canada"@en,
+        "Denmark"@en,
+        "Europe"@en,
+        "Finland"@en,
+        "France"@en,
+        "GCC"@en,
+        "Germany"@en,
+        "Hungary"@en,
+        "India"@en,
+        "Indonesia"@en,
+        "Ireland"@en,
+        "Italy"@en,
+        "Japan"@en,
+        "Mexico"@en,
+        "New Zealand"@en,
+        "Norway"@en,
+        "Poland"@en,
+        "Portugal"@en,
+        "Russia"@en,
+        "Spain"@en,
+        "Sweden"@en,
+        "Switzerland"@en,
+        "United States"@en ;
+    ns1:released "2011-05-23"^^xsd:date ;
+    ns1:relyear 2011 ;
+    ns1:rev <http://dbpedia.org/resource/AllMusic>,
+        "Chicago Tribune"@en,
+        "MSN Music"@en,
+        "NME"@en,
+        "Q"@en,
+        "Rolling Stone"@en,
+        "Slant Magazine"@en,
+        "Spin"@en,
+        "The Independent"@en ;
+    ns1:rev10score 8 ;
+    ns1:rev6score 8 ;
+    ns1:salesamount 8000,
+        10000,
+        15000,
+        19338,
+        20000,
+        658554,
+        986847,
+        2400000 ;
+    ns1:source "—Lady Gaga, on \"Marry the Night\""@en ;
+    ns1:thisAlbum "Born This Way"@en ;
+    ns1:title <http://dbpedia.org/resource/Americano_(song)>,
+        <http://dbpedia.org/resource/Born_This_Way_(song)>,
+        <http://dbpedia.org/resource/Electric_Chapel>,
+        <http://dbpedia.org/resource/Government_Hooker>,
+        <http://dbpedia.org/resource/Hair_(Lady_Gaga_song)>,
+        <http://dbpedia.org/resource/Judas_(Lady_Gaga_song)>,
+        <http://dbpedia.org/resource/Marry_the_Night>,
+        <http://dbpedia.org/resource/Scheiße_(song)>,
+        <http://dbpedia.org/resource/The_Edge_of_Glory>,
+        <http://dbpedia.org/resource/You_and_I_(Lady_Gaga_song)>,
+        "Bad Kids"@en,
+        "Black Jesus + Amen Fashion"@en,
+        "Bloody Mary"@en,
+        "Born This Way"@en,
+        "Electric Chapel"@en,
+        "Fashion of His Love"@en,
+        "Gagavision"@en,
+        "Government Hooker"@en,
+        "Heavy Metal Lover"@en,
+        "Highway Unicorn"@en,
+        "Judas"@en,
+        "Marry the Night"@en,
+        "Scheiße"@en,
+        "The Edge of Glory"@en,
+        "You and I"@en ;
+    ns1:totalLength "1567.0"^^<http://dbpedia.org/datatype/second>,
+        "3667.0"^^<http://dbpedia.org/datatype/second>,
+        "4418.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:type "album"@en,
+        "studio"@en ;
+    ns1:width "30.0"^^<http://dbpedia.org/datatype/perCent>,
+        "(200 * 635 / 1050) round 0"@en ;
+    ns1:writer "Gaga"@en ;
+    ns1:writingCredits "yes"@en ;
+    foaf:name "Born This Way"@en .
+
+<http://dbpedia.org/resource/Defstar_Records> ns1:country <http://dbpedia.org/resource/Japan> ;
+    ns1:founded 1997,
+        2000,
+        "by"@en ;
+    ns1:genre <http://dbpedia.org/resource/Pop_music>,
+        <http://dbpedia.org/resource/Rock_music> ;
+    ns1:parent <http://dbpedia.org/resource/Sony_Music_Entertainment_Japan>,
+        <http://dbpedia.org/resource/Warner_Music_Group> .
+
+<http://dbpedia.org/resource/George_Papandreou> ns1:almaMater <http://dbpedia.org/resource/Amherst_College>,
+        <http://dbpedia.org/resource/London_School_of_Economics> ;
+    ns1:birthDate "1952-06-16"^^xsd:date ;
+    ns1:birthName "Georgios Andreas Papandreou Jr."@en ;
+    ns1:birthPlace <http://dbpedia.org/resource/Minnesota>,
+        <http://dbpedia.org/resource/Saint_Paul,_Minnesota>,
+        <http://dbpedia.org/resource/United_States> ;
+    ns1:children "Andreas"@en,
+        "Margarita-Elena"@en ;
+    ns1:deputy <http://dbpedia.org/resource/Theodoros_Pangalos_(politician)> ;
+    ns1:name "George Papandreou"@en ;
+    ns1:office <http://dbpedia.org/resource/Leader_of_the_Opposition_(Greece)>,
+        <http://dbpedia.org/resource/Minister_for_Foreign_Affairs_(Greece)>,
+        <http://dbpedia.org/resource/Ministry_of_Education,_Research_and_Religious_Affairs>,
+        <http://dbpedia.org/resource/Prime_Minister_of_Greece>,
+        "President of the Panhellenic Socialist Movement"@en ;
+    ns1:parents "Andreas Papandreou"@en ;
+    ns1:party "Movement of Democratic Socialists"@en,
+        "Panhellenic Socialist Movement"@en ;
+    ns1:predecessor <http://dbpedia.org/resource/António_Guterres>,
+        <http://dbpedia.org/resource/Apostolos_Kaklamanis>,
+        <http://dbpedia.org/resource/Costas_Simitis>,
+        <http://dbpedia.org/resource/Dimitrios_Fatouros>,
+        <http://dbpedia.org/resource/Dora_Bakoyannis>,
+        <http://dbpedia.org/resource/Kostas_Karamanlis>,
+        <http://dbpedia.org/resource/Theodoros_Pangalos_(politician)> ;
+    ns1:president <http://dbpedia.org/resource/Karolos_Papoulias> ;
+    ns1:primeminister <http://dbpedia.org/resource/Andreas_Papandreou>,
+        <http://dbpedia.org/resource/Costas_Simitis>,
+        <http://dbpedia.org/resource/Kostas_Karamanlis> ;
+    ns1:relations "Georgios Papandreou"@en ;
+    ns1:religion <http://dbpedia.org/resource/Greek_Orthodox_Church> ;
+    ns1:spouse "Ada Papapanou"@en,
+        "Eva Zissimidou"@en ;
+    ns1:successor <http://dbpedia.org/resource/Antonis_Samaras>,
+        <http://dbpedia.org/resource/Dimitrios_Droutsas>,
+        <http://dbpedia.org/resource/Evangelos_Venizelos>,
+        <http://dbpedia.org/resource/Gerasimos_Arsenis>,
+        <http://dbpedia.org/resource/Lucas_Papademos>,
+        <http://dbpedia.org/resource/Tassos_Yiannitsis>,
+        <http://dbpedia.org/resource/Vasileios_Kontogiannopoulos> ;
+    ns1:termEnd "1989-07-02"^^xsd:date,
+        "1996-09-25"^^xsd:date,
+        "2004-02-13"^^xsd:date,
+        "2009-10-06"^^xsd:date,
+        "2010-09-07"^^xsd:date,
+        "2011-11-11"^^xsd:date,
+        "2012-03-18"^^xsd:date ;
+    ns1:termStart "1988-06-22"^^xsd:date,
+        "1994-07-08"^^xsd:date,
+        "1999-02-18"^^xsd:date,
+        "2004-02-08"^^xsd:date,
+        "2004-03-10"^^xsd:date,
+        "2006-01-30"^^xsd:date,
+        "2009-10-06"^^xsd:date ;
+    ns1:title <http://dbpedia.org/resource/Minister_for_Foreign_Affairs_(Greece)>,
+        <http://dbpedia.org/resource/Ministry_of_Education,_Research_and_Religious_Affairs>,
+        <http://dbpedia.org/resource/Prime_Minister_of_Greece>,
+        "President of the Socialist International"@en ;
+    ns1:years 1988,
+        1994,
+        1999,
+        2004,
+        2006,
+        2009 ;
+    foaf:name "George Papandreou"@en .
+
+<http://dbpedia.org/resource/Nintendo_64> ns1:aka "Project Reality , Ultra 64"@en ;
+    ns1:align "right"@en ;
+    ns1:caption "A charcoal grey Nintendo 64 console and grey controller"@en ;
+    ns1:class "letterhead"@en ;
+    ns1:compatibility "None"@en ;
+    ns1:controllers <http://dbpedia.org/resource/Nintendo_64_controller> ;
+    ns1:cpu 64 ;
+    ns1:developer <http://dbpedia.org/resource/Nintendo_Integrated_Research_&_Development> ;
+    ns1:discontinued "--04-30"^^xsd:gMonthDay ;
+    ns1:generation <http://dbpedia.org/resource/Fifth_generation_of_video_game_consoles> ;
+    ns1:graphics "SGI RCP @ 62.5 MHz"@en ;
+    ns1:lifespan "–"@en ;
+    ns1:logo <http://dbpedia.org/resource/File:Nintendo_64_Logo.svg> ;
+    ns1:manufacturer <http://dbpedia.org/resource/Foxconn>,
+        <http://dbpedia.org/resource/Nintendo> ;
+    ns1:media <http://dbpedia.org/resource/Nintendo_64_Game_Pak>,
+        "Magnetic disc"@en ;
+    ns1:name "Nintendo 64"@en ;
+    ns1:predecessor <http://dbpedia.org/resource/Super_Nintendo_Entertainment_System> ;
+    ns1:quote "250.0"^^<http://dbpedia.org/datatype/second>,
+        "The big strength was the N64 cartridge. We use the cartridge almost like normal RAM and are streaming all level data, textures, animations, music, sound and even program code while the game is running. With the final size of the levels and the amount of textures, the RAM of the N64 never would have been even remotely enough to fit any individual level. So the cartridge technology really saved the day."@en ;
+    ns1:related <http://dbpedia.org/resource/64DD>,
+        <http://dbpedia.org/resource/List_of_Nintendo_64_games>,
+        <http://dbpedia.org/resource/Nintendo_64_Game_Pak>,
+        <http://dbpedia.org/resource/Nintendo_64_accessories>,
+        <http://dbpedia.org/resource/Nintendo_64_color_variants>,
+        <http://dbpedia.org/resource/Nintendo_64_programming_characteristics>,
+        <http://dbpedia.org/resource/Nintendo_64_technical_specifications>,
+        <http://dbpedia.org/resource/Rumble_Pak> ;
+    ns1:releasedate "--06-23"^^xsd:gMonthDay ;
+    ns1:service "Randnet"@en,
+        "SharkWire Online"@en ;
+    ns1:source "--08-23"^^xsd:gMonthDay,
+        "Factor 5, Bringing Indy to N64 at IGN"@en ;
+    ns1:storage 64 ;
+    ns1:successor <http://dbpedia.org/resource/GameCube> ;
+    ns1:title "Nintendo 64"@en ;
+    ns1:topgame "Super Mario 64, 11.62 million"@en ;
+    ns1:type <http://dbpedia.org/resource/Home_video_game_console> ;
+    ns1:unitsshipped "Americas: 20.63 million"@en,
+        "Europe & Australia: 6.75 million"@en,
+        "Japan: 5.54 million"@en,
+        "Worldwide: 32.93 million"@en ;
+    ns1:width "30.0"^^<http://dbpedia.org/datatype/perCent>,
+        30 ;
+    foaf:name "Nintendo 64"@en .
+
+<http://dbpedia.org/resource/Phil_Hill> ns1:after <http://dbpedia.org/resource/Carroll_Shelby>,
+        <http://dbpedia.org/resource/Graham_Hill>,
+        <http://dbpedia.org/resource/Lorenzo_Bandini>,
+        <http://dbpedia.org/resource/Ludovico_Scarfiotti>,
+        <http://dbpedia.org/resource/Olivier_Gendebien>,
+        <http://dbpedia.org/resource/Roy_Salvadori>,
+        "Phil Hill"@en ;
+    ns1:before <http://dbpedia.org/resource/Ivor_Bueb>,
+        <http://dbpedia.org/resource/Jack_Brabham>,
+        <http://dbpedia.org/resource/Olivier_Gendebien>,
+        <http://dbpedia.org/resource/Paul_Frère>,
+        <http://dbpedia.org/resource/Ron_Flockhart_(racing_driver)>,
+        "Phil Hill"@en ;
+    ns1:birthDate "1927-04-20"^^xsd:date ;
+    ns1:birthName "Philip Toll Hill, Jr."@en ;
+    ns1:birthPlace "Miami, Florida, U.S."@en ;
+    ns1:caption "Hill  and Jackie Stewart at the 1991 United States Grand Prix"@en ;
+    ns1:championships 1 ;
+    ns1:deathDate "2008-08-28"^^xsd:date ;
+    ns1:deathPlace "Salinas, California, U.S."@en ;
+    ns1:fastestLaps 6 ;
+    ns1:firstRace 1958 ;
+    ns1:firstWin 1960 ;
+    ns1:lastRace 1966 ;
+    ns1:lastWin 1961 ;
+    ns1:name "Phil Hill"@en ;
+    ns1:nationality "American"@en ;
+    ns1:podiums 16 ;
+    ns1:points 94 ;
+    ns1:poles 6 ;
+    ns1:races 51 ;
+    ns1:team\(s\)_ <http://dbpedia.org/resource/All_American_Racers>,
+        <http://dbpedia.org/resource/Automobili_Turismo_e_Sport>,
+        <http://dbpedia.org/resource/Cooper_Car_Company>,
+        <http://dbpedia.org/resource/Maserati_in_motorsport>,
+        <http://dbpedia.org/resource/Porsche_in_motorsport>,
+        <http://dbpedia.org/resource/Scuderia_Ferrari>,
+        <http://dbpedia.org/resource/Team_Lotus> ;
+    ns1:title <http://dbpedia.org/resource/List_of_24_Hours_of_Le_Mans_winners>,
+        <http://dbpedia.org/resource/List_of_Formula_One_World_Drivers'_Champions> ;
+    ns1:wins 3 ;
+    ns1:years <http://dbpedia.org/resource/Olivier_Gendebien>,
+        1958,
+        1961,
+        1962,
+        "–,"@en ;
+    foaf:name "Phil Hill"@en .
+
+<http://dbpedia.org/resource/Thessaloniki> ns1:aprHighC 19 ;
+    ns1:aprLowC 7.5e+00 ;
+    ns1:aprMeanC 1.33e+01 ;
+    ns1:aprPrecipitationDays 1.12e+01 ;
+    ns1:aprPrecipitationMm 3.75e+01 ;
+    ns1:aprRecordHighC 3.12e+01 ;
+    ns1:aprRecordLowC -1.2e+00 ;
+    ns1:aprSun 2.026e+02 ;
+    ns1:areaCode 231 ;
+    ns1:areaCodeType <http://dbpedia.org/resource/Telephone_numbers_in_Greece> ;
+    ns1:areaMetroKm 1.45562e+03 ;
+    ns1:areaTotalKm 19307 ;
+    ns1:areaUrbanKm 1.11703e+02 ;
+    ns1:augHighC 3.11e+01 ;
+    ns1:augLowC 1.83e+01 ;
+    ns1:augMeanC 2.47e+01 ;
+    ns1:augPrecipitationDays 4.7e+00 ;
+    ns1:augPrecipitationMm 2.04e+01 ;
+    ns1:augRecordHighC 3.82e+01 ;
+    ns1:augRecordLowC 8.2e+00 ;
+    ns1:augSun 2.958e+02 ;
+    ns1:blank1InfoSec "17200.0"^^<http://dbpedia.org/datatype/euro> ;
+    ns1:blank1NameSec "• Per capita"@en ;
+    ns1:blankInfoSec <http://dbpedia.org/resource/Demetrius_of_Thessaloniki>,
+        "1.99E10"^^<http://dbpedia.org/datatype/euro> ;
+    ns1:blankNameSec <http://dbpedia.org/resource/Patron_saint>,
+        "Gross metropolitan product"@en ;
+    ns1:caption "GDP of the Thessaloniki regional unit 2000–2011"@en ;
+    ns1:coordinatesDisplay "inline,title"@en ;
+    ns1:country "Thessaloniki"@en ;
+    ns1:date "August 2011"@en ;
+    ns1:decHighC 11 ;
+    ns1:decLowC 3 ;
+    ns1:decMeanC 7 ;
+    ns1:decPrecipitationDays 1.25e+01 ;
+    ns1:decPrecipitationMm 5.49e+01 ;
+    ns1:decRecordHighC 2.06e+01 ;
+    ns1:decRecordLowC -9.2e+00 ;
+    ns1:decSun 1.026e+02 ;
+    ns1:elevationMaxM 250 ;
+    ns1:elevationMinM 0 ;
+    ns1:establishedDate 315,
+        "Oct. 1912"@en ;
+    ns1:establishedTitle "Founded"@en,
+        "Incorporated"@en ;
+    ns1:febHighC 1.09e+01 ;
+    ns1:febLowC 2.2e+00 ;
+    ns1:febMeanC 6.6e+00 ;
+    ns1:febPrecipitationDays 1.13e+01 ;
+    ns1:febPrecipitationMm 38 ;
+    ns1:febRecordHighC 22 ;
+    ns1:febRecordLowC -1.28e+01 ;
+    ns1:febSun 1.026e+02 ;
+    ns1:flagLink "List of Greek flags"@en ;
+    ns1:gdp "1.9851E10"^^<http://dbpedia.org/datatype/euro> ;
+    ns1:gdpRank 2 ;
+    ns1:governmentType <http://dbpedia.org/resource/Mayor–council_government> ;
+    ns1:growth "-7.8"^^<http://dbpedia.org/datatype/perCent> ;
+    ns1:imageCaption "The White Tower of Thessaloniki"@en ;
+    ns1:imageFlag "Flag of Thessaloniki.svg"@en ;
+    ns1:imageSeal "Thessaloniki seal.svg"@en ;
+    ns1:imageSkyline "Thessaloniki White Tower and promanade.png"@en ;
+    ns1:janHighC 9.3e+00 ;
+    ns1:janLowC 1.3e+00 ;
+    ns1:janMeanC 5.3e+00 ;
+    ns1:janPrecipitationDays 1.18e+01 ;
+    ns1:janPrecipitationMm 3.68e+01 ;
+    ns1:janRecordHighC 2.08e+01 ;
+    ns1:janRecordLowC -14 ;
+    ns1:janSun 9.87e+01 ;
+    ns1:julHighC 3.15e+01 ;
+    ns1:julLowC 1.86e+01 ;
+    ns1:julMeanC 2.51e+01 ;
+    ns1:julPrecipitationDays 5.9e+00 ;
+    ns1:julPrecipitationMm 2.39e+01 ;
+    ns1:julRecordHighC 42 ;
+    ns1:julRecordLowC 9.6e+00 ;
+    ns1:julSun 3.257e+02 ;
+    ns1:junHighC 2.92e+01 ;
+    ns1:junLowC 1.63e+01 ;
+    ns1:junMeanC 2.28e+01 ;
+    ns1:junPrecipitationDays 7.5e+00 ;
+    ns1:junPrecipitationMm 2.96e+01 ;
+    ns1:junRecordHighC 3.98e+01 ;
+    ns1:junRecordLowC 6.8e+00 ;
+    ns1:junSun 2.964e+02 ;
+    ns1:labor 534800 ;
+    ns1:latd 4.065e+01 ;
+    ns1:leaderName <http://dbpedia.org/resource/Yiannis_Boutaris> ;
+    ns1:leaderParty "Independent"@en ;
+    ns1:leaderTitle <http://dbpedia.org/resource/List_of_mayors_of_Thessaloniki> ;
+    ns1:location "Thessaloniki"@en ;
+    ns1:longd 2.29e+01 ;
+    ns1:marHighC 1.42e+01 ;
+    ns1:marLowC 4.5e+00 ;
+    ns1:marMeanC 9.4e+00 ;
+    ns1:marPrecipitationDays 1.24e+01 ;
+    ns1:marPrecipitationMm 4.06e+01 ;
+    ns1:marRecordHighC 2.58e+01 ;
+    ns1:marRecordLowC -7.2e+00 ;
+    ns1:marSun 1.472e+02 ;
+    ns1:mayHighC 2.45e+01 ;
+    ns1:mayLowC 1.21e+01 ;
+    ns1:mayMeanC 1.83e+01 ;
+    ns1:mayPrecipitationDays 1.07e+01 ;
+    ns1:mayPrecipitationMm 4.44e+01 ;
+    ns1:mayRecordHighC 36 ;
+    ns1:mayRecordLowC 3 ;
+    ns1:maySun 2.527e+02 ;
+    ns1:metricFirst "yes"@en ;
+    ns1:name "Thessaloniki"@en ;
+    ns1:nativeName "Θεσσαλονίκη"@en ;
+    ns1:nickname "The Bride of the Thermaic Gulf"@en ;
+    ns1:novHighC 1.54e+01 ;
+    ns1:novLowC 6.8e+00 ;
+    ns1:novMeanC 1.11e+01 ;
+    ns1:novPrecipitationDays 1.15e+01 ;
+    ns1:novPrecipitationMm 5.44e+01 ;
+    ns1:novRecordHighC 2.66e+01 ;
+    ns1:novRecordLowC -6.2e+00 ;
+    ns1:novSun 1.178e+02 ;
+    ns1:octHighC 2.12e+01 ;
+    ns1:octLowC 1.08e+01 ;
+    ns1:octMeanC 16 ;
+    ns1:octPrecipitationDays 8.7e+00 ;
+    ns1:octPrecipitationMm 4.08e+01 ;
+    ns1:octRecordHighC 30 ;
+    ns1:octRecordLowC -1.4e+00 ;
+    ns1:octSun 1.655e+02 ;
+    ns1:partsStyle "para"@en ;
+    ns1:partsType <http://dbpedia.org/resource/Municipalities_and_communities_of_Greece> ;
+    ns1:perCapita "17200.0"^^<http://dbpedia.org/datatype/euro> ;
+    ns1:populationAsOf 2007 ;
+    ns1:populationDemonym <http://dbpedia.org/resource/Wikt:Thessalonian> ;
+    ns1:populationDensityMetroKm "auto"@en ;
+    ns1:populationDensityUrbanKm "auto"@en ;
+    ns1:populationMetro 1084001 ;
+    ns1:populationRank 2 ;
+    ns1:populationTotal 385406 ;
+    ns1:populationUrban 800764 ;
+    ns1:postalCode 53 ;
+    ns1:postalCodeType <http://dbpedia.org/resource/List_of_postal_codes_in_Greece> ;
+    ns2:asdefault "no"@en ;
+    ns1:pushpinMap "Greece"@en ;
+    ns1:registrationPlate <http://dbpedia.org/resource/Vehicle_registration_plates_of_Greece> ;
+    ns1:sepHighC 2.72e+01 ;
+    ns1:sepLowC 1.49e+01 ;
+    ns1:sepMeanC 2.11e+01 ;
+    ns1:sepPrecipitationDays 5.9e+00 ;
+    ns1:sepPrecipitationMm 2.74e+01 ;
+    ns1:sepRecordHighC 3.62e+01 ;
+    ns1:sepRecordLowC 2.6e+00 ;
+    ns1:sepSun 2.299e+02 ;
+    ns1:settlementType <http://dbpedia.org/resource/List_of_cities_in_Greece> ;
+    ns1:singleLine "yes"@en ;
+    ns1:source "World Meteorological Organization , NOAA (for data of sunshine hours)"@en ;
+    ns1:subdivisionName <http://dbpedia.org/resource/Central_Macedonia>,
+        <http://dbpedia.org/resource/Thessaloniki_(regional_unit)>,
+        22 ;
+    ns1:subdivisionType <http://dbpedia.org/resource/Administrative_regions_of_Greece>,
+        <http://dbpedia.org/resource/Geographic_regions_of_Greece>,
+        <http://dbpedia.org/resource/Regional_units_of_Greece>,
+        "Country"@en ;
+    ns1:timezone <http://dbpedia.org/resource/Eastern_European_Time> ;
+    ns1:timezone1Dst <http://dbpedia.org/resource/Eastern_European_Summer_Time> ;
+    ns1:totalType <http://dbpedia.org/resource/Municipality_of_Thessaloniki> ;
+    ns1:unemployment "30.2"^^<http://dbpedia.org/datatype/perCent> ;
+    ns1:usebelowbox "no"@en ;
+    ns1:utcOffset "+2"@en ;
+    ns1:utcOffset1Dst "+3"@en ;
+    ns1:yearHighC 2.04e+01 ;
+    ns1:yearLowC 9.7e+00 ;
+    ns1:yearMeanC 1.51e+01 ;
+    ns1:yearRecordHighC 42 ;
+    ns1:yearRecordLowC -14 ;
+    foaf:name "Thessaloniki"@en,
+        "Θεσσαλονίκη"@en ;
+    foaf:nick "The Bride of theThermaic Gulf"@en .
+
+<http://dbpedia.org/resource/University_of_Lisbon> ns1:campus "several locations, Lisbon Metropolitan Area"@en ;
+    ns1:city <http://dbpedia.org/resource/Lisbon> ;
+    ns1:colours "Black and white"@en ;
+    ns1:country <http://dbpedia.org/resource/Portugal> ;
+    ns1:established 1911,
+        2013 ;
+    ns1:faculty 3494 ;
+    ns1:latinName "Universitas Olisiponensis"@en ;
+    ns1:motto "de Lisboa para o Mundo"@en ;
+    ns1:name "University of Lisbon"@en ;
+    ns1:nativeName "Universidade de Lisboa"@en ;
+    ns1:postgrad 11814 ;
+    ns1:rector <http://dbpedia.org/resource/António_da_Cruz_Serra> ;
+    ns1:staff 2425 ;
+    ns1:students 46989 ;
+    ns1:type <http://dbpedia.org/resource/Public_university> ;
+    ns1:undergrad 35175 ;
+    foaf:name "Universidade de Lisboa"@en,
+        "University of Lisbon"@en,
+        "Universitas Olisiponensis"@la .
+
