@@ -1,0 +1,318 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://dbpedia.org/resource/AEK_Athens_F.C.> owl:sameAs <http://zh.dbpedia.org/resource/AEK雅典足球會> .
+
+<http://dbpedia.org/resource/ARM_Holdings> owl:sameAs <http://zh.dbpedia.org/resource/ARM_Holdings> .
+
+<http://dbpedia.org/resource/Abaqa_Khan> owl:sameAs <http://zh.dbpedia.org/resource/阿八哈> .
+
+<http://dbpedia.org/resource/Aksel_V._Johannesen> owl:sameAs <http://zh.dbpedia.org/resource/阿克塞爾·V·約翰森> .
+
+<http://dbpedia.org/resource/Alexis_of_Russia> owl:sameAs <http://zh.dbpedia.org/resource/阿列克谢·米哈伊洛维奇·罗曼诺夫> .
+
+<http://dbpedia.org/resource/Apache_License> owl:sameAs <http://zh.dbpedia.org/resource/Apache许可证> .
+
+<http://dbpedia.org/resource/Arsenal_F.C.> owl:sameAs <http://zh.dbpedia.org/resource/阿森纳足球俱乐部> .
+
+<http://dbpedia.org/resource/Arthur_Conan_Doyle> owl:sameAs <http://zh.dbpedia.org/resource/阿瑟·柯南·道尔> .
+
+<http://dbpedia.org/resource/Atlético_Madrid> owl:sameAs <http://zh.dbpedia.org/resource/马德里竞技俱乐部> .
+
+<http://dbpedia.org/resource/Barnes_Railway_Bridge> owl:sameAs <http://zh.dbpedia.org/resource/巴恩斯铁路桥> .
+
+<http://dbpedia.org/resource/Battle_of_Zama> owl:sameAs <http://zh.dbpedia.org/resource/札馬戰役> .
+
+<http://dbpedia.org/resource/Ben_Affleck> owl:sameAs <http://zh.dbpedia.org/resource/本·阿弗莱克> .
+
+<http://dbpedia.org/resource/Beverly_Hills,_New_South_Wales> owl:sameAs <http://zh.dbpedia.org/resource/比華利山_(澳洲)> .
+
+<http://dbpedia.org/resource/Bill_Gates> owl:sameAs <http://zh.dbpedia.org/resource/比尔·盖茨> .
+
+<http://dbpedia.org/resource/Boeing_747> owl:sameAs <http://zh.dbpedia.org/resource/波音747> .
+
+<http://dbpedia.org/resource/Bounnhang_Vorachith> owl:sameAs <http://zh.dbpedia.org/resource/本扬·沃拉吉> .
+
+<http://dbpedia.org/resource/Brewster_Kahle> owl:sameAs <http://zh.dbpedia.org/resource/布魯斯特·卡利> .
+
+<http://dbpedia.org/resource/Buffy_the_Vampire_Slayer_(season_4)> owl:sameAs <http://zh.dbpedia.org/resource/吸血鬼猎人巴菲_(第四季)> .
+
+<http://dbpedia.org/resource/CONMEBOL> owl:sameAs <http://zh.dbpedia.org/resource/南美洲足球協會> .
+
+<http://dbpedia.org/resource/California> owl:sameAs <http://zh.dbpedia.org/resource/加利福尼亚州> .
+
+<http://dbpedia.org/resource/Ch'ien_Mu> owl:sameAs <http://zh.dbpedia.org/resource/錢穆> .
+
+<http://dbpedia.org/resource/Charles_the_Bald> owl:sameAs <http://zh.dbpedia.org/resource/秃头查理> .
+
+<http://dbpedia.org/resource/City_of_Canterbury_(New_South_Wales)> owl:sameAs <http://zh.dbpedia.org/resource/坎特伯雷市_(新南威爾斯州)> .
+
+<http://dbpedia.org/resource/City_of_Ipswich> owl:sameAs <http://zh.dbpedia.org/resource/伊普斯威奇市政府> .
+
+<http://dbpedia.org/resource/Clube_Atlético_Mineiro> owl:sameAs <http://zh.dbpedia.org/resource/米内罗竞技俱乐部> .
+
+<http://dbpedia.org/resource/Connecticut> owl:sameAs <http://zh.dbpedia.org/resource/康乃狄克州> .
+
+<http://dbpedia.org/resource/Cuba> owl:sameAs <http://zh.dbpedia.org/resource/古巴> .
+
+<http://dbpedia.org/resource/Dakar> owl:sameAs <http://zh.dbpedia.org/resource/達喀爾> .
+
+<http://dbpedia.org/resource/Daniel_Faraday> owl:sameAs <http://zh.dbpedia.org/resource/丹尼爾·法拉第> .
+
+<http://dbpedia.org/resource/Derek_Lowe> owl:sameAs <http://zh.dbpedia.org/resource/德瑞克·洛夫> .
+
+<http://dbpedia.org/resource/Diego_Alves> owl:sameAs <http://zh.dbpedia.org/resource/迭戈·阿尔维斯> .
+
+<http://dbpedia.org/resource/Disneyland> owl:sameAs <http://zh.dbpedia.org/resource/迪士尼樂園> .
+
+<http://dbpedia.org/resource/Donald_III_of_Scotland> owl:sameAs <http://zh.dbpedia.org/resource/唐纳德三世_(苏格兰)> .
+
+<http://dbpedia.org/resource/Donald_Knuth> owl:sameAs <http://zh.dbpedia.org/resource/高德纳> .
+
+<http://dbpedia.org/resource/Ebro> owl:sameAs <http://zh.dbpedia.org/resource/埃布羅河> .
+
+<http://dbpedia.org/resource/Edward_the_Elder> owl:sameAs <http://zh.dbpedia.org/resource/長者愛德華> .
+
+<http://dbpedia.org/resource/Embraer> owl:sameAs <http://zh.dbpedia.org/resource/巴西航空工业公司> .
+
+<http://dbpedia.org/resource/England> owl:sameAs <http://zh.dbpedia.org/resource/英格兰> .
+
+<http://dbpedia.org/resource/Ethiopia> owl:sameAs <http://zh.dbpedia.org/resource/埃塞俄比亚> .
+
+<http://dbpedia.org/resource/FC_Dnipro_Dnipropetrovsk> owl:sameAs <http://zh.dbpedia.org/resource/第聶伯羅彼得羅夫斯克足球俱樂部> .
+
+<http://dbpedia.org/resource/FC_Utrecht> owl:sameAs <http://zh.dbpedia.org/resource/烏德勒支足球會> .
+
+<http://dbpedia.org/resource/FC_Zenit_Saint_Petersburg> owl:sameAs <http://zh.dbpedia.org/resource/圣彼得堡泽尼特足球俱乐部> .
+
+<http://dbpedia.org/resource/FIFA> owl:sameAs <http://zh.dbpedia.org/resource/国际足球联合会> .
+
+<http://dbpedia.org/resource/Facebook> owl:sameAs <http://zh.dbpedia.org/resource/Facebook> .
+
+<http://dbpedia.org/resource/Ferencvárosi_TC> owl:sameAs <http://zh.dbpedia.org/resource/費倫斯華路士體育會> .
+
+<http://dbpedia.org/resource/Fidel_Castro> owl:sameAs <http://zh.dbpedia.org/resource/菲德尔·卡斯特罗> .
+
+<http://dbpedia.org/resource/France> owl:sameAs <http://zh.dbpedia.org/resource/法国> .
+
+<http://dbpedia.org/resource/French_language> owl:sameAs <http://zh.dbpedia.org/resource/法语> .
+
+<http://dbpedia.org/resource/GNK_Dinamo_Zagreb> owl:sameAs <http://zh.dbpedia.org/resource/萨格勒布迪纳摩足球俱乐部> .
+
+<http://dbpedia.org/resource/George_Zweig> owl:sameAs <http://zh.dbpedia.org/resource/喬治·茨威格> .
+
+<http://dbpedia.org/resource/Grêmio_Foot-Ball_Porto_Alegrense> owl:sameAs <http://zh.dbpedia.org/resource/甘美奧阿雷格里港足球會> .
+
+<http://dbpedia.org/resource/Hewlett-Packard> owl:sameAs <http://zh.dbpedia.org/resource/惠普> .
+
+<http://dbpedia.org/resource/Hong_Kong_Disneyland> owl:sameAs <http://zh.dbpedia.org/resource/香港迪士尼樂園> .
+
+<http://dbpedia.org/resource/Hoppers_Crossing,_Victoria> owl:sameAs <http://zh.dbpedia.org/resource/霍珀森> .
+
+<http://dbpedia.org/resource/Illinois> owl:sameAs <http://zh.dbpedia.org/resource/伊利诺伊州> .
+
+<http://dbpedia.org/resource/India> owl:sameAs <http://zh.dbpedia.org/resource/印度> .
+
+<http://dbpedia.org/resource/International_Electrotechnical_Commission> owl:sameAs <http://zh.dbpedia.org/resource/国际电工委员会> .
+
+<http://dbpedia.org/resource/Ivan_Goremykin> owl:sameAs <http://zh.dbpedia.org/resource/伊万·洛吉诺维奇·戈列梅金> .
+
+<http://dbpedia.org/resource/Jake_Peavy> owl:sameAs <http://zh.dbpedia.org/resource/傑克·皮維> .
+
+<http://dbpedia.org/resource/Japan> owl:sameAs <http://zh.dbpedia.org/resource/日本> .
+
+<http://dbpedia.org/resource/John_W._Thompson> owl:sameAs <http://zh.dbpedia.org/resource/约翰·W·汤普森> .
+
+<http://dbpedia.org/resource/Jules_Verne> owl:sameAs <http://zh.dbpedia.org/resource/儒勒·凡尔纳> .
+
+<http://dbpedia.org/resource/Just_Dance_(video_game_series)> owl:sameAs <http://zh.dbpedia.org/resource/舞力全开系列> .
+
+<http://dbpedia.org/resource/Kendall_Jenner> owl:sameAs <http://zh.dbpedia.org/resource/坎達兒·珍娜> .
+
+<http://dbpedia.org/resource/Let_Go_(Avril_Lavigne_album)> owl:sameAs <http://zh.dbpedia.org/resource/展翅高飛> .
+
+<http://dbpedia.org/resource/Life_(Me_no_Mae_no_Mukō_e)> owl:sameAs <http://zh.dbpedia.org/resource/LIFE～朝著眼前的方向～> .
+
+<http://dbpedia.org/resource/Liverpool_F.C.> owl:sameAs <http://zh.dbpedia.org/resource/利物浦足球俱乐部> .
+
+<http://dbpedia.org/resource/Logan_City> owl:sameAs <http://zh.dbpedia.org/resource/洛根市_(昆士蘭州)> .
+
+<http://dbpedia.org/resource/Lost_(season_3)> owl:sameAs <http://zh.dbpedia.org/resource/迷失_(第三季)> .
+
+<http://dbpedia.org/resource/Lost_(season_5)> owl:sameAs <http://zh.dbpedia.org/resource/迷失_(第五季)> .
+
+<http://dbpedia.org/resource/Louis_the_German> owl:sameAs <http://zh.dbpedia.org/resource/日耳曼人路易> .
+
+<http://dbpedia.org/resource/Lund_University> owl:sameAs <http://zh.dbpedia.org/resource/隆德大学> .
+
+<http://dbpedia.org/resource/Magnus_IV_of_Sweden> owl:sameAs <http://zh.dbpedia.org/resource/马格努斯七世> .
+
+<http://dbpedia.org/resource/Maine> owl:sameAs <http://zh.dbpedia.org/resource/缅因州> .
+
+<http://dbpedia.org/resource/Malaysia> owl:sameAs <http://zh.dbpedia.org/resource/马来西亚> .
+
+<http://dbpedia.org/resource/Manchester_City_F.C.> owl:sameAs <http://zh.dbpedia.org/resource/曼彻斯特城足球俱乐部> .
+
+<http://dbpedia.org/resource/Massachusetts_Institute_of_Technology> owl:sameAs <http://zh.dbpedia.org/resource/麻省理工学院> .
+
+<http://dbpedia.org/resource/Mercedes-Benz> owl:sameAs <http://zh.dbpedia.org/resource/梅賽德斯-賓士> .
+
+<http://dbpedia.org/resource/Mexico> owl:sameAs <http://zh.dbpedia.org/resource/墨西哥> .
+
+<http://dbpedia.org/resource/Michel_Platini> owl:sameAs <http://zh.dbpedia.org/resource/米歇尔·普拉蒂尼> .
+
+<http://dbpedia.org/resource/Mississippi_River> owl:sameAs <http://zh.dbpedia.org/resource/密西西比河> .
+
+<http://dbpedia.org/resource/Mohammed_VI_of_Morocco> owl:sameAs <http://zh.dbpedia.org/resource/穆罕默德六世_(摩洛哥)> .
+
+<http://dbpedia.org/resource/Monarchy_of_Sweden> owl:sameAs <http://zh.dbpedia.org/resource/瑞典君主> .
+
+<http://dbpedia.org/resource/Murray_Gell-Mann> owl:sameAs <http://zh.dbpedia.org/resource/默里·盖尔曼> .
+
+<http://dbpedia.org/resource/Myanmar> owl:sameAs <http://zh.dbpedia.org/resource/缅甸> .
+
+<http://dbpedia.org/resource/National_Revolutionary_Army> owl:sameAs <http://zh.dbpedia.org/resource/國民革命軍> .
+
+<http://dbpedia.org/resource/New_Moon_(novel)> owl:sameAs <http://zh.dbpedia.org/resource/暮光之城：新月> .
+
+<http://dbpedia.org/resource/New_York_City> owl:sameAs <http://zh.dbpedia.org/resource/纽约> .
+
+<http://dbpedia.org/resource/New_York_State_Assembly> owl:sameAs <http://zh.dbpedia.org/resource/纽约州众议院> .
+
+<http://dbpedia.org/resource/New_York_State_Capitol> owl:sameAs <http://zh.dbpedia.org/resource/纽约州议会大厦> .
+
+<http://dbpedia.org/resource/New_York_State_Senate> owl:sameAs <http://zh.dbpedia.org/resource/纽约州参议院> .
+
+<http://dbpedia.org/resource/Newark,_New_Jersey> owl:sameAs <http://zh.dbpedia.org/resource/紐華克_(新澤西州)> .
+
+<http://dbpedia.org/resource/Ngô_dynasty> owl:sameAs <http://zh.dbpedia.org/resource/吳朝> .
+
+<http://dbpedia.org/resource/North_Platte_River> owl:sameAs <http://zh.dbpedia.org/resource/北普拉特河> .
+
+<http://dbpedia.org/resource/Olaf_II_of_Denmark> owl:sameAs <http://zh.dbpedia.org/resource/奥拉夫二世·哈康松> .
+
+<http://dbpedia.org/resource/Ollanta_Humala> owl:sameAs <http://zh.dbpedia.org/resource/奥良塔·乌马拉> .
+
+<http://dbpedia.org/resource/Oracle_Corporation> owl:sameAs <http://zh.dbpedia.org/resource/甲骨文公司> .
+
+<http://dbpedia.org/resource/Oscar_II_of_Sweden> owl:sameAs <http://zh.dbpedia.org/resource/奧斯卡二世> .
+
+<http://dbpedia.org/resource/Paris_Saint-Germain_F.C.> owl:sameAs <http://zh.dbpedia.org/resource/巴黎圣日耳曼足球俱乐部> .
+
+<http://dbpedia.org/resource/Party_of_the_European_Left> owl:sameAs <http://zh.dbpedia.org/resource/歐洲左派黨> .
+
+<http://dbpedia.org/resource/Pearl_Harbor_(film)> owl:sameAs <http://zh.dbpedia.org/resource/珍珠港_(電影)> .
+
+<http://dbpedia.org/resource/Peter_the_Great> owl:sameAs <http://zh.dbpedia.org/resource/彼得大帝> .
+
+<http://dbpedia.org/resource/Pratt_&_Whitney_JT9D> owl:sameAs <http://zh.dbpedia.org/resource/普惠JT9D> .
+
+<http://dbpedia.org/resource/Raúl_Castro> owl:sameAs <http://zh.dbpedia.org/resource/劳尔·卡斯特罗> .
+
+<http://dbpedia.org/resource/Republican_Party_(United_States)> owl:sameAs <http://zh.dbpedia.org/resource/共和黨_(美國)> .
+
+<http://dbpedia.org/resource/Return_to_the_Nightosphere_/_Daddy's_Little_Monster> owl:sameAs <http://zh.dbpedia.org/resource/重返惡夜魔境/爸爸的小怪獸> .
+
+<http://dbpedia.org/resource/Rhode_Island> owl:sameAs <http://zh.dbpedia.org/resource/羅德島州> .
+
+<http://dbpedia.org/resource/Rhythm_and_blues> owl:sameAs <http://zh.dbpedia.org/resource/节奏布鲁斯> .
+
+<http://dbpedia.org/resource/River_Thames> owl:sameAs <http://zh.dbpedia.org/resource/泰晤士河> .
+
+<http://dbpedia.org/resource/Rogers_Centre> owl:sameAs <http://zh.dbpedia.org/resource/羅渣士中心> .
+
+<http://dbpedia.org/resource/Rupert_Murdoch> owl:sameAs <http://zh.dbpedia.org/resource/鲁伯特·默多克> .
+
+<http://dbpedia.org/resource/Russia> owl:sameAs <http://zh.dbpedia.org/resource/俄罗斯> .
+
+<http://dbpedia.org/resource/Russians_in_China> owl:sameAs <http://zh.dbpedia.org/resource/中国俄罗斯族> .
+
+<http://dbpedia.org/resource/S.S.D._Parma_Calcio_1913> owl:sameAs <http://zh.dbpedia.org/resource/帕尔玛足球俱乐部> .
+
+<http://dbpedia.org/resource/S.S._Lazio> owl:sameAs <http://zh.dbpedia.org/resource/拉素體育會> .
+
+<http://dbpedia.org/resource/San_Francisco> owl:sameAs <http://zh.dbpedia.org/resource/旧金山> .
+
+<http://dbpedia.org/resource/Santos_FC> owl:sameAs <http://zh.dbpedia.org/resource/桑托斯足球俱乐部> .
+
+<http://dbpedia.org/resource/Scotland> owl:sameAs <http://zh.dbpedia.org/resource/蘇格蘭> .
+
+<http://dbpedia.org/resource/Senegal> owl:sameAs <http://zh.dbpedia.org/resource/塞内加尔> .
+
+<http://dbpedia.org/resource/Seqenenre_Tao> owl:sameAs <http://zh.dbpedia.org/resource/塞格嫩拉·陶> .
+
+<http://dbpedia.org/resource/Shandong_Luneng_Taishan_F.C.> owl:sameAs <http://zh.dbpedia.org/resource/山东鲁能泰山足球俱乐部> .
+
+<http://dbpedia.org/resource/Shinroku_Momose> owl:sameAs <http://zh.dbpedia.org/resource/百瀨晉六> .
+
+<http://dbpedia.org/resource/Shire_of_Etheridge> owl:sameAs <http://zh.dbpedia.org/resource/伊瑟力治郡政府> .
+
+<http://dbpedia.org/resource/Shire_of_McKinlay> owl:sameAs <http://zh.dbpedia.org/resource/麥金利郡政府> .
+
+<http://dbpedia.org/resource/Shonda_Rhimes> owl:sameAs <http://zh.dbpedia.org/resource/珊达·莱梅斯> .
+
+<http://dbpedia.org/resource/Source_(game_engine)> owl:sameAs <http://zh.dbpedia.org/resource/Source引擎> .
+
+<http://dbpedia.org/resource/Southern_Han> owl:sameAs <http://zh.dbpedia.org/resource/南汉> .
+
+<http://dbpedia.org/resource/Spanish_Air_Force> owl:sameAs <http://zh.dbpedia.org/resource/西班牙空军> .
+
+<http://dbpedia.org/resource/Spanish_Navy> owl:sameAs <http://zh.dbpedia.org/resource/西班牙海軍> .
+
+<http://dbpedia.org/resource/Stanford_University> owl:sameAs <http://zh.dbpedia.org/resource/史丹佛大學> .
+
+<http://dbpedia.org/resource/Steam_(software)> owl:sameAs <http://zh.dbpedia.org/resource/Steam> .
+
+<http://dbpedia.org/resource/Subaru_Sambar> owl:sameAs <http://zh.dbpedia.org/resource/速霸陸Sambar> .
+
+<http://dbpedia.org/resource/Sun_Microsystems> owl:sameAs <http://zh.dbpedia.org/resource/昇陽電腦> .
+
+<http://dbpedia.org/resource/Sweden> owl:sameAs <http://zh.dbpedia.org/resource/瑞典> .
+
+<http://dbpedia.org/resource/Swiss_Football_Association> owl:sameAs <http://zh.dbpedia.org/resource/瑞士足球協會> .
+
+<http://dbpedia.org/resource/Sydney_central_business_district> owl:sameAs <http://zh.dbpedia.org/resource/悉尼商業中心區> .
+
+<http://dbpedia.org/resource/Taiping_Island> owl:sameAs <http://zh.dbpedia.org/resource/太平島> .
+
+<http://dbpedia.org/resource/Thailand> owl:sameAs <http://zh.dbpedia.org/resource/泰国> .
+
+<http://dbpedia.org/resource/The_Bourne_Supremacy> owl:sameAs <http://zh.dbpedia.org/resource/神鬼疑雲> .
+
+<http://dbpedia.org/resource/The_Diary_of_Alicia_Keys> owl:sameAs <http://zh.dbpedia.org/resource/琴韵心声> .
+
+<http://dbpedia.org/resource/The_Hound_of_the_Baskervilles> owl:sameAs <http://zh.dbpedia.org/resource/巴斯克維爾的獵犬> .
+
+<http://dbpedia.org/resource/True_Blood_(season_2)> owl:sameAs <http://zh.dbpedia.org/resource/真爱如血_(第二季)> .
+
+<http://dbpedia.org/resource/United_States> owl:sameAs <http://zh.dbpedia.org/resource/美国> .
+
+<http://dbpedia.org/resource/United_States_House_of_Representatives> owl:sameAs <http://zh.dbpedia.org/resource/美国众议院> .
+
+<http://dbpedia.org/resource/United_States_Navy> owl:sameAs <http://zh.dbpedia.org/resource/美國海軍> .
+
+<http://dbpedia.org/resource/Venice_Film_Festival> owl:sameAs <http://zh.dbpedia.org/resource/威尼斯电影节> .
+
+<http://dbpedia.org/resource/VfB_Stuttgart> owl:sameAs <http://zh.dbpedia.org/resource/斯图加特足球俱乐部> .
+
+<http://dbpedia.org/resource/Vietnam> owl:sameAs <http://zh.dbpedia.org/resource/越南> .
+
+<http://dbpedia.org/resource/Villarreal_CF> owl:sameAs <http://zh.dbpedia.org/resource/比利亚雷亚尔足球俱乐部> .
+
+<http://dbpedia.org/resource/Vincent_Nichols> owl:sameAs <http://zh.dbpedia.org/resource/文森特·尼科尔斯> .
+
+<http://dbpedia.org/resource/Vladimir_Kokovtsov> owl:sameAs <http://zh.dbpedia.org/resource/弗拉基米尔·尼古拉耶维奇·科科夫佐夫> .
+
+<http://dbpedia.org/resource/Volga_River> owl:sameAs <http://zh.dbpedia.org/resource/伏尔加河> .
+
+<http://dbpedia.org/resource/Warner_Bros.> owl:sameAs <http://zh.dbpedia.org/resource/华纳兄弟> .
+
+<http://dbpedia.org/resource/Wesleyan_University> owl:sameAs <http://zh.dbpedia.org/resource/衛斯理大學> .
+
+<http://dbpedia.org/resource/Williams_Landing,_Victoria> owl:sameAs <http://zh.dbpedia.org/resource/威蓝町> .
+
+<http://dbpedia.org/resource/Windows_95> owl:sameAs <http://zh.dbpedia.org/resource/Windows_95> .
+
+<http://dbpedia.org/resource/Windows_XP> owl:sameAs <http://zh.dbpedia.org/resource/Windows_XP> .
+
+<http://dbpedia.org/resource/Æthelred_of_Wessex> owl:sameAs <http://zh.dbpedia.org/resource/埃塞尔雷德_(威塞克斯)> .
+
