@@ -1,0 +1,86 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://dbpedia.org/resource/ASVEL_Basket> owl:sameAs <http://fr.dbpedia.org/resource/ASVEL_Lyon-Villeurbanne> .
+
+<http://dbpedia.org/resource/Abdel_Fattah_el-Sisi> owl:sameAs <http://fr.dbpedia.org/resource/Abdel_Fattah_al-Sissi> .
+
+<http://dbpedia.org/resource/Bureau_for_Paranormal_Research_and_Defense> owl:sameAs <http://fr.dbpedia.org/resource/BPRD> .
+
+<http://dbpedia.org/resource/Centre-Val_de_Loire> owl:sameAs <http://fr.dbpedia.org/resource/Centre-Val_de_Loire> .
+
+<http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> owl:sameAs <http://fr.dbpedia.org/resource/République_démocratique_du_Congo> .
+
+<http://dbpedia.org/resource/Eastern_Conference_(NHL)> owl:sameAs <http://fr.dbpedia.org/resource/Association_de_l'Est_de_la_LNH> .
+
+<http://dbpedia.org/resource/Fatah> owl:sameAs <http://fr.dbpedia.org/resource/Fatah> .
+
+<http://dbpedia.org/resource/Fatos_Nano> owl:sameAs <http://fr.dbpedia.org/resource/Fatos_Nano> .
+
+<http://dbpedia.org/resource/France> owl:sameAs <http://fr.dbpedia.org/resource/France> .
+
+<http://dbpedia.org/resource/Fransaskois> owl:sameAs <http://fr.dbpedia.org/resource/Fransaskois> .
+
+<http://dbpedia.org/resource/Franz_I,_Prince_of_Liechtenstein> owl:sameAs <http://fr.dbpedia.org/resource/François_Ier_de_Liechtenstein> .
+
+<http://dbpedia.org/resource/Gianfranco_Terenzi> owl:sameAs <http://fr.dbpedia.org/resource/Gianfranco_Terenzi> .
+
+<http://dbpedia.org/resource/Hans-Adam_II,_Prince_of_Liechtenstein> owl:sameAs <http://fr.dbpedia.org/resource/Hans-Adam_II> .
+
+<http://dbpedia.org/resource/Hellboy> owl:sameAs <http://fr.dbpedia.org/resource/Hellboy_(comics)> .
+
+<http://dbpedia.org/resource/Hellenic_Parliament> owl:sameAs <http://fr.dbpedia.org/resource/Parlement_grec> .
+
+<http://dbpedia.org/resource/Helloween> owl:sameAs <http://fr.dbpedia.org/resource/Helloween> .
+
+<http://dbpedia.org/resource/John_Bel_Edwards> owl:sameAs <http://fr.dbpedia.org/resource/John_Bel_Edwards> .
+
+<http://dbpedia.org/resource/Joseph_Kasa-Vubu> owl:sameAs <http://fr.dbpedia.org/resource/Joseph_Kasa-Vubu> .
+
+<http://dbpedia.org/resource/Kai_Hansen> owl:sameAs <http://fr.dbpedia.org/resource/Kai_Hansen> .
+
+<http://dbpedia.org/resource/Keeper_of_the_Seven_Keys:_Part_II> owl:sameAs <http://fr.dbpedia.org/resource/Keeper_of_the_Seven_Keys_Part_2> .
+
+<http://dbpedia.org/resource/Lazăr_Comănescu> owl:sameAs <http://fr.dbpedia.org/resource/Lazăr_Comănescu> .
+
+<http://dbpedia.org/resource/Leicester_Tigers> owl:sameAs <http://fr.dbpedia.org/resource/Leicester_Tigers> .
+
+<http://dbpedia.org/resource/Liechtenstein> owl:sameAs <http://fr.dbpedia.org/resource/Liechtenstein> .
+
+<http://dbpedia.org/resource/Liz_Sherman> owl:sameAs <http://fr.dbpedia.org/resource/Liz_Sherman> .
+
+<http://dbpedia.org/resource/Loir-et-Cher> owl:sameAs <http://fr.dbpedia.org/resource/Loir-et-Cher> .
+
+<http://dbpedia.org/resource/Mahmoud_Abbas> owl:sameAs <http://fr.dbpedia.org/resource/Mahmoud_Abbas> .
+
+<http://dbpedia.org/resource/Malmö_FF> owl:sameAs <http://fr.dbpedia.org/resource/Malmö_FF> .
+
+<http://dbpedia.org/resource/Margrethe_II_of_Denmark> owl:sameAs <http://fr.dbpedia.org/resource/Margrethe_II> .
+
+<http://dbpedia.org/resource/Moby> owl:sameAs <http://fr.dbpedia.org/resource/Moby> .
+
+<http://dbpedia.org/resource/New_York_Islanders> owl:sameAs <http://fr.dbpedia.org/resource/Islanders_de_New_York> .
+
+<http://dbpedia.org/resource/Nick_Cave> owl:sameAs <http://fr.dbpedia.org/resource/Nick_Cave> .
+
+<http://dbpedia.org/resource/Olympique_Lyonnais_(Ladies)> owl:sameAs <http://fr.dbpedia.org/resource/Olympique_lyonnais_(féminines)> .
+
+<http://dbpedia.org/resource/Pays_de_la_Loire> owl:sameAs <http://fr.dbpedia.org/resource/Pays_de_la_Loire> .
+
+<http://dbpedia.org/resource/Prokopis_Pavlopoulos> owl:sameAs <http://fr.dbpedia.org/resource/Prokópis_Pavlópoulos> .
+
+<http://dbpedia.org/resource/Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Québec> .
+
+<http://dbpedia.org/resource/Rexhep_Meidani> owl:sameAs <http://fr.dbpedia.org/resource/Rexhep_Mejdani> .
+
+<http://dbpedia.org/resource/Ritchie_Blackmore> owl:sameAs <http://fr.dbpedia.org/resource/Ritchie_Blackmore> .
+
+<http://dbpedia.org/resource/Sammarinese_Christian_Democratic_Party> owl:sameAs <http://fr.dbpedia.org/resource/Parti_démocrate-chrétien_saint-marinais> .
+
+<http://dbpedia.org/resource/Scream_2> owl:sameAs <http://fr.dbpedia.org/resource/Scream_2> .
+
+<http://dbpedia.org/resource/South_Africa> owl:sameAs <http://fr.dbpedia.org/resource/Afrique_du_Sud> .
+
+<http://dbpedia.org/resource/United_States_House_of_Representatives> owl:sameAs <http://fr.dbpedia.org/resource/Chambre_des_représentants_des_États-Unis> .
+
+<http://dbpedia.org/resource/Western_Conference_(NHL)> owl:sameAs <http://fr.dbpedia.org/resource/Association_de_l'Ouest_de_la_LNH> .
+
