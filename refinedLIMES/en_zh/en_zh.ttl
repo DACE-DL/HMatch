@@ -1,0 +1,10 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://dbpedia.org/resource/England> owl:sameAs <http://zh.dbpedia.org/resource/英格兰> .
+
+<http://dbpedia.org/resource/French_language> owl:sameAs <http://zh.dbpedia.org/resource/法语> .
+
+<http://dbpedia.org/resource/Hannover_96> owl:sameAs <http://zh.dbpedia.org/resource/汉诺威96足球俱乐部> .
+
+<http://dbpedia.org/resource/Likud> owl:sameAs <http://zh.dbpedia.org/resource/利库德集团> .
+
