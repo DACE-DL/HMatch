@@ -1,0 +1,954 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://dbpedia.org/resource/A-League> owl:sameAs <http://fr.dbpedia.org/resource/Championnat_d'Australie_de_football> .
+
+<http://dbpedia.org/resource/ACF_Fiorentina> owl:sameAs <http://fr.dbpedia.org/resource/Associazione_Calcio_Fiorentina> .
+
+<http://dbpedia.org/resource/AFC_Champions_League> owl:sameAs <http://fr.dbpedia.org/resource/Ligue_des_champions_de_l'AFC> .
+
+<http://dbpedia.org/resource/AS_Monaco_FC> owl:sameAs <http://fr.dbpedia.org/resource/Association_sportive_de_Monaco_football_club> .
+
+<http://dbpedia.org/resource/Abdel_Fattah_el-Sisi> owl:sameAs <http://fr.dbpedia.org/resource/Abdel_Fattah_al-Sissi> .
+
+<http://dbpedia.org/resource/Activision_Blizzard> owl:sameAs <http://fr.dbpedia.org/resource/Activision_Blizzard> .
+
+<http://dbpedia.org/resource/Acton_Vale,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Acton_Vale> .
+
+<http://dbpedia.org/resource/Adrian_Năstase> owl:sameAs <http://fr.dbpedia.org/resource/Adrian_Năstase> .
+
+<http://dbpedia.org/resource/African_National_Congress> owl:sameAs <http://fr.dbpedia.org/resource/Congrès_national_africain> .
+
+<http://dbpedia.org/resource/Alain_Juppé> owl:sameAs <http://fr.dbpedia.org/resource/Alain_Juppé> .
+
+<http://dbpedia.org/resource/Albanian_language> owl:sameAs <http://fr.dbpedia.org/resource/Albanais> .
+
+<http://dbpedia.org/resource/Aleksander_Kwaśniewski> owl:sameAs <http://fr.dbpedia.org/resource/Aleksander_Kwaśniewski> .
+
+<http://dbpedia.org/resource/Alexandros_Mavrokordatos> owl:sameAs <http://fr.dbpedia.org/resource/Aléxandros_Mavrokordátos> .
+
+<http://dbpedia.org/resource/Alfredo_de_Sá_Cardoso> owl:sameAs <http://fr.dbpedia.org/resource/Alfredo_de_Sá_Cardoso> .
+
+<http://dbpedia.org/resource/Alma,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Alma_(Québec)> .
+
+<http://dbpedia.org/resource/Ambient_house> owl:sameAs <http://fr.dbpedia.org/resource/Ambient_house> .
+
+<http://dbpedia.org/resource/Amos,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Amos_(Québec)> .
+
+<http://dbpedia.org/resource/Américo_Tomás> owl:sameAs <http://fr.dbpedia.org/resource/Américo_Tomás> .
+
+<http://dbpedia.org/resource/Anastasio_Bustamante> owl:sameAs <http://fr.dbpedia.org/resource/Anastasio_Bustamante> .
+
+<http://dbpedia.org/resource/Andreas_Papandreou> owl:sameAs <http://fr.dbpedia.org/resource/Andréas_Papandréou> .
+
+<http://dbpedia.org/resource/Andrew_Jackson> owl:sameAs <http://fr.dbpedia.org/resource/Andrew_Jackson> .
+
+<http://dbpedia.org/resource/António_Maria_da_Silva> owl:sameAs <http://fr.dbpedia.org/resource/António_Maria_da_Silva> .
+
+<http://dbpedia.org/resource/António_Ramalho_Eanes> owl:sameAs <http://fr.dbpedia.org/resource/António_Ramalho_Eanes> .
+
+<http://dbpedia.org/resource/Aníbal_Fernández> owl:sameAs <http://fr.dbpedia.org/resource/Aníbal_Fernández> .
+
+<http://dbpedia.org/resource/Archibald_Primrose,_5th_Earl_of_Rosebery> owl:sameAs <http://fr.dbpedia.org/resource/Archibald_Primrose> .
+
+<http://dbpedia.org/resource/Armagh,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Armagh_(Québec)> .
+
+<http://dbpedia.org/resource/Armando_Guebuza> owl:sameAs <http://fr.dbpedia.org/resource/Armando_Guebuza> .
+
+<http://dbpedia.org/resource/Asbestos,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Asbestos> .
+
+<http://dbpedia.org/resource/Ash_Carter> owl:sameAs <http://fr.dbpedia.org/resource/Ashton_Carter> .
+
+<http://dbpedia.org/resource/Auguste_de_Beauharnais> owl:sameAs <http://fr.dbpedia.org/resource/Auguste_de_Leuchtenberg> .
+
+<http://dbpedia.org/resource/Austrian_People's_Party> owl:sameAs <http://fr.dbpedia.org/resource/Parti_populaire_autrichien> .
+
+<http://dbpedia.org/resource/Automobiles_Gonfaronnaises_Sportives> owl:sameAs <http://fr.dbpedia.org/resource/Automobiles_Gonfaronnaises_Sportives> .
+
+<http://dbpedia.org/resource/Avignon_Regional_County_Municipality> owl:sameAs <http://fr.dbpedia.org/resource/Avignon_(municipalité_régionale_de_comté)> .
+
+<http://dbpedia.org/resource/Baie-James> owl:sameAs <http://fr.dbpedia.org/resource/Eeyou_Istchee_Baie-James_(municipalité)> .
+
+<http://dbpedia.org/resource/Baie-Sainte-Catherine,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Baie-Sainte-Catherine> .
+
+<http://dbpedia.org/resource/Baroque_pop> owl:sameAs <http://fr.dbpedia.org/resource/Pop_baroque> .
+
+<http://dbpedia.org/resource/Bas-Saint-Laurent> owl:sameAs <http://fr.dbpedia.org/resource/Bas-Saint-Laurent> .
+
+<http://dbpedia.org/resource/Beauceville,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Beauceville> .
+
+<http://dbpedia.org/resource/Beaupré,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Beaupré_(Québec)> .
+
+<http://dbpedia.org/resource/Belgium_national_under-21_football_team> owl:sameAs <http://fr.dbpedia.org/resource/Équipe_de_Belgique_espoirs_de_football> .
+
+<http://dbpedia.org/resource/Benjamin_Franklin_Butler_(lawyer)> owl:sameAs <http://fr.dbpedia.org/resource/Benjamin_Franklin_Butler_(juriste)> .
+
+<http://dbpedia.org/resource/Berry,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Berry_(Québec)> .
+
+<http://dbpedia.org/resource/Blues> owl:sameAs <http://fr.dbpedia.org/resource/Blues> .
+
+<http://dbpedia.org/resource/Brazil_national_football_team> owl:sameAs <http://fr.dbpedia.org/resource/Équipe_du_Brésil_de_football> .
+
+<http://dbpedia.org/resource/Brazilian_Social_Democracy_Party> owl:sameAs <http://fr.dbpedia.org/resource/Parti_de_la_social-démocratie_brésilienne> .
+
+<http://dbpedia.org/resource/Brian_May> owl:sameAs <http://fr.dbpedia.org/resource/Brian_May> .
+
+<http://dbpedia.org/resource/Brownsburg-Chatham,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Brownsburg-Chatham> .
+
+<http://dbpedia.org/resource/Brussels> owl:sameAs <http://fr.dbpedia.org/resource/Région_de_Bruxelles-Capitale> .
+
+<http://dbpedia.org/resource/Bucharest> owl:sameAs <http://fr.dbpedia.org/resource/Bucarest> .
+
+<http://dbpedia.org/resource/Burgos> owl:sameAs <http://fr.dbpedia.org/resource/Burgos> .
+
+<http://dbpedia.org/resource/Byelorussian_Soviet_Socialist_Republic> owl:sameAs <http://fr.dbpedia.org/resource/République_socialiste_soviétique_de_Biélorussie> .
+
+<http://dbpedia.org/resource/Bécancour,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Bécancour> .
+
+<http://dbpedia.org/resource/Béthanie,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Béthanie_(Québec)> .
+
+<http://dbpedia.org/resource/Cabinet_of_Ewa_Kopacz> owl:sameAs <http://fr.dbpedia.org/resource/Gouvernement_Kopacz> .
+
+<http://dbpedia.org/resource/Cabinet_of_Ivo_Sanader_I> owl:sameAs <http://fr.dbpedia.org/resource/Neuvième_gouvernement_de_Croatie> .
+
+<http://dbpedia.org/resource/Camobi> owl:sameAs <http://fr.dbpedia.org/resource/Camobi> .
+
+<http://dbpedia.org/resource/Campeonato_Brasileiro_Série_A> owl:sameAs <http://fr.dbpedia.org/resource/Championnat_du_Brésil_de_football> .
+
+<http://dbpedia.org/resource/Capitale-Nationale> owl:sameAs <http://fr.dbpedia.org/resource/Capitale-Nationale> .
+
+<http://dbpedia.org/resource/Captaincy_General_of_Chile> owl:sameAs <http://fr.dbpedia.org/resource/Capitainerie_générale_du_Chili> .
+
+<http://dbpedia.org/resource/Carl_Gustaf_Emil_Mannerheim> owl:sameAs <http://fr.dbpedia.org/resource/Carl_Gustaf_Emil_Mannerheim> .
+
+<http://dbpedia.org/resource/Causapscal> owl:sameAs <http://fr.dbpedia.org/resource/Causapscal> .
+
+<http://dbpedia.org/resource/Centro,_Santa_Maria> owl:sameAs <http://fr.dbpedia.org/resource/Centro_(Santa_Maria)> .
+
+<http://dbpedia.org/resource/Cerrito,_Santa_Maria> owl:sameAs <http://fr.dbpedia.org/resource/Cerrito_(Santa_Maria)> .
+
+<http://dbpedia.org/resource/Chairperson_of_the_African_Union> owl:sameAs <http://fr.dbpedia.org/resource/Présidents_de_l'Union_africaine> .
+
+<http://dbpedia.org/resource/Chambly,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Chambly_(Québec)> .
+
+<http://dbpedia.org/resource/Championnat_National> owl:sameAs <http://fr.dbpedia.org/resource/Championnat_de_France_de_football_National> .
+
+<http://dbpedia.org/resource/Charles_Boucher_de_Boucherville> owl:sameAs <http://fr.dbpedia.org/resource/Charles-Eugène_Boucher_de_Boucherville> .
+
+<http://dbpedia.org/resource/Chaudhry_Shujaat_Hussain> owl:sameAs <http://fr.dbpedia.org/resource/Chaudhry_Shujaat_Hussain> .
+
+<http://dbpedia.org/resource/Chelsea,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Chelsea_(Québec)> .
+
+<http://dbpedia.org/resource/Chertsey,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Chertsey_(Québec)> .
+
+<http://dbpedia.org/resource/Chesterville,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Chesterville> .
+
+<http://dbpedia.org/resource/Chief_of_Staff_of_the_United_States_Army> owl:sameAs <http://fr.dbpedia.org/resource/Chief_of_Staff_of_the_United_States_Army> .
+
+<http://dbpedia.org/resource/Chile> owl:sameAs <http://fr.dbpedia.org/resource/Chili> .
+
+<http://dbpedia.org/resource/Châteauguay> owl:sameAs <http://fr.dbpedia.org/resource/Châteauguay> .
+
+<http://dbpedia.org/resource/Complutense_University_of_Madrid> owl:sameAs <http://fr.dbpedia.org/resource/Université_complutense_de_Madrid> .
+
+<http://dbpedia.org/resource/Confederate_States_of_America> owl:sameAs <http://fr.dbpedia.org/resource/États_confédérés_d'Amérique> .
+
+<http://dbpedia.org/resource/Conservative_Party_of_Quebec_(historical)> owl:sameAs <http://fr.dbpedia.org/resource/Parti_conservateur_du_Québec_(1850-1935)> .
+
+<http://dbpedia.org/resource/Constantine_Kanaris> owl:sameAs <http://fr.dbpedia.org/resource/Constantin_Kanaris> .
+
+<http://dbpedia.org/resource/Contrecœur,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Contrecœur_(Québec)> .
+
+<http://dbpedia.org/resource/Copa_Libertadores> owl:sameAs <http://fr.dbpedia.org/resource/Copa_Libertadores> .
+
+<http://dbpedia.org/resource/Costas_Simitis> owl:sameAs <http://fr.dbpedia.org/resource/Konstantínos_Simítis> .
+
+<http://dbpedia.org/resource/Creighton_Abrams> owl:sameAs <http://fr.dbpedia.org/resource/Creighton_Williams_Abrams> .
+
+<http://dbpedia.org/resource/Croatia> owl:sameAs <http://fr.dbpedia.org/resource/Croatie> .
+
+<http://dbpedia.org/resource/Côte-Saint-Luc> owl:sameAs <http://fr.dbpedia.org/resource/Côte-Saint-Luc> .
+
+<http://dbpedia.org/resource/Călin_Popescu-Tăriceanu> owl:sameAs <http://fr.dbpedia.org/resource/Călin_Popescu-Tăriceanu> .
+
+<http://dbpedia.org/resource/DGC_Records> owl:sameAs <http://fr.dbpedia.org/resource/DGC_Records> .
+
+<http://dbpedia.org/resource/Danville,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Danville_(Québec)> .
+
+<http://dbpedia.org/resource/Democratic_Federalist_Independent> owl:sameAs <http://fr.dbpedia.org/resource/DéFI> .
+
+<http://dbpedia.org/resource/Democratic_Left_Alliance> owl:sameAs <http://fr.dbpedia.org/resource/Alliance_de_la_gauche_démocratique> .
+
+<http://dbpedia.org/resource/Democratic_Party_(Romania)> owl:sameAs <http://fr.dbpedia.org/resource/Parti_démocrate_(Roumanie)> .
+
+<http://dbpedia.org/resource/Deschaillons-sur-Saint-Laurent,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Deschaillons-sur-Saint-Laurent> .
+
+<http://dbpedia.org/resource/Deschambault-Grondines> owl:sameAs <http://fr.dbpedia.org/resource/Deschambault-Grondines> .
+
+<http://dbpedia.org/resource/Diogo_de_Freitas_do_Amaral> owl:sameAs <http://fr.dbpedia.org/resource/Diogo_Freitas_do_Amaral> .
+
+<http://dbpedia.org/resource/Dirk_Jan_de_Geer> owl:sameAs <http://fr.dbpedia.org/resource/Dirk_Jan_de_Geer> .
+
+<http://dbpedia.org/resource/Disney_Publishing_Worldwide> owl:sameAs <http://fr.dbpedia.org/resource/Disney_Publishing_Worldwide> .
+
+<http://dbpedia.org/resource/Disraeli,_Quebec_(parish)> owl:sameAs <http://fr.dbpedia.org/resource/Disraeli_(paroisse)> .
+
+<http://dbpedia.org/resource/Dom_Antônio_Reis> owl:sameAs <http://fr.dbpedia.org/resource/Dom_Antônio_Reis> .
+
+<http://dbpedia.org/resource/Duarte_Leite> owl:sameAs <http://fr.dbpedia.org/resource/Duarte_Leite> .
+
+<http://dbpedia.org/resource/Dundee_United_F.C.> owl:sameAs <http://fr.dbpedia.org/resource/Dundee_United_Football_Club> .
+
+<http://dbpedia.org/resource/Dunlop_Tyres> owl:sameAs <http://fr.dbpedia.org/resource/Dunlop> .
+
+<http://dbpedia.org/resource/Déléage,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Déléage> .
+
+<http://dbpedia.org/resource/Eben_Dönges> owl:sameAs <http://fr.dbpedia.org/resource/Theophilus_Dönges> .
+
+<http://dbpedia.org/resource/Egypt> owl:sameAs <http://fr.dbpedia.org/resource/Égypte> .
+
+<http://dbpedia.org/resource/El_Escorial> owl:sameAs <http://fr.dbpedia.org/resource/Escurial> .
+
+<http://dbpedia.org/resource/England_national_under-19_football_team> owl:sameAs <http://fr.dbpedia.org/resource/Équipe_d'Angleterre_de_football_des_moins_de_19_ans> .
+
+<http://dbpedia.org/resource/Epicurus> owl:sameAs <http://fr.dbpedia.org/resource/Épicure> .
+
+<http://dbpedia.org/resource/Eric_Louw> owl:sameAs <http://fr.dbpedia.org/resource/Eric_Louw> .
+
+<http://dbpedia.org/resource/Ernesto_Hintze_Ribeiro> owl:sameAs <http://fr.dbpedia.org/resource/Ernesto_Hintze_Ribeiro> .
+
+<http://dbpedia.org/resource/Estudiantes_de_La_Plata> owl:sameAs <http://fr.dbpedia.org/resource/Estudiantes_de_La_Plata> .
+
+<http://dbpedia.org/resource/European_People's_Party> owl:sameAs <http://fr.dbpedia.org/resource/Parti_populaire_européen> .
+
+<http://dbpedia.org/resource/Extreme_Championship_Wrestling> owl:sameAs <http://fr.dbpedia.org/resource/Extreme_Championship_Wrestling> .
+
+<http://dbpedia.org/resource/F.C._Bari_1908> owl:sameAs <http://fr.dbpedia.org/resource/Football_Club_Bari_1908> .
+
+<http://dbpedia.org/resource/FRELIMO> owl:sameAs <http://fr.dbpedia.org/resource/Front_de_libération_du_Mozambique> .
+
+<http://dbpedia.org/resource/Federal_Ministry_for_Economic_Affairs_and_Energy_(Germany)> owl:sameAs <http://fr.dbpedia.org/resource/Ministère_fédéral_de_l'Économie_(Allemagne)> .
+
+<http://dbpedia.org/resource/Fernando_Belaúnde_Terry> owl:sameAs <http://fr.dbpedia.org/resource/Fernando_Belaúnde_Terry> .
+
+<http://dbpedia.org/resource/First_Merkel_cabinet> owl:sameAs <http://fr.dbpedia.org/resource/Cabinet_Merkel_I> .
+
+<http://dbpedia.org/resource/Flemish_Parliament> owl:sameAs <http://fr.dbpedia.org/resource/Parlement_flamand> .
+
+<http://dbpedia.org/resource/Football_Bourg-en-Bresse_Péronnas_01> owl:sameAs <http://fr.dbpedia.org/resource/Football_Bourg-en-Bresse_Péronnas_01> .
+
+<http://dbpedia.org/resource/France> owl:sameAs <http://fr.dbpedia.org/resource/France> .
+
+<http://dbpedia.org/resource/France_national_under-19_football_team> owl:sameAs <http://fr.dbpedia.org/resource/Équipe_de_France_de_football_des_moins_de_19_ans> .
+
+<http://dbpedia.org/resource/Francisco_da_Costa_Gomes> owl:sameAs <http://fr.dbpedia.org/resource/Francisco_da_Costa_Gomes> .
+
+<http://dbpedia.org/resource/Francoist_Spain> owl:sameAs <http://fr.dbpedia.org/resource/Espagne_franquiste> .
+
+<http://dbpedia.org/resource/Frankie_Goes_to_Hollywood> owl:sameAs <http://fr.dbpedia.org/resource/Frankie_Goes_to_Hollywood> .
+
+<http://dbpedia.org/resource/Franz_Rosenzweig> owl:sameAs <http://fr.dbpedia.org/resource/Franz_Rosenzweig> .
+
+<http://dbpedia.org/resource/François_Achille_Bazaine> owl:sameAs <http://fr.dbpedia.org/resource/François_Achille_Bazaine> .
+
+<http://dbpedia.org/resource/François_Bayrou> owl:sameAs <http://fr.dbpedia.org/resource/François_Bayrou> .
+
+<http://dbpedia.org/resource/François_Bozizé> owl:sameAs <http://fr.dbpedia.org/resource/François_Bozizé> .
+
+<http://dbpedia.org/resource/Free_Democratic_Party_(Germany)> owl:sameAs <http://fr.dbpedia.org/resource/Parti_libéral-démocrate_(Allemagne)> .
+
+<http://dbpedia.org/resource/French_India> owl:sameAs <http://fr.dbpedia.org/resource/Inde_française> .
+
+<http://dbpedia.org/resource/French_language> owl:sameAs <http://fr.dbpedia.org/resource/Français> .
+
+<http://dbpedia.org/resource/Friedrich_Wilhelm_Joseph_Schelling> owl:sameAs <http://fr.dbpedia.org/resource/Friedrich_Wilhelm_Joseph_von_Schelling> .
+
+<http://dbpedia.org/resource/Frontenac,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Frontenac_(Québec)> .
+
+<http://dbpedia.org/resource/Fuji_Television> owl:sameAs <http://fr.dbpedia.org/resource/Fuji_Television> .
+
+<http://dbpedia.org/resource/Funk> owl:sameAs <http://fr.dbpedia.org/resource/Funk> .
+
+<http://dbpedia.org/resource/Gaspé,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Gaspé_(ville)> .
+
+<http://dbpedia.org/resource/Gaspésie–Îles-de-la-Madeleine> owl:sameAs <http://fr.dbpedia.org/resource/Gaspésie–Îles-de-la-Madeleine> .
+
+<http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel> owl:sameAs <http://fr.dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel> .
+
+<http://dbpedia.org/resource/George_Armstrong_Custer> owl:sameAs <http://fr.dbpedia.org/resource/George_Armstrong_Custer> .
+
+<http://dbpedia.org/resource/George_Duke> owl:sameAs <http://fr.dbpedia.org/resource/George_Duke> .
+
+<http://dbpedia.org/resource/Georges_Pompidou> owl:sameAs <http://fr.dbpedia.org/resource/Georges_Pompidou> .
+
+<http://dbpedia.org/resource/Gerhard_Schröder> owl:sameAs <http://fr.dbpedia.org/resource/Gerhard_Schröder> .
+
+<http://dbpedia.org/resource/Germany> owl:sameAs <http://fr.dbpedia.org/resource/Allemagne> .
+
+<http://dbpedia.org/resource/Gheorghe_Gheorghiu-Dej> owl:sameAs <http://fr.dbpedia.org/resource/Gheorghe_Gheorghiu-Dej> .
+
+<http://dbpedia.org/resource/Giovanni_Spadolini> owl:sameAs <http://fr.dbpedia.org/resource/Giovanni_Spadolini> .
+
+<http://dbpedia.org/resource/Giuseppe_Caprio> owl:sameAs <http://fr.dbpedia.org/resource/Giuseppe_Caprio> .
+
+<http://dbpedia.org/resource/Glam_rock> owl:sameAs <http://fr.dbpedia.org/resource/Glam_rock> .
+
+<http://dbpedia.org/resource/Grenoble_Foot_38> owl:sameAs <http://fr.dbpedia.org/resource/Grenoble_Foot_38> .
+
+<http://dbpedia.org/resource/Guido_Westerwelle> owl:sameAs <http://fr.dbpedia.org/resource/Guido_Westerwelle> .
+
+<http://dbpedia.org/resource/Hailemariam_Desalegn> owl:sameAs <http://fr.dbpedia.org/resource/Haile_Mariam_Dessalegn> .
+
+<http://dbpedia.org/resource/Hans-Rudolf_Merz> owl:sameAs <http://fr.dbpedia.org/resource/Hans-Rudolf_Merz> .
+
+<http://dbpedia.org/resource/Hardcore_punk> owl:sameAs <http://fr.dbpedia.org/resource/Punk_hardcore> .
+
+<http://dbpedia.org/resource/Heavy_metal_music> owl:sameAs <http://fr.dbpedia.org/resource/Heavy_metal_(musique)> .
+
+<http://dbpedia.org/resource/Hellenic_Parliament> owl:sameAs <http://fr.dbpedia.org/resource/Parlement_grec> .
+
+<http://dbpedia.org/resource/Henry_John_Temple,_3rd_Viscount_Palmerston> owl:sameAs <http://fr.dbpedia.org/resource/Henry_John_Temple> .
+
+<http://dbpedia.org/resource/Henryville,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Henryville_(Québec)> .
+
+<http://dbpedia.org/resource/Herbert_Hoover> owl:sameAs <http://fr.dbpedia.org/resource/Herbert_Hoover> .
+
+<http://dbpedia.org/resource/Hery_Rajaonarimampianina> owl:sameAs <http://fr.dbpedia.org/resource/Hery_Rajaonarimampianina> .
+
+<http://dbpedia.org/resource/Hip_hop_music> owl:sameAs <http://fr.dbpedia.org/resource/Hip-hop> .
+
+<http://dbpedia.org/resource/Hosni_Mubarak> owl:sameAs <http://fr.dbpedia.org/resource/Hosni_Moubarak> .
+
+<http://dbpedia.org/resource/House_of_Beauharnais> owl:sameAs <http://fr.dbpedia.org/resource/Maison_de_Beauharnais> .
+
+<http://dbpedia.org/resource/Immanuel_Kant> owl:sameAs <http://fr.dbpedia.org/resource/Emmanuel_Kant> .
+
+<http://dbpedia.org/resource/India> owl:sameAs <http://fr.dbpedia.org/resource/Inde> .
+
+<http://dbpedia.org/resource/Industrial_rock> owl:sameAs <http://fr.dbpedia.org/resource/Rock_industriel> .
+
+<http://dbpedia.org/resource/Infante_Juan,_Count_of_Barcelona> owl:sameAs <http://fr.dbpedia.org/resource/Juan_de_Borbón_y_Battenberg> .
+
+<http://dbpedia.org/resource/Inverness,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Inverness_(Québec)> .
+
+<http://dbpedia.org/resource/Italy_national_football_team> owl:sameAs <http://fr.dbpedia.org/resource/Équipe_d'Italie_de_football> .
+
+<http://dbpedia.org/resource/Ivica_Dačić> owl:sameAs <http://fr.dbpedia.org/resource/Ivica_Dačić> .
+
+<http://dbpedia.org/resource/Ivo_Sanader> owl:sameAs <http://fr.dbpedia.org/resource/Ivo_Sanader> .
+
+<http://dbpedia.org/resource/JSM_Béjaïa> owl:sameAs <http://fr.dbpedia.org/resource/Jeunesse_sportive_madinet_Béjaia> .
+
+<http://dbpedia.org/resource/Jacques_Chaban-Delmas> owl:sameAs <http://fr.dbpedia.org/resource/Jacques_Chaban-Delmas> .
+
+<http://dbpedia.org/resource/Jacques_Chirac> owl:sameAs <http://fr.dbpedia.org/resource/Jacques_Chirac> .
+
+<http://dbpedia.org/resource/James_John_Edmund_Guerin> owl:sameAs <http://fr.dbpedia.org/resource/James_John_Edmund_Guerin> .
+
+<http://dbpedia.org/resource/Jan_Smuts> owl:sameAs <http://fr.dbpedia.org/resource/Jan_Smuts> .
+
+<http://dbpedia.org/resource/Jarosław_Kaczyński> owl:sameAs <http://fr.dbpedia.org/resource/Jarosław_Kaczyński> .
+
+<http://dbpedia.org/resource/Jean-François_Copé> owl:sameAs <http://fr.dbpedia.org/resource/Jean-François_Copé> .
+
+<http://dbpedia.org/resource/Jean-Louis_Borloo> owl:sameAs <http://fr.dbpedia.org/resource/Jean-Louis_Borloo> .
+
+<http://dbpedia.org/resource/Jean-Marc_Fournier> owl:sameAs <http://fr.dbpedia.org/resource/Jean-Marc_Fournier> .
+
+<http://dbpedia.org/resource/Joaquim_Pimenta_de_Castro> owl:sameAs <http://fr.dbpedia.org/resource/José_Joaquim_Pereira_Pimenta_de_Castro> .
+
+<http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe> owl:sameAs <http://fr.dbpedia.org/resource/Johann_Wolfgang_von_Goethe> .
+
+<http://dbpedia.org/resource/Johannes_Gerhardus_Strijdom> owl:sameAs <http://fr.dbpedia.org/resource/Johannes_Strijdom> .
+
+<http://dbpedia.org/resource/John_Key> owl:sameAs <http://fr.dbpedia.org/resource/John_Key> .
+
+<http://dbpedia.org/resource/John_McGeoch> owl:sameAs <http://fr.dbpedia.org/resource/John_McGeoch> .
+
+<http://dbpedia.org/resource/John_Russell,_1st_Earl_Russell> owl:sameAs <http://fr.dbpedia.org/resource/John_Russell_(1er_comte_Russell)> .
+
+<http://dbpedia.org/resource/Joliette> owl:sameAs <http://fr.dbpedia.org/resource/Joliette_(Québec)> .
+
+<http://dbpedia.org/resource/Joliette_Regional_County_Municipality> owl:sameAs <http://fr.dbpedia.org/resource/Joliette_(municipalité_régionale_de_comté)> .
+
+<http://dbpedia.org/resource/Jorge_Holguín> owl:sameAs <http://fr.dbpedia.org/resource/Jorge_Holguín> .
+
+<http://dbpedia.org/resource/Joseph-Adolphe_Chapleau> owl:sameAs <http://fr.dbpedia.org/resource/Joseph-Adolphe_Chapleau> .
+
+<http://dbpedia.org/resource/José_Antonio_Primo_de_Rivera> owl:sameAs <http://fr.dbpedia.org/resource/José_Antonio_Primo_de_Rivera> .
+
+<http://dbpedia.org/resource/José_Baptista_Pinheiro_de_Azevedo> owl:sameAs <http://fr.dbpedia.org/resource/José_Pinheiro_de_Azevedo> .
+
+<http://dbpedia.org/resource/José_María_Aznar> owl:sameAs <http://fr.dbpedia.org/resource/José_María_Aznar> .
+
+<http://dbpedia.org/resource/João_Pinheiro_Chagas> owl:sameAs <http://fr.dbpedia.org/resource/João_Pinheiro_Chagas> .
+
+<http://dbpedia.org/resource/Jules-Joseph-Taschereau_Frémont> owl:sameAs <http://fr.dbpedia.org/resource/Jules-Joseph-Taschereau_Frémont> .
+
+<http://dbpedia.org/resource/Justicialist_Party> owl:sameAs <http://fr.dbpedia.org/resource/Parti_justicialiste> .
+
+<http://dbpedia.org/resource/Kamal_Ganzouri> owl:sameAs <http://fr.dbpedia.org/resource/Kamal_al-Ganzouri> .
+
+<http://dbpedia.org/resource/Karl_Heinrich_von_Boetticher> owl:sameAs <http://fr.dbpedia.org/resource/Karl_Heinrich_von_Boetticher> .
+
+<http://dbpedia.org/resource/Kazimierz_Marcinkiewicz> owl:sameAs <http://fr.dbpedia.org/resource/Kazimierz_Marcinkiewicz> .
+
+<http://dbpedia.org/resource/Kingdom_of_Bulgaria> owl:sameAs <http://fr.dbpedia.org/resource/Royaume_de_Bulgarie> .
+
+<http://dbpedia.org/resource/Km_3> owl:sameAs <http://fr.dbpedia.org/resource/Km_3> .
+
+<http://dbpedia.org/resource/Kolinda_Grabar-Kitarović> owl:sameAs <http://fr.dbpedia.org/resource/Kolinda_Grabar-Kitarović> .
+
+<http://dbpedia.org/resource/Konstantinos_Stephanopoulos> owl:sameAs <http://fr.dbpedia.org/resource/Konstantínos_Stephanópoulos> .
+
+<http://dbpedia.org/resource/L'Ange-Gardien,_Outaouais,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/L'Ange-Gardien_(Les_Collines-de-l'Outaouais)> .
+
+<http://dbpedia.org/resource/L'Assomption,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/L'Assomption> .
+
+<http://dbpedia.org/resource/La_Côte-de-Gaspé_Regional_County_Municipality> owl:sameAs <http://fr.dbpedia.org/resource/La_Côte-de-Gaspé> .
+
+<http://dbpedia.org/resource/La_Matapédia_Regional_County_Municipality> owl:sameAs <http://fr.dbpedia.org/resource/La_Matapédia> .
+
+<http://dbpedia.org/resource/La_Mitis> owl:sameAs <http://fr.dbpedia.org/resource/La_Mitis> .
+
+<http://dbpedia.org/resource/La_Pocatière> owl:sameAs <http://fr.dbpedia.org/resource/La_Pocatière> .
+
+<http://dbpedia.org/resource/La_Prairie,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/La_Prairie> .
+
+<http://dbpedia.org/resource/La_Présentation,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/La_Présentation> .
+
+<http://dbpedia.org/resource/La_Sarre> owl:sameAs <http://fr.dbpedia.org/resource/La_Sarre> .
+
+<http://dbpedia.org/resource/La_Vallée-de-la-Gatineau_Regional_County_Municipality> owl:sameAs <http://fr.dbpedia.org/resource/La_Vallée-de-la-Gatineau> .
+
+<http://dbpedia.org/resource/La_Vallée-du-Richelieu_Regional_County_Municipality> owl:sameAs <http://fr.dbpedia.org/resource/La_Vallée-du-Richelieu> .
+
+<http://dbpedia.org/resource/La_Visitation-de-l'Île-Dupas,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/La_Visitation-de-l'Île-Dupas> .
+
+<http://dbpedia.org/resource/Labrecque,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Labrecque> .
+
+<http://dbpedia.org/resource/Lac-Blanc,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Lac-Blanc> .
+
+<http://dbpedia.org/resource/Lac-Chicobi,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Lac-Chicobi> .
+
+<http://dbpedia.org/resource/Lac-Drolet,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Lac-Drolet> .
+
+<http://dbpedia.org/resource/Lac-Huron,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Lac-Huron> .
+
+<http://dbpedia.org/resource/Lachute> owl:sameAs <http://fr.dbpedia.org/resource/Lachute> .
+
+<http://dbpedia.org/resource/Launay,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Launay_(Québec)> .
+
+<http://dbpedia.org/resource/Laval_University> owl:sameAs <http://fr.dbpedia.org/resource/Université_Laval> .
+
+<http://dbpedia.org/resource/Lazăr_Comănescu> owl:sameAs <http://fr.dbpedia.org/resource/Lazăr_Comănescu> .
+
+<http://dbpedia.org/resource/Le_Haut-Saint-François_Regional_County_Municipality> owl:sameAs <http://fr.dbpedia.org/resource/Le_Haut-Saint-François> .
+
+<http://dbpedia.org/resource/Le_Plateau-Mont-Royal> owl:sameAs <http://fr.dbpedia.org/resource/Le_Plateau-Mont-Royal> .
+
+<http://dbpedia.org/resource/Les_Collines-de-l'Outaouais_Regional_County_Municipality> owl:sameAs <http://fr.dbpedia.org/resource/Les_Collines-de-l'Outaouais> .
+
+<http://dbpedia.org/resource/Les_Lacs-du-Témiscamingue,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Les_Lacs-du-Témiscamingue> .
+
+<http://dbpedia.org/resource/Les_Maskoutains_Regional_County_Municipality> owl:sameAs <http://fr.dbpedia.org/resource/Les_Maskoutains> .
+
+<http://dbpedia.org/resource/Les_Méchins,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Les_Méchins> .
+
+<http://dbpedia.org/resource/Les_Éboulements> owl:sameAs <http://fr.dbpedia.org/resource/Les_Éboulements> .
+
+<http://dbpedia.org/resource/Ligue_2> owl:sameAs <http://fr.dbpedia.org/resource/Championnat_de_France_de_football_de_Ligue_2> .
+
+<http://dbpedia.org/resource/Lisbon> owl:sameAs <http://fr.dbpedia.org/resource/Lisbonne> .
+
+<http://dbpedia.org/resource/List_of_heads_of_government_of_the_Central_African_Republic> owl:sameAs <http://fr.dbpedia.org/resource/Chef_de_gouvernement_de_Centrafrique> .
+
+<http://dbpedia.org/resource/Ljubljana> owl:sameAs <http://fr.dbpedia.org/resource/Ljubljana> .
+
+<http://dbpedia.org/resource/London> owl:sameAs <http://fr.dbpedia.org/resource/Londres> .
+
+<http://dbpedia.org/resource/Louis_Bonaparte> owl:sameAs <http://fr.dbpedia.org/resource/Louis_Bonaparte> .
+
+<http://dbpedia.org/resource/Louis_XV_of_France> owl:sameAs <http://fr.dbpedia.org/resource/Louis_XV> .
+
+<http://dbpedia.org/resource/Lucasfilm> owl:sameAs <http://fr.dbpedia.org/resource/Lucasfilm> .
+
+<http://dbpedia.org/resource/Luís_I_of_Portugal> owl:sameAs <http://fr.dbpedia.org/resource/Louis_Ier_(roi_de_Portugal)> .
+
+<http://dbpedia.org/resource/Lysane_Blanchette-Lamothe> owl:sameAs <http://fr.dbpedia.org/resource/Lysane_Blanchette-Lamothe> .
+
+<http://dbpedia.org/resource/Macau> owl:sameAs <http://fr.dbpedia.org/resource/Macao> .
+
+<http://dbpedia.org/resource/Macedonian_language> owl:sameAs <http://fr.dbpedia.org/resource/Macédonien> .
+
+<http://dbpedia.org/resource/Madrid> owl:sameAs <http://fr.dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Maka_Kotto> owl:sameAs <http://fr.dbpedia.org/resource/Maka_Kotto> .
+
+<http://dbpedia.org/resource/Malayalam> owl:sameAs <http://fr.dbpedia.org/resource/Malayalam> .
+
+<http://dbpedia.org/resource/Manuel_Teixeira_Gomes> owl:sameAs <http://fr.dbpedia.org/resource/Manuel_Teixeira_Gomes> .
+
+<http://dbpedia.org/resource/Marcelo_Caetano> owl:sameAs <http://fr.dbpedia.org/resource/Marcelo_Caetano> .
+
+<http://dbpedia.org/resource/Margaret_of_Provence> owl:sameAs <http://fr.dbpedia.org/resource/Marguerite_de_Provence> .
+
+<http://dbpedia.org/resource/Mariano_Rajoy> owl:sameAs <http://fr.dbpedia.org/resource/Mariano_Rajoy> .
+
+<http://dbpedia.org/resource/Martha_and_the_Vandellas> owl:sameAs <http://fr.dbpedia.org/resource/Martha_and_the_Vandellas> .
+
+<http://dbpedia.org/resource/Matador_Records> owl:sameAs <http://fr.dbpedia.org/resource/Matador_Records> .
+
+<http://dbpedia.org/resource/Mauricie> owl:sameAs <http://fr.dbpedia.org/resource/Mauricie> .
+
+<http://dbpedia.org/resource/Mauricio_Macri> owl:sameAs <http://fr.dbpedia.org/resource/Mauricio_Macri> .
+
+<http://dbpedia.org/resource/McGill_University> owl:sameAs <http://fr.dbpedia.org/resource/Université_McGill> .
+
+<http://dbpedia.org/resource/Melbourne,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Melbourne_(Québec)> .
+
+<http://dbpedia.org/resource/Melbourne_City_FC> owl:sameAs <http://fr.dbpedia.org/resource/Melbourne_City_Football_Club> .
+
+<http://dbpedia.org/resource/Melodic_death_metal> owl:sameAs <http://fr.dbpedia.org/resource/Death_metal_mélodique> .
+
+<http://dbpedia.org/resource/Menino_Jesus> owl:sameAs <http://fr.dbpedia.org/resource/Menino_Jesus> .
+
+<http://dbpedia.org/resource/Mercedes,_Princess_of_Asturias> owl:sameAs <http://fr.dbpedia.org/resource/María_de_las_Mercedes_de_Bourbon_(1880-1904)> .
+
+<http://dbpedia.org/resource/Mirabel,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Mirabel_(Québec)> .
+
+<http://dbpedia.org/resource/Mohammed_Mzali> owl:sameAs <http://fr.dbpedia.org/resource/Mohamed_Mzali> .
+
+<http://dbpedia.org/resource/Mongolian_People's_Republic> owl:sameAs <http://fr.dbpedia.org/resource/République_populaire_mongole> .
+
+<http://dbpedia.org/resource/Monique_Jérôme-Forget> owl:sameAs <http://fr.dbpedia.org/resource/Monique_Jérôme-Forget> .
+
+<http://dbpedia.org/resource/Mons> owl:sameAs <http://fr.dbpedia.org/resource/Mons> .
+
+<http://dbpedia.org/resource/Mont-Saint-Hilaire,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Mont-Saint-Hilaire> .
+
+<http://dbpedia.org/resource/Montérégie> owl:sameAs <http://fr.dbpedia.org/resource/Montérégie> .
+
+<http://dbpedia.org/resource/Napoleon> owl:sameAs <http://fr.dbpedia.org/resource/Napoléon_Ier> .
+
+<http://dbpedia.org/resource/Napoleon_III> owl:sameAs <http://fr.dbpedia.org/resource/Napoléon_III> .
+
+<http://dbpedia.org/resource/Narcisse-Fortunat_Belleau> owl:sameAs <http://fr.dbpedia.org/resource/Narcisse-Fortunat_Belleau> .
+
+<http://dbpedia.org/resource/National_Assembly_(Hungary)> owl:sameAs <http://fr.dbpedia.org/resource/Assemblée_nationale_(Hongrie)> .
+
+<http://dbpedia.org/resource/National_Liberal_Party_(Romania)> owl:sameAs <http://fr.dbpedia.org/resource/Parti_national_libéral_(Roumanie)> .
+
+<http://dbpedia.org/resource/Nazi_Germany> owl:sameAs <http://fr.dbpedia.org/resource/Troisième_Reich> .
+
+<http://dbpedia.org/resource/Neil_Ritchie> owl:sameAs <http://fr.dbpedia.org/resource/Neil_Ritchie> .
+
+<http://dbpedia.org/resource/Newport,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Newport_(Estrie)> .
+
+<http://dbpedia.org/resource/Nicola_Mancino> owl:sameAs <http://fr.dbpedia.org/resource/Nicola_Mancino> .
+
+<http://dbpedia.org/resource/Nicolás_Bravo> owl:sameAs <http://fr.dbpedia.org/resource/Nicolás_Bravo> .
+
+<http://dbpedia.org/resource/Non-Aligned_Movement> owl:sameAs <http://fr.dbpedia.org/resource/Mouvement_des_non-alignés> .
+
+<http://dbpedia.org/resource/Nossa_Senhora_das_Dores,_Santa_Maria> owl:sameAs <http://fr.dbpedia.org/resource/Nossa_Senhora_das_Dores> .
+
+<http://dbpedia.org/resource/Nossa_Senhora_do_Rosário,_Santa_Maria> owl:sameAs <http://fr.dbpedia.org/resource/Nossa_Senhora_do_Rosário> .
+
+<http://dbpedia.org/resource/Notre-Dame-de-Montauban,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Notre-Dame-de-Montauban> .
+
+<http://dbpedia.org/resource/Nova_Scotia> owl:sameAs <http://fr.dbpedia.org/resource/Nouvelle-Écosse> .
+
+<http://dbpedia.org/resource/Olympique_de_Marseille> owl:sameAs <http://fr.dbpedia.org/resource/Olympique_de_Marseille> .
+
+<http://dbpedia.org/resource/Ontario> owl:sameAs <http://fr.dbpedia.org/resource/Ontario> .
+
+<http://dbpedia.org/resource/Open_Vlaamse_Liberalen_en_Democraten> owl:sameAs <http://fr.dbpedia.org/resource/Open_Vlaamse_Liberalen_en_Democraten> .
+
+<http://dbpedia.org/resource/Orange_Free_State> owl:sameAs <http://fr.dbpedia.org/resource/État_libre_d'Orange> .
+
+<http://dbpedia.org/resource/Otter_Lake,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Otter_Lake> .
+
+<http://dbpedia.org/resource/Outaouais> owl:sameAs <http://fr.dbpedia.org/resource/Outaouais_(Québec)> .
+
+<http://dbpedia.org/resource/Outremont,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Outremont> .
+
+<http://dbpedia.org/resource/Pains,_Santa_Maria> owl:sameAs <http://fr.dbpedia.org/resource/Pains_(Santa_Maria)> .
+
+<http://dbpedia.org/resource/Pakistan_Muslim_League_(Q)> owl:sameAs <http://fr.dbpedia.org/resource/Ligue_musulmane_du_Pakistan_(Q)> .
+
+<http://dbpedia.org/resource/Panthéon-Assas_University> owl:sameAs <http://fr.dbpedia.org/resource/Université_Panthéon-Assas> .
+
+<http://dbpedia.org/resource/Paris-Sorbonne_University> owl:sameAs <http://fr.dbpedia.org/resource/Université_Paris-Sorbonne> .
+
+<http://dbpedia.org/resource/Paris_FC> owl:sameAs <http://fr.dbpedia.org/resource/Paris_Football_Club> .
+
+<http://dbpedia.org/resource/Passes-Dangereuses,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Passes-Dangereuses> .
+
+<http://dbpedia.org/resource/Passo_d'Areia,_Santa_Maria> owl:sameAs <http://fr.dbpedia.org/resource/Passo_d'Areia> .
+
+<http://dbpedia.org/resource/Paul_of_Greece> owl:sameAs <http://fr.dbpedia.org/resource/Paul_Ier_(roi_des_Hellènes)> .
+
+<http://dbpedia.org/resource/Pavlos_Kountouriotis> owl:sameAs <http://fr.dbpedia.org/resource/Pávlos_Koundouriótis> .
+
+<http://dbpedia.org/resource/Pedro_de_Sousa_Holstein,_1st_Duke_of_Palmela> owl:sameAs <http://fr.dbpedia.org/resource/Pedro_de_Sousa_Holstein> .
+
+<http://dbpedia.org/resource/People's_Party_(Spain)> owl:sameAs <http://fr.dbpedia.org/resource/Parti_populaire_(Espagne)> .
+
+<http://dbpedia.org/resource/Pervez_Musharraf> owl:sameAs <http://fr.dbpedia.org/resource/Pervez_Musharraf> .
+
+<http://dbpedia.org/resource/Philip_II_of_Spain> owl:sameAs <http://fr.dbpedia.org/resource/Philippe_II_(roi_d'Espagne)> .
+
+<http://dbpedia.org/resource/Philippe_Couillard> owl:sameAs <http://fr.dbpedia.org/resource/Philippe_Couillard> .
+
+<http://dbpedia.org/resource/Pierre_Mendès_France> owl:sameAs <http://fr.dbpedia.org/resource/Pierre_Mendès_France> .
+
+<http://dbpedia.org/resource/Pieter_Sjoerds_Gerbrandy> owl:sameAs <http://fr.dbpedia.org/resource/Pieter_Sjoerds_Gerbrandy> .
+
+<http://dbpedia.org/resource/Pirelli> owl:sameAs <http://fr.dbpedia.org/resource/Pirelli> .
+
+<http://dbpedia.org/resource/Pointe-Claire> owl:sameAs <http://fr.dbpedia.org/resource/Pointe-Claire> .
+
+<http://dbpedia.org/resource/Polish_People's_Party> owl:sameAs <http://fr.dbpedia.org/resource/Parti_paysan_polonais> .
+
+<http://dbpedia.org/resource/Pop_punk> owl:sameAs <http://fr.dbpedia.org/resource/Pop_punk> .
+
+<http://dbpedia.org/resource/Portneuf_Regional_County_Municipality> owl:sameAs <http://fr.dbpedia.org/resource/Portneuf_(municipalité_régionale_de_comté)> .
+
+<http://dbpedia.org/resource/Portugal> owl:sameAs <http://fr.dbpedia.org/resource/Portugal> .
+
+<http://dbpedia.org/resource/Preissac,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Preissac> .
+
+<http://dbpedia.org/resource/Premier_of_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Premier_ministre_du_Québec> .
+
+<http://dbpedia.org/resource/President_of_Croatia> owl:sameAs <http://fr.dbpedia.org/resource/Président_de_la_République_de_Croatie> .
+
+<http://dbpedia.org/resource/President_of_India> owl:sameAs <http://fr.dbpedia.org/resource/Président_de_l'Inde> .
+
+<http://dbpedia.org/resource/President_of_Portugal> owl:sameAs <http://fr.dbpedia.org/resource/Président_de_la_République_portugaise> .
+
+<http://dbpedia.org/resource/Prime_Minister_of_Iceland> owl:sameAs <http://fr.dbpedia.org/resource/Premier_ministre_de_l'Islande> .
+
+<http://dbpedia.org/resource/Prime_Minister_of_Romania> owl:sameAs <http://fr.dbpedia.org/resource/Premier_ministre_de_Roumanie> .
+
+<http://dbpedia.org/resource/Prince_Aimone,_Duke_of_Aosta> owl:sameAs <http://fr.dbpedia.org/resource/Tomislav_II> .
+
+<http://dbpedia.org/resource/Progressive_rock> owl:sameAs <http://fr.dbpedia.org/resource/Rock_progressif> .
+
+<http://dbpedia.org/resource/Protectorate_of_Bohemia_and_Moravia> owl:sameAs <http://fr.dbpedia.org/resource/Protectorat_de_Bohême-Moravie> .
+
+<http://dbpedia.org/resource/Province_of_Canada> owl:sameAs <http://fr.dbpedia.org/resource/Province_du_Canada> .
+
+<http://dbpedia.org/resource/Province_of_Massachusetts_Bay> owl:sameAs <http://fr.dbpedia.org/resource/Province_de_la_baie_du_Massachusetts> .
+
+<http://dbpedia.org/resource/Psychedelic_rock> owl:sameAs <http://fr.dbpedia.org/resource/Rock_psychédélique> .
+
+<http://dbpedia.org/resource/Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Québec> .
+
+<http://dbpedia.org/resource/Quebec_Liberal_Party> owl:sameAs <http://fr.dbpedia.org/resource/Parti_libéral_du_Québec> .
+
+<http://dbpedia.org/resource/Queen_Victoria> owl:sameAs <http://fr.dbpedia.org/resource/Victoria_(reine)> .
+
+<http://dbpedia.org/resource/Rafael_Frühbeck_de_Burgos> owl:sameAs <http://fr.dbpedia.org/resource/Rafael_Frühbeck_de_Burgos> .
+
+<http://dbpedia.org/resource/Rage_Against_the_Machine> owl:sameAs <http://fr.dbpedia.org/resource/Rage_Against_the_Machine> .
+
+<http://dbpedia.org/resource/Rainer_Brüderle> owl:sameAs <http://fr.dbpedia.org/resource/Rainer_Brüderle> .
+
+<http://dbpedia.org/resource/Rap_metal> owl:sameAs <http://fr.dbpedia.org/resource/Rap_metal> .
+
+<http://dbpedia.org/resource/Restoration_(Spain)> owl:sameAs <http://fr.dbpedia.org/resource/Restauration_bourbonienne_en_Espagne> .
+
+<http://dbpedia.org/resource/Reykjavík> owl:sameAs <http://fr.dbpedia.org/resource/Reykjavik> .
+
+<http://dbpedia.org/resource/Rigaud,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Rigaud_(Québec)> .
+
+<http://dbpedia.org/resource/Rimouski-Neigette> owl:sameAs <http://fr.dbpedia.org/resource/Rimouski-Neigette> .
+
+<http://dbpedia.org/resource/Rio_Ave_F.C.> owl:sameAs <http://fr.dbpedia.org/resource/Rio_Ave_Futebol_Clube> .
+
+<http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury> owl:sameAs <http://fr.dbpedia.org/resource/Robert_Arthur_Talbot_Gascoyne-Cecil> .
+
+<http://dbpedia.org/resource/Roger_B._Taney> owl:sameAs <http://fr.dbpedia.org/resource/Roger_Brooke_Taney> .
+
+<http://dbpedia.org/resource/Rosemont–La_Petite-Patrie> owl:sameAs <http://fr.dbpedia.org/resource/Rosemont–La_Petite-Patrie> .
+
+<http://dbpedia.org/resource/Roxton_Pond,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Roxton_Pond> .
+
+<http://dbpedia.org/resource/Ruisseau-Ferguson,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Ruisseau-Ferguson> .
+
+<http://dbpedia.org/resource/Russia> owl:sameAs <http://fr.dbpedia.org/resource/Russie> .
+
+<http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic> owl:sameAs <http://fr.dbpedia.org/resource/République_socialiste_fédérative_soviétique_de_Russie> .
+
+<http://dbpedia.org/resource/Ry_Cooder> owl:sameAs <http://fr.dbpedia.org/resource/Ry_Cooder> .
+
+<http://dbpedia.org/resource/Sacré-Cœur-de-Jésus,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Sacré-Cœur-de-Jésus> .
+
+<http://dbpedia.org/resource/Saint-Alban,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Alban_(Québec)> .
+
+<http://dbpedia.org/resource/Saint-Alexandre,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Alexandre_(Québec)> .
+
+<http://dbpedia.org/resource/Saint-Antoine-sur-Richelieu,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Antoine-sur-Richelieu> .
+
+<http://dbpedia.org/resource/Saint-Basile-le-Grand,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Basile-le-Grand> .
+
+<http://dbpedia.org/resource/Saint-Benjamin,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Benjamin> .
+
+<http://dbpedia.org/resource/Saint-Bruno-de-Montarville> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Bruno-de-Montarville> .
+
+<http://dbpedia.org/resource/Saint-Charles-de-Bellechasse,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Charles-de-Bellechasse> .
+
+<http://dbpedia.org/resource/Saint-Charles-sur-Richelieu,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Charles-sur-Richelieu> .
+
+<http://dbpedia.org/resource/Saint-Claude,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Claude_(Québec)> .
+
+<http://dbpedia.org/resource/Saint-Cyrille-de-Lessard,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Cyrille-de-Lessard> .
+
+<http://dbpedia.org/resource/Saint-Césaire,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Césaire> .
+
+<http://dbpedia.org/resource/Saint-Côme,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Côme_(Québec)> .
+
+<http://dbpedia.org/resource/Saint-Denis-sur-Richelieu,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Denis-sur-Richelieu> .
+
+<http://dbpedia.org/resource/Saint-Dominique-du-Rosaire,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Dominique-du-Rosaire> .
+
+<http://dbpedia.org/resource/Saint-Esprit,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Esprit_(Québec)> .
+
+<http://dbpedia.org/resource/Saint-Faustin–Lac-Carré,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Faustin–Lac-Carré> .
+
+<http://dbpedia.org/resource/Saint-Ferréol-les-Neiges> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Ferréol-les-Neiges> .
+
+<http://dbpedia.org/resource/Saint-François-Xavier-de-Brompton,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-François-Xavier-de-Brompton> .
+
+<http://dbpedia.org/resource/Saint-Guy,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Guy> .
+
+<http://dbpedia.org/resource/Saint-Herménégilde,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Herménégilde> .
+
+<http://dbpedia.org/resource/Saint-Hilaire-de-Dorset,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Hilaire-de-Dorset> .
+
+<http://dbpedia.org/resource/Saint-Honoré-de-Shenley,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Honoré-de-Shenley> .
+
+<http://dbpedia.org/resource/Saint-Ignace-de-Loyola,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Ignace-de-Loyola> .
+
+<http://dbpedia.org/resource/Saint-Isidore-de-Clifton,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Isidore-de-Clifton> .
+
+<http://dbpedia.org/resource/Saint-Jean-de-Matha,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Jean-de-Matha> .
+
+<http://dbpedia.org/resource/Saint-Joachim,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Joachim_(Québec)> .
+
+<http://dbpedia.org/resource/Saint-Joachim-de-Shefford,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Joachim-de-Shefford> .
+
+<http://dbpedia.org/resource/Saint-Joseph-de-Lepage,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Joseph-de-Lepage> .
+
+<http://dbpedia.org/resource/Saint-Joseph-du-Lac,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Joseph-du-Lac> .
+
+<http://dbpedia.org/resource/Saint-Jude,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Jude> .
+
+<http://dbpedia.org/resource/Saint-Luc-de-Bellechasse,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Luc-de-Bellechasse> .
+
+<http://dbpedia.org/resource/Saint-Lucien,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Lucien_(Québec)> .
+
+<http://dbpedia.org/resource/Saint-Léon-le-Grand,_Bas-Saint-Laurent,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Léon-le-Grand_(La_Matapédia)> .
+
+<http://dbpedia.org/resource/Saint-Marcellin,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Marcellin_(Québec)> .
+
+<http://dbpedia.org/resource/Saint-Mathieu-de-Beloeil,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Mathieu-de-Belœil> .
+
+<http://dbpedia.org/resource/Saint-Nazaire-d'Acton,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Nazaire-d'Acton> .
+
+<http://dbpedia.org/resource/Saint-Octave-de-Métis,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Octave-de-Métis> .
+
+<http://dbpedia.org/resource/Saint-Pascal,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Pascal> .
+
+<http://dbpedia.org/resource/Saint-Paul-de-la-Croix,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Paul-de-la-Croix> .
+
+<http://dbpedia.org/resource/Saint-Pierre-les-Becquets,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Pierre-les-Becquets> .
+
+<http://dbpedia.org/resource/Saint-Roch-des-Aulnaies> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Roch-des-Aulnaies> .
+
+<http://dbpedia.org/resource/Saint-Valère,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Valère> .
+
+<http://dbpedia.org/resource/Saint-Zénon-du-Lac-Humqui,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Zénon-du-Lac-Humqui> .
+
+<http://dbpedia.org/resource/Saint-Épiphane,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Saint-Épiphane> .
+
+<http://dbpedia.org/resource/Sainte-Agathe-des-Monts> owl:sameAs <http://fr.dbpedia.org/resource/Sainte-Agathe-des-Monts> .
+
+<http://dbpedia.org/resource/Sainte-Anne-de-Beaupré> owl:sameAs <http://fr.dbpedia.org/resource/Sainte-Anne-de-Beaupré> .
+
+<http://dbpedia.org/resource/Sainte-Brigitte-des-Saults,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Sainte-Brigitte-des-Saults> .
+
+<http://dbpedia.org/resource/Sainte-Cécile-de-Whitton,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Sainte-Cécile-de-Whitton> .
+
+<http://dbpedia.org/resource/Sainte-Edwidge-de-Clifton,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Sainte-Edwidge-de-Clifton> .
+
+<http://dbpedia.org/resource/Sainte-Gertrude-Manneville,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Sainte-Gertrude-Manneville> .
+
+<http://dbpedia.org/resource/Sainte-Luce,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Sainte-Luce_(Québec)> .
+
+<http://dbpedia.org/resource/Sainte-Lucie-des-Laurentides,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Sainte-Lucie-des-Laurentides> .
+
+<http://dbpedia.org/resource/Sainte-Marguerite-du-Lac-Masson,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Sainte-Marguerite-du-Lac-Masson> .
+
+<http://dbpedia.org/resource/Sainte-Marie-Madeleine,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Sainte-Marie-Madeleine> .
+
+<http://dbpedia.org/resource/Sainte-Thérèse-de-la-Gatineau,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Sainte-Thérèse-de-la-Gatineau> .
+
+<http://dbpedia.org/resource/Salaberry-de-Valleyfield> owl:sameAs <http://fr.dbpedia.org/resource/Salaberry-de-Valleyfield> .
+
+<http://dbpedia.org/resource/Santa_Monica,_California> owl:sameAs <http://fr.dbpedia.org/resource/Santa_Monica> .
+
+<http://dbpedia.org/resource/Scotland_national_under-21_football_team> owl:sameAs <http://fr.dbpedia.org/resource/Équipe_d'Écosse_espoirs_de_football> .
+
+<http://dbpedia.org/resource/Second_Cabinet_of_Donald_Tusk> owl:sameAs <http://fr.dbpedia.org/resource/Gouvernement_Tusk_II> .
+
+<http://dbpedia.org/resource/Second_Polish_Republic> owl:sameAs <http://fr.dbpedia.org/resource/Deuxième_République_de_Pologne> .
+
+<http://dbpedia.org/resource/Sejm> owl:sameAs <http://fr.dbpedia.org/resource/Diète_de_la_République_de_Pologne> .
+
+<http://dbpedia.org/resource/Senate_of_Romania> owl:sameAs <http://fr.dbpedia.org/resource/Sénat_(Roumanie)> .
+
+<http://dbpedia.org/resource/Senegal_national_football_team> owl:sameAs <http://fr.dbpedia.org/resource/Équipe_du_Sénégal_de_football> .
+
+<http://dbpedia.org/resource/Skopje> owl:sameAs <http://fr.dbpedia.org/resource/Skopje> .
+
+<http://dbpedia.org/resource/Slaheddine_Ben_Mbarek> owl:sameAs <http://fr.dbpedia.org/resource/Slaheddine_Ben_Mbarek> .
+
+<http://dbpedia.org/resource/Sly_and_the_Family_Stone> owl:sameAs <http://fr.dbpedia.org/resource/Sly_and_the_Family_Stone> .
+
+<http://dbpedia.org/resource/Social_Democratic_Party_of_Austria> owl:sameAs <http://fr.dbpedia.org/resource/Parti_social-démocrate_d'Autriche> .
+
+<http://dbpedia.org/resource/Social_Democratic_Party_of_Germany> owl:sameAs <http://fr.dbpedia.org/resource/Parti_social-démocrate_d'Allemagne> .
+
+<http://dbpedia.org/resource/Sociedade_Esportiva_Palmeiras> owl:sameAs <http://fr.dbpedia.org/resource/Sociedade_Esportiva_Palmeiras> .
+
+<http://dbpedia.org/resource/South_Africa> owl:sameAs <http://fr.dbpedia.org/resource/Afrique_du_Sud> .
+
+<http://dbpedia.org/resource/South_African_Republic> owl:sameAs <http://fr.dbpedia.org/resource/République_sud-africaine_du_Transvaal> .
+
+<http://dbpedia.org/resource/Spanish_Socialist_Workers'_Party> owl:sameAs <http://fr.dbpedia.org/resource/Parti_socialiste_ouvrier_espagnol> .
+
+<http://dbpedia.org/resource/Stade_Geoffroy-Guichard> owl:sameAs <http://fr.dbpedia.org/resource/Stade_Geoffroy-Guichard> .
+
+<http://dbpedia.org/resource/Stellenbosch_University> owl:sameAs <http://fr.dbpedia.org/resource/Université_de_Stellenbosch> .
+
+<http://dbpedia.org/resource/Steve_Jobs> owl:sameAs <http://fr.dbpedia.org/resource/Steve_Jobs> .
+
+<http://dbpedia.org/resource/Stevenage_F.C.> owl:sameAs <http://fr.dbpedia.org/resource/Stevenage_Football_Club> .
+
+<http://dbpedia.org/resource/Stoke,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Stoke> .
+
+<http://dbpedia.org/resource/Street_punk> owl:sameAs <http://fr.dbpedia.org/resource/Street_punk> .
+
+<http://dbpedia.org/resource/Stukely-Sud,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Stukely-Sud> .
+
+<http://dbpedia.org/resource/Stéphanie_de_Beauharnais> owl:sameAs <http://fr.dbpedia.org/resource/Stéphanie_de_Beauharnais> .
+
+<http://dbpedia.org/resource/Symphonic_metal> owl:sameAs <http://fr.dbpedia.org/resource/Metal_symphonique> .
+
+<http://dbpedia.org/resource/Symphonic_rock> owl:sameAs <http://fr.dbpedia.org/resource/Rock_symphonique> .
+
+<http://dbpedia.org/resource/Tennessee> owl:sameAs <http://fr.dbpedia.org/resource/Tennessee> .
+
+<http://dbpedia.org/resource/Teófilo_Braga> owl:sameAs <http://fr.dbpedia.org/resource/Teófilo_Braga> .
+
+<http://dbpedia.org/resource/The_Brian_Jonestown_Massacre> owl:sameAs <http://fr.dbpedia.org/resource/The_Brian_Jonestown_Massacre> .
+
+<http://dbpedia.org/resource/The_Jimi_Hendrix_Experience> owl:sameAs <http://fr.dbpedia.org/resource/The_Jimi_Hendrix_Experience> .
+
+<http://dbpedia.org/resource/The_Walt_Disney_Company> owl:sameAs <http://fr.dbpedia.org/resource/The_Walt_Disney_Company> .
+
+<http://dbpedia.org/resource/Third_Merkel_cabinet> owl:sameAs <http://fr.dbpedia.org/resource/Cabinet_Merkel_III> .
+
+<http://dbpedia.org/resource/Thomas_de_Maizière> owl:sameAs <http://fr.dbpedia.org/resource/Thomas_de_Maizière> .
+
+<http://dbpedia.org/resource/Thrash_metal> owl:sameAs <http://fr.dbpedia.org/resource/Thrash_metal> .
+
+<http://dbpedia.org/resource/Tim_Kaine> owl:sameAs <http://fr.dbpedia.org/resource/Tim_Kaine> .
+
+<http://dbpedia.org/resource/Time_Warner> owl:sameAs <http://fr.dbpedia.org/resource/Time_Warner> .
+
+<http://dbpedia.org/resource/Tom_Morello> owl:sameAs <http://fr.dbpedia.org/resource/Tom_Morello> .
+
+<http://dbpedia.org/resource/Tomazetti> owl:sameAs <http://fr.dbpedia.org/resource/Tomazetti> .
+
+<http://dbpedia.org/resource/Torcuato_Fernández-Miranda> owl:sameAs <http://fr.dbpedia.org/resource/Torcuato_Fernández_Miranda> .
+
+<http://dbpedia.org/resource/Tunisia_national_under-23_football_team> owl:sameAs <http://fr.dbpedia.org/resource/Équipe_de_Tunisie_olympique_de_football> .
+
+<http://dbpedia.org/resource/Témiscouata_Regional_County_Municipality> owl:sameAs <http://fr.dbpedia.org/resource/Témiscouata> .
+
+<http://dbpedia.org/resource/Ueli_Maurer> owl:sameAs <http://fr.dbpedia.org/resource/Ueli_Maurer> .
+
+<http://dbpedia.org/resource/Uglione> owl:sameAs <http://fr.dbpedia.org/resource/Uglione> .
+
+<http://dbpedia.org/resource/Union_between_Sweden_and_Norway> owl:sameAs <http://fr.dbpedia.org/resource/Suède-Norvège> .
+
+<http://dbpedia.org/resource/United_States_Army> owl:sameAs <http://fr.dbpedia.org/resource/United_States_Army> .
+
+<http://dbpedia.org/resource/United_States_Department_of_Defense> owl:sameAs <http://fr.dbpedia.org/resource/Département_de_la_Défense_des_États-Unis> .
+
+<http://dbpedia.org/resource/University_of_Cape_Town> owl:sameAs <http://fr.dbpedia.org/resource/Université_du_Cap> .
+
+<http://dbpedia.org/resource/University_of_Coimbra> owl:sameAs <http://fr.dbpedia.org/resource/Université_de_Coimbra> .
+
+<http://dbpedia.org/resource/University_of_London> owl:sameAs <http://fr.dbpedia.org/resource/Université_de_Londres> .
+
+<http://dbpedia.org/resource/University_of_Miami> owl:sameAs <http://fr.dbpedia.org/resource/Université_de_Miami> .
+
+<http://dbpedia.org/resource/University_of_Montpellier> owl:sameAs <http://fr.dbpedia.org/resource/Université_de_Montpellier> .
+
+<http://dbpedia.org/resource/University_of_Paris-Sud> owl:sameAs <http://fr.dbpedia.org/resource/Université_Paris-Sud> .
+
+<http://dbpedia.org/resource/University_of_Pennsylvania> owl:sameAs <http://fr.dbpedia.org/resource/Université_de_Pennsylvanie> .
+
+<http://dbpedia.org/resource/University_of_Wrocław> owl:sameAs <http://fr.dbpedia.org/resource/Université_de_Wrocław> .
+
+<http://dbpedia.org/resource/University_of_Zurich> owl:sameAs <http://fr.dbpedia.org/resource/Université_de_Zurich> .
+
+<http://dbpedia.org/resource/Upton,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Upton> .
+
+<http://dbpedia.org/resource/Urban_agglomeration_of_Longueuil> owl:sameAs <http://fr.dbpedia.org/resource/Agglomération_de_Longueuil> .
+
+<http://dbpedia.org/resource/Uruguay> owl:sameAs <http://fr.dbpedia.org/resource/Uruguay> .
+
+<http://dbpedia.org/resource/Val-Joli,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Val-Joli> .
+
+<http://dbpedia.org/resource/Val-des-Monts,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Val-des-Monts> .
+
+<http://dbpedia.org/resource/Verchères> owl:sameAs <http://fr.dbpedia.org/resource/Verchères> .
+
+<http://dbpedia.org/resource/Versailles_Saint-Quentin-en-Yvelines_University> owl:sameAs <http://fr.dbpedia.org/resource/Université_de_Versailles-Saint-Quentin-en-Yvelines> .
+
+<http://dbpedia.org/resource/Verve_Records> owl:sameAs <http://fr.dbpedia.org/resource/Verve_Records> .
+
+<http://dbpedia.org/resource/Viceroyalty_of_the_Río_de_la_Plata> owl:sameAs <http://fr.dbpedia.org/resource/Vice-royauté_du_Río_de_la_Plata> .
+
+<http://dbpedia.org/resource/Victoria_Eugenie_of_Battenberg> owl:sameAs <http://fr.dbpedia.org/resource/Victoire-Eugénie_de_Battenberg> .
+
+<http://dbpedia.org/resource/Victoriaville> owl:sameAs <http://fr.dbpedia.org/resource/Victoriaville> .
+
+<http://dbpedia.org/resource/Viktor_Orbán> owl:sameAs <http://fr.dbpedia.org/resource/Viktor_Orbán> .
+
+<http://dbpedia.org/resource/Ville-Marie,_Montreal> owl:sameAs <http://fr.dbpedia.org/resource/Ville-Marie_(arrondissement)> .
+
+<http://dbpedia.org/resource/Villeroy,_Quebec> owl:sameAs <http://fr.dbpedia.org/resource/Villeroy_(Québec)> .
+
+<http://dbpedia.org/resource/Walt_Disney_Pictures> owl:sameAs <http://fr.dbpedia.org/resource/Walt_Disney_Pictures> .
+
+<http://dbpedia.org/resource/Walter_Scheel> owl:sameAs <http://fr.dbpedia.org/resource/Walter_Scheel> .
+
+<http://dbpedia.org/resource/Warsaw> owl:sameAs <http://fr.dbpedia.org/resource/Varsovie> .
+
+<http://dbpedia.org/resource/Welcome_to_the_Pleasuredome> owl:sameAs <http://fr.dbpedia.org/resource/Welcome_to_the_Pleasuredome_(album)> .
+
+<http://dbpedia.org/resource/Western_Sydney_Wanderers_FC> owl:sameAs <http://fr.dbpedia.org/resource/Western_Sydney_Wanderers_Football_Club> .
+
+<http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania> owl:sameAs <http://fr.dbpedia.org/resource/Wharton_School> .
+
+<http://dbpedia.org/resource/Zack_de_la_Rocha> owl:sameAs <http://fr.dbpedia.org/resource/Zack_de_la_Rocha> .
+
+<http://dbpedia.org/resource/Zakir_Husain_(politician)> owl:sameAs <http://fr.dbpedia.org/resource/Zakir_Hussain_(homme_politique)> .
+
+<http://dbpedia.org/resource/Île-de-France> owl:sameAs <http://fr.dbpedia.org/resource/Île-de-France> .
+
