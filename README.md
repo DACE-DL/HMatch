@@ -9,7 +9,7 @@ HMatch is a hybrid approach which combines statistical and symbolic methods for 
 This repository contains the original DB15PK multi-lingual datasets and the sampled datasets which are derived from them.
 The original datasets are four: French (fr), English (en), Chinese (zh) and Japanese (ja).
 
-The refined datasets, refinedXXX, presented here are sampled from the original datasets using various statistical methods such as LIMES, BERT, and TransE.
+The refined datasets, refinedXXX, presented here are sampled from the original datasets using various statistical methods such as BERT, and TransEdge.
 
 # Settings
 Only the alignments whose value of confidence exceeds 0.99 are considered for dbp15k datasets. 
