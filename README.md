@@ -10,3 +10,6 @@ This repository contains the original DB15PK multi-lingual datasets and the samp
 The original datasets are four: French (fr), English (en), Chinese (zh) and Japanese (ja).
 
 The refined datasets, refinedXXX, presented here are sampled from the original datasets using various statistical methods such as LIMES, BERT, and TransE.
+
+# Settings
+Only the alignments whose value of confidence exceeds 0.99 are considered for dbp15k datasets. 
