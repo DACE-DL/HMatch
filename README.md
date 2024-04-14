@@ -29,4 +29,4 @@ Direction 2:
 - Step 2:   linkex  -t in -f testselect -e path/to/identitylinks path/to/sampledSourceKG path/to/sampledTargetKG
 
 # Evaluation
-The script EvLinkex.py allows to evaluate the quality of the link keys extracted, passing the arguments path/to/Linkeys path/to/SourceKG path/to/TargetKG
+The script EvLinkex.py allows to evaluate the quality of the link keys extracted, passing the arguments path/to/Linkeys path/to/SourceKG path/to/TargetKG. It display the coverage, discriminability and hmean of the first 10 link keys.
