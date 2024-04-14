@@ -6,13 +6,15 @@ HMatch is a hybrid approach which combines statistical and symbolic methods for 
 
 # Dataset Description
 
-This repository contains the original DB15PK multi-lingual datasets and the sampled datasets which are derived from them.
+This repository contains the original DB15PK multi-lingual KGs and the sampled datasets which are derived from them.
 The original datasets are four: French (fr), English (en), Chinese (zh) and Japanese (ja).
 
-The refined datasets, refinedXXX, presented here are sampled from the original datasets using various statistical methods such as BERT, and TransEdge.
+The refined datasets, refinedXXX, presented here are sampled from the original KGs using various statistical methods such as BERT, and TransEdge.
 
 # Settings
+
 For DB15PK KGs the alignments whose value of confidence exceeds 0.99 are used for sampling. 
+For Memoryalpha-Star Trek Expanded Universe all alignments are considered.
 
 # Running
 Direction 1:
@@ -21,5 +23,5 @@ Direction 1:
 - Step 2: Launching Linkex on the sampled KGs https://gitlab.inria.fr/moex/linkex.
   
 Direction 2:
-- Step 1: linkex is an alias, in bash you have to write first : alias  linkex='java -mx12G -jar  /PATH/TO/LINKEX//LinkkeyDiscovery-1.0-SNAPSHOT-jar-with-dependencies.jar'.
+- Step 1: linkex is an alias, in bash you have to write first : alias  linkex='java -mx12G -jar  path/to/LINKEX//LinkkeyDiscovery-1.0-SNAPSHOT-jar-with-dependencies.jar'.
 - Step 2:   linkex  -t in -f testselect -e path/to/identitylinks path/to/sampledSourceKG path/to/sampledTargetKG
