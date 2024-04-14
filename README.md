@@ -14,6 +14,7 @@ The refined datasets, refinedXXX, presented here are sampled from the original K
 # Settings
 
 For DB15PK KGs the alignments whose value of confidence exceeds 0.99 are used for sampling. 
+
 For Memoryalpha-Star Trek Expanded Universe all alignments are considered.
 
 # Running
