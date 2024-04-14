@@ -20,9 +20,13 @@ For Memoryalpha-Star Trek Expanded Universe all alignments are considered.
 # Running
 Direction 1:
 
-- Step 1: Sampling of the datasets using sampling.py passing as arguments the path to the source KG, the path to the target KG, the path to the identity links, the path to the sampled source KG, the path to the sampled target KG.
+- Step 1: Sampling of the datasets using sampling.py passing as arguments path/to/SourceKG path/to/TargetKG path/to/identitylinks path/to/sampledSourceKG  path/to/sampledTargetKG.
 - Step 2: Launching Linkex on the sampled KGs https://gitlab.inria.fr/moex/linkex.
-  
+
 Direction 2:
+
 - Step 1: linkex is an alias, in bash you have to write first : alias  linkex='java -mx12G -jar  path/to/LINKEX//LinkkeyDiscovery-1.0-SNAPSHOT-jar-with-dependencies.jar'.
 - Step 2:   linkex  -t in -f testselect -e path/to/identitylinks path/to/sampledSourceKG path/to/sampledTargetKG
+
+# Evaluation
+The script EvLinkex.py allows to evaluate the quality of the link keys extracted, passing the arguments path/to/Linkeys path/to/SourceKG path/to/TargetKG
