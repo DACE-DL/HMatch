@@ -11,11 +11,6 @@ The original datasets are four: French (fr), English (en), Chinese (zh) and Japa
 
 The sampled datasets, sampledXXX, presented here are sampled from the original KGs using various statistical methods such as BERT, and TransEdge.
 
-# Settings
-
-For DB15PK KGs the alignments whose value of confidence exceeds 0.99 are used for sampling. 
-
-For Memoryalpha-Star Trek Expanded Universe all alignments are considered.
 
 # Running
 Direction 1:
