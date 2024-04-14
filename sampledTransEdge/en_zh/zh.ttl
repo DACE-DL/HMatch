@@ -1,0 +1,3333 @@
+@prefix ns1: <http://zh.dbpedia.org/property/> .
+@prefix ns2: <http://zh.dbpedia.org/property/thrust/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://zh.dbpedia.org/resource/2004–05年歐洲足協盃> ns1:bc "#ccffcc"@zh ;
+    ns1:champion "莫斯科中央陸軍"@zh ;
+    ns1:count 1 ;
+    ns1:dates 2004,
+        "　　–2005年5月18日"@zh ;
+    ns1:ga 1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11,
+        12,
+        13,
+        15,
+        16 ;
+    ns1:gf 2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11 ;
+    ns1:nat "AUT"@zh,
+        "BEL"@zh,
+        "CRO"@zh,
+        "ENG"@zh,
+        "ESP"@zh,
+        "FRA"@zh,
+        "GEO"@zh,
+        "GER"@zh,
+        "GRE"@zh,
+        "HUN"@zh,
+        "ITA"@zh,
+        "NED"@zh,
+        "POL"@zh,
+        "POR"@zh,
+        "ROU"@zh,
+        "RUS"@zh,
+        "SCG"@zh,
+        "SCO"@zh,
+        "SUI"@zh,
+        "TUR"@zh,
+        "UKR"@zh ;
+    ns1:nextseason 2005 ;
+    ns1:prevseason 2003 ;
+    ns1:rd "三 十 二 強"@zh,
+        "十 六 強"@zh,
+        "半 準 決 賽"@zh,
+        "決　賽"@zh,
+        "準 決 賽"@zh ;
+    ns1:rd1Score 0,
+        1,
+        2,
+        3 ;
+    ns1:rd1Score01Agg 2 ;
+    ns1:rd1Score02Agg 0 ;
+    ns1:rd1Score03Agg 2 ;
+    ns1:rd1Score04Agg 4 ;
+    ns1:rd1Score05Agg 3 ;
+    ns1:rd1Score06Agg 4 ;
+    ns1:rd1Score07Agg 4 ;
+    ns1:rd1Score08Agg 2 ;
+    ns1:rd1Score09Agg 2 ;
+    ns1:rd1Score10Agg 2 ;
+    ns1:rd1Score11Agg 0 ;
+    ns1:rd1Score12Agg 2 ;
+    ns1:rd1Score13Agg 2 ;
+    ns1:rd1Score14Agg 1 ;
+    ns1:rd1Score15Agg 1 ;
+    ns1:rd1Score16Agg 2 ;
+    ns1:rd1Score17Agg 2 ;
+    ns1:rd1Score18Agg 1 ;
+    ns1:rd1Score19Agg 1 ;
+    ns1:rd1Score20Agg 3 ;
+    ns1:rd1Score21Agg 1 ;
+    ns1:rd1Score22Agg 2 ;
+    ns1:rd1Score23Agg 2 ;
+    ns1:rd1Score24Agg 0 ;
+    ns1:rd1Score25Agg 3 ;
+    ns1:rd1Score26Agg 2 ;
+    ns1:rd1Score27Agg 3 ;
+    ns1:rd1Score28Agg 1 ;
+    ns1:rd1Score29Agg 0 ;
+    ns1:rd1Score30Agg 2 ;
+    ns1:rd1Score31Agg 2 ;
+    ns1:rd1Score32Agg 3 ;
+    ns1:rd1Team "亞琛"@zh,
+        "史浩克零四"@zh,
+        "史特加"@zh,
+        "基輔戴拿模"@zh,
+        "士砵亭"@zh,
+        "奧地利維也納"@zh,
+        "奧林比亞高斯"@zh,
+        "巴素利"@zh,
+        "布加勒斯特星隊（p）"@zh,
+        "帕爾馬"@zh,
+        "彭拿典奈高斯"@zh,
+        "柏迪遜"@zh,
+        "格拉茨AK"@zh,
+        "歐塞爾"@zh,
+        "海倫芬"@zh,
+        "畢爾包"@zh,
+        "米杜士堡"@zh,
+        "紐卡素"@zh,
+        "索察'''"@zh,
+        "維拉利爾"@zh,
+        "莫斯科中央陸軍"@zh,
+        "華倫西亞"@zh,
+        "薩克達"@zh,
+        "薩拉戈薩"@zh,
+        "西維爾"@zh,
+        "費倫巴治"@zh,
+        "賓菲加"@zh,
+        "迪尼普"@zh,
+        "里爾"@zh,
+        "阿爾克馬爾"@zh,
+        "阿積士"@zh,
+        "飛燕諾"@zh ;
+    ns1:rd2Score 0,
+        1,
+        2,
+        3,
+        4 ;
+    ns1:rd2Score01Agg 1 ;
+    ns1:rd2Score02Agg 7 ;
+    ns1:rd2Score03Agg 2 ;
+    ns1:rd2Score04Agg 4 ;
+    ns1:rd2Score05Agg 0 ;
+    ns1:rd2Score06Agg 2 ;
+    ns1:rd2Score07Agg 2 ;
+    ns1:rd2Score08Agg 5 ;
+    ns1:rd2Score09Agg 3 ;
+    ns1:rd2Score10Agg 3 ;
+    ns1:rd2Score11Agg 0 ;
+    ns1:rd2Score12Agg 1 ;
+    ns1:rd2Score13Agg 1 ;
+    ns1:rd2Score14Agg 3 ;
+    ns1:rd2Score15Agg 0 ;
+    ns1:rd2Score16Agg 1 ;
+    ns1:rd2Team "士砵亭"@zh,
+        "奧地利維也納（a）"@zh,
+        "奧林比亞高斯"@zh,
+        "布加勒斯特星隊"@zh,
+        "帕爾馬"@zh,
+        "柏迪遜"@zh,
+        "歐塞爾"@zh,
+        "米杜士堡"@zh,
+        "紐卡素"@zh,
+        "維拉利爾"@zh,
+        "莫斯科中央陸軍"@zh,
+        "薩克達"@zh,
+        "薩拉戈薩"@zh,
+        "西維爾"@zh,
+        "里爾"@zh,
+        "阿爾克馬爾"@zh ;
+    ns1:rd3Score 0,
+        1,
+        2,
+        4 ;
+    ns1:rd3Score01Agg 2 ;
+    ns1:rd3Score02Agg 4 ;
+    ns1:rd3Score03Agg 2 ;
+    ns1:rd3Score04Agg 3 ;
+    ns1:rd3Score05Agg 1 ;
+    ns1:rd3Score06Agg 1 ;
+    ns1:rd3Score07Agg 4 ;
+    ns1:rd3Score08Agg 2 ;
+    ns1:rd3Team "士砵亭"@zh,
+        "奧地利維也納"@zh,
+        "帕爾馬（a）"@zh,
+        "歐塞爾"@zh,
+        "紐卡素"@zh,
+        "維拉利爾"@zh,
+        "莫斯科中央陸軍"@zh,
+        "阿爾克馬爾"@zh ;
+    ns1:rd4Score 0,
+        1,
+        2,
+        3 ;
+    ns1:rd4Score01Agg 4 ;
+    ns1:rd4Score02Agg 4 ;
+    ns1:rd4Score03Agg 0 ;
+    ns1:rd4Score04Agg 3 ;
+    ns1:rd4Team "士砵亭（a）"@zh,
+        "帕爾馬"@zh,
+        "莫斯科中央陸軍"@zh,
+        "阿爾克馬爾"@zh ;
+    ns1:rd5Score 1,
+        3 ;
+    ns1:rd5Team "士砵亭"@zh,
+        "莫斯科中央陸軍"@zh ;
+    ns1:resultTh "三十二強出局"@zh ;
+    ns1:runnerUp "士砵亭"@zh ;
+    ns1:t <http://zh.dbpedia.org/resource/AEK雅典足球會>,
+        <http://zh.dbpedia.org/resource/AZ_(足球會)>,
+        <http://zh.dbpedia.org/resource/亞琛足球俱樂部>,
+        <http://zh.dbpedia.org/resource/哈茨足球俱樂部>,
+        <http://zh.dbpedia.org/resource/塞維利亞足球俱樂部>,
+        <http://zh.dbpedia.org/resource/奧地利維也納足球會>,
+        <http://zh.dbpedia.org/resource/巴塞爾足球俱樂部>,
+        <http://zh.dbpedia.org/resource/布加勒斯特星足球俱樂部>,
+        <http://zh.dbpedia.org/resource/布魯日足球俱樂部>,
+        <http://zh.dbpedia.org/resource/帕尔玛足球俱乐部>,
+        <http://zh.dbpedia.org/resource/帕尼奥尼奥斯足球俱樂部>,
+        <http://zh.dbpedia.org/resource/拉素體育會>,
+        <http://zh.dbpedia.org/resource/斯图加特足球俱乐部>,
+        <http://zh.dbpedia.org/resource/格拉茨AK競技會>,
+        <http://zh.dbpedia.org/resource/歐塞爾足球俱樂部>,
+        <http://zh.dbpedia.org/resource/比利亚雷亚尔足球俱乐部>,
+        <http://zh.dbpedia.org/resource/沙爾克04足球俱樂部>,
+        <http://zh.dbpedia.org/resource/流浪者足球俱樂部>,
+        <http://zh.dbpedia.org/resource/海倫芬體育會>,
+        <http://zh.dbpedia.org/resource/游擊隊足球俱樂部>,
+        <http://zh.dbpedia.org/resource/烏德勒支足球會>,
+        <http://zh.dbpedia.org/resource/畢爾巴鄂競技俱樂部>,
+        <http://zh.dbpedia.org/resource/皇家標準列治>,
+        <http://zh.dbpedia.org/resource/皇家薩拉戈薩>,
+        <http://zh.dbpedia.org/resource/第比利斯迪纳摩足球俱乐部>,
+        <http://zh.dbpedia.org/resource/第聶伯羅彼得羅夫斯克足球俱樂部>,
+        <http://zh.dbpedia.org/resource/米德尔斯堡足球俱乐部>,
+        <http://zh.dbpedia.org/resource/索肖足球俱樂部>,
+        <http://zh.dbpedia.org/resource/纽卡斯尔联足球俱乐部>,
+        <http://zh.dbpedia.org/resource/聖彼得堡澤尼特足球俱樂部>,
+        <http://zh.dbpedia.org/resource/艾加里奧足球會>,
+        <http://zh.dbpedia.org/resource/萨格勒布迪纳摩足球俱乐部>,
+        <http://zh.dbpedia.org/resource/葡萄牙士砵亭俱樂部>,
+        <http://zh.dbpedia.org/resource/貝弗倫皇家體育會>,
+        <http://zh.dbpedia.org/resource/費倫斯華路士體育會>,
+        <http://zh.dbpedia.org/resource/贝西克塔斯体操俱乐部>,
+        <http://zh.dbpedia.org/resource/里斯本與本菲卡體育俱樂部>,
+        <http://zh.dbpedia.org/resource/里爾奧林匹克體育會>,
+        <http://zh.dbpedia.org/resource/阿米卡弗龍基體育會>,
+        <http://zh.dbpedia.org/resource/飛燕諾> ;
+    ns1:titleHolder "華倫西亞"@zh ;
+    ns1:tourneyName "歐洲足協盃"@zh ;
+    ns1:year 2004 .
+
+<http://zh.dbpedia.org/resource/ARM架構> ns1:bits 32 ;
+    ns1:branching "条件代码"@zh ;
+    ns1:caption "ARM标志"@zh ;
+    ns1:date 2007 ;
+    ns1:design <http://zh.dbpedia.org/resource/精简指令集> ;
+    ns1:designer <http://zh.dbpedia.org/resource/ARM_Holdings> ;
+    ns1:imageSize 200 ;
+    ns1:introduced 1985 ;
+    ns1:name "ARM架構"@zh ;
+    ns1:open "专有"@zh ;
+    ns1:time "2007-11-01"^^xsd:date ;
+    ns1:type <http://zh.dbpedia.org/resource/寄存器> .
+
+<http://zh.dbpedia.org/resource/Apache软件基金会> ns1:focus <http://zh.dbpedia.org/resource/开源软件> ;
+    ns1:foundedDate 1999 ;
+    ns1:founder "Brian Behlendorf, Ken Coar, Mark Cox, Lars Eilebrecht, Ralf S. Engelschall, Roy T. Fielding, Dean Gaudet, Ben Hyde, Jim Jagielski, Alexei Kosut, Martin Kraemer, Ben Laurie, Doug MacEachern, Aram Mirzadeh, Sameer Parekh, Cliff Skolnick, Marc Slemko, William (Bill) Stoddard, Paul Sutton, Randy Terbush, Dirk-Willem van Gulik"@zh ;
+    ns1:location "美国马里兰州森林山"@zh ;
+    ns1:method <http://zh.dbpedia.org/resource/Apache许可证> ;
+    ns1:nonProfitLogo 250 ;
+    ns1:nonProfitName "Apache软件基金会"@zh ;
+    ns1:nonProfitType 501 .
+
+<http://zh.dbpedia.org/resource/Avex_trax> ns1:country <http://zh.dbpedia.org/resource/日本> ;
+    ns1:genre "多元化"@zh ;
+    ns1:location "東京都港區"@zh ;
+    ns1:name "avex trax"@zh ;
+    ns1:parent <http://zh.dbpedia.org/resource/愛貝克思集團> .
+
+<http://zh.dbpedia.org/resource/DC漫畫> ns1:companyLogo 160 ;
+    ns1:companyName "DC漫畫"@zh ;
+    ns1:companyType <http://zh.dbpedia.org/resource/华纳兄弟> ;
+    ns1:divisions <http://zh.dbpedia.org/resource/MAD杂志>,
+        "Vertigo漫画公司（Vertigo）"@zh,
+        "野风漫画公司（Wildstorm）"@zh ;
+    ns1:foundation 1934 ;
+    ns1:id 1 ;
+    ns1:industry <http://zh.dbpedia.org/resource/漫画> ;
+    ns1:keyPeople <http://zh.dbpedia.org/resource/丹·迪迪奥>,
+        <http://zh.dbpedia.org/resource/保羅·列維茲> ;
+    ns1:location "紐約州紐約市曼哈頓中城1700 Broadway大廈"@zh ;
+    ns1:parent <http://zh.dbpedia.org/resource/時代華納> ;
+    ns1:products "詳見 DC漫畫出版列表"@zh ;
+    ns1:type "publisher"@zh .
+
+<http://zh.dbpedia.org/resource/Dish_Network> ns1:areaServed "美國"@zh ;
+    ns1:assets "US$ 203.75億（2013）"@zh ;
+    ns1:equity "US$ 9.97005億（2013）"@zh ;
+    ns1:foundation 1996 ;
+    ns1:founder <http://zh.dbpedia.org/resource/Charlie_Ergen>,
+        "Candy Ergen"@zh,
+        "Jim DeFranco"@zh ;
+    ns1:industry <http://zh.dbpedia.org/resource/卫星电视> ;
+    ns1:intl "yes"@zh ;
+    ns1:keyPeople <http://zh.dbpedia.org/resource/Charlie_Ergen>,
+        "(董事和CEO)"@zh,
+        "(董事長)"@zh,
+        "Joseph P. Clayton"@zh ;
+    ns1:locationCity <http://zh.dbpedia.org/resource/子午圈_(科羅拉多州)>,
+        <http://zh.dbpedia.org/resource/科羅拉多州> ;
+    ns1:locationCountry "美國"@zh ;
+    ns1:logo 200 ;
+    ns1:name "Dish Network Corporation"@zh ;
+    ns1:netIncome "US$ 8.07492億（2013）"@zh ;
+    ns1:numEmployees 34000 ;
+    ns1:operatingIncome "US$ 12.2億（2012）"@zh ;
+    ns1:products <http://zh.dbpedia.org/resource/付費電視>,
+        <http://zh.dbpedia.org/resource/廣播衛星> ;
+    ns1:revenue "US$ 139億（2013）"@zh ;
+    ns1:subsid <http://zh.dbpedia.org/resource/百視達>,
+        "DBSD North America"@zh,
+        "Liberty Bell Telecom"@zh ;
+    ns1:type <http://zh.dbpedia.org/resource/上市公司> .
+
+<http://zh.dbpedia.org/resource/ERJ-145系列> ns1:caption "法国支线航空的ERJ-145"@zh ;
+    ns1:developedFrom <http://zh.dbpedia.org/resource/EMB-120> ;
+    ns1:firstFlight 1995 ;
+    ns1:introduced 1996 ;
+    ns1:manufacturer <http://zh.dbpedia.org/resource/巴西航空工业公司> ;
+    ns1:name "ERJ 135/ERJ 140/ERJ 145"@zh ;
+    ns1:numberBuilt 1100 ;
+    ns1:related """* EMB-121
+* ERJ-170系列"""@zh ;
+    ns1:sequence "* EMB-110 - EMB-120 - EMB-121 - ERJ-145 - ERJ-140 - ERJ-135 - Legacy 600- ERJ-170(E-170) - ERJ-175(E-175) - ERJ190(E-190) - ERJ-195(E-195) - Lineage 1000(ERJ-190 公務版)"@zh ;
+    ns1:status "生产中"@zh ;
+    ns1:type <http://zh.dbpedia.org/resource/支线飞机> .
+
+<http://zh.dbpedia.org/resource/Fender_Stratocaster> ns1:bgcolor "#FFFFFF"@zh ;
+    ns1:bodytype <http://zh.dbpedia.org/resource/切角>,
+        <http://zh.dbpedia.org/resource/實心琴身> ;
+    ns1:bridge <http://zh.dbpedia.org/resource/佛洛伊德·羅斯>,
+        <http://zh.dbpedia.org/resource/搖座> ;
+    ns1:colors "60.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:manufacturer <http://zh.dbpedia.org/resource/芬達樂器公司> ;
+    ns1:necktype <http://zh.dbpedia.org/resource/接鎖式琴頸>,
+        <http://zh.dbpedia.org/resource/黏合式琴頸> ;
+    ns1:period 1954 ;
+    ns1:pickups 3,
+        "由於雙線圈拾音器輸出訊號的低音較單線圈飽滿、厚實，故一般暱稱雙線圈者為「Fat Strats」"@zh ;
+    ns1:scale 2.55e+01 ;
+    ns1:title "Fender Stratocaster"@zh ;
+    ns1:woodbody <http://zh.dbpedia.org/resource/梣樹>,
+        <http://zh.dbpedia.org/resource/楊屬>,
+        <http://zh.dbpedia.org/resource/榿木屬>,
+        "限量版吉他可選用各種木材，包括椴樹、桃花心木和相思木（皆不為夾板），搭配虎紋、火焰或雲紋楓木面板及黑色、奶油色或象牙白琴身和琴頸接合"@zh ;
+    ns1:woodfingerboard <http://zh.dbpedia.org/resource/巴西黑黃檀>,
+        <http://zh.dbpedia.org/resource/楓屬>,
+        <http://zh.dbpedia.org/resource/玫瑰木>,
+        <http://zh.dbpedia.org/resource/紅檀>,
+        "多數機型配有21個復古琴衍、白或黑色琴格圓點及7.25\"圓弧度；較高檔的當代版本則有22個銅條琴衍、鮑魚貝殼鑲嵌琴格圓點及9.5\"圓弧度"@zh ;
+    ns1:woodneck <http://zh.dbpedia.org/resource/楓屬> .
+
+<http://zh.dbpedia.org/resource/GNU通用公共许可证> ns1:author <http://zh.dbpedia.org/resource/自由软件基金会> ;
+    ns1:caption "GNU GPLv3 Logo"@zh ;
+    ns1:copyfree "否"@zh ;
+    ns1:copyleft "是"@zh ;
+    ns1:copyright "自由软件基金会"@zh ;
+    ns1:date 2007 ;
+    ns1:debianApproved "是"@zh ;
+    ns1:freeSoftware "是"@zh ;
+    ns1:linking "仅可与GNU AGPLv3代码相链接"@zh ;
+    ns1:name "GNU通用公共许可证"@zh ;
+    ns1:osiApproved "是"@zh ;
+    ns1:version "第3版"@zh .
+
+<http://zh.dbpedia.org/resource/JAR_(文件格式)> ns1:extendedFrom <http://zh.dbpedia.org/resource/ZIP> ;
+    ns1:extension ".jar"@zh ;
+    ns1:genre <http://zh.dbpedia.org/resource/数据压缩>,
+        <http://zh.dbpedia.org/resource/文件格式> ;
+    ns1:icon <http://zh.dbpedia.org/resource/File:Nuvola_mimetypes_java_jar.png> ;
+    ns1:mime "application/java-archive"@zh ;
+    ns1:name "Java ARchive"@zh ;
+    ns1:owner <http://zh.dbpedia.org/resource/昇陽電腦>,
+        <http://zh.dbpedia.org/resource/甲骨文公司>,
+        <http://zh.dbpedia.org/resource/網景> ;
+    ns1:uniformType "com.sun.java-archive"@zh .
+
+<http://zh.dbpedia.org/resource/JPEG_XR> ns1:extension ".wdp/.hdp/.jxr"@zh ;
+    ns1:genre <http://zh.dbpedia.org/resource/图形文件格式比较> ;
+    ns1:mime "image/vnd.ms-photo"@zh ;
+    ns1:name "JPEG XR"@zh ;
+    ns1:owner <http://zh.dbpedia.org/resource/国际电工委员会>,
+        <http://zh.dbpedia.org/resource/國際標準化組織>,
+        <http://zh.dbpedia.org/resource/國際電信聯盟電信標準化部門>,
+        <http://zh.dbpedia.org/resource/微软> .
+
+<http://zh.dbpedia.org/resource/Jive唱片公司> ns1:country "美國"@zh ;
+    ns1:defunct 2011 ;
+    ns1:distributor <http://zh.dbpedia.org/resource/RCA_Music_Group>,
+        <http://zh.dbpedia.org/resource/RCA唱片> ;
+    ns1:founded 1981 ;
+    ns1:founder <http://zh.dbpedia.org/resource/Clive_Calder> ;
+    ns1:genre "Various"@zh ;
+    ns1:location <http://zh.dbpedia.org/resource/纽约> ;
+    ns1:parent <http://zh.dbpedia.org/resource/索尼音樂娛樂> ;
+    ns1:status "Defunct"@zh .
+
+<http://zh.dbpedia.org/resource/MIT許可證> ns1:author <http://zh.dbpedia.org/resource/麻省理工学院> ;
+    ns1:copyleft "否"@zh ;
+    ns1:copyright "麻省理工学院"@zh ;
+    ns1:date 1988 ;
+    ns1:debianApproved "是"@zh ;
+    ns1:freeSoftware "是"@zh ;
+    ns1:gplCompatible "是"@zh ;
+    ns1:linking "是"@zh ;
+    ns1:name "MIT授權條款/X11授權條款"@zh ;
+    ns1:osiApproved "是"@zh .
+
+<http://zh.dbpedia.org/resource/Mk_41垂直發射系統> ns1:caption "A single 8-cell Mk 41 VLS module fitted to New Zealand frigate"@zh ;
+    ns1:designDate "1970.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:diameter "戰術型:6.76公尺"@zh,
+        "打擊型:7.6公尺"@zh,
+        "自衛型:5.2公尺"@zh ;
+    ns1:isRanged "yes"@zh ;
+    ns1:manufacturer <http://zh.dbpedia.org/resource/Martin_Marietta>,
+        <http://zh.dbpedia.org/resource/洛克希德·马丁> ;
+    ns1:name "Mk 41垂直發射系統"@zh ;
+    ns1:origin <http://zh.dbpedia.org/resource/美国> ;
+    ns1:rate "每秒一發"@zh ;
+    ns1:service 1986 ;
+    ns1:type <http://zh.dbpedia.org/resource/艦載垂直發射系統> ;
+    ns1:usedBy <http://zh.dbpedia.org/resource/美國海軍> ;
+    ns1:variants "Mk 57"@zh ;
+    ns1:wars <http://zh.dbpedia.org/resource/两伊战争>,
+        <http://zh.dbpedia.org/resource/冷战>,
+        <http://zh.dbpedia.org/resource/反恐戰爭>,
+        <http://zh.dbpedia.org/resource/海湾战争>,
+        <http://zh.dbpedia.org/resource/科索沃战争> ;
+    ns1:weight "戰術型13.517公噸"@zh,
+        "打擊型:14.514公噸"@zh,
+        "自衛型:12.156公噸"@zh ;
+    ns1:width 6.35e+01 .
+
+<http://zh.dbpedia.org/resource/NBA> ns1:ceo <http://zh.dbpedia.org/resource/亚当·萧华> ;
+    ns1:champion "金州勇士隊（第4次）"@zh ;
+    ns1:continent <http://zh.dbpedia.org/resource/北美洲> ;
+    ns1:country "（1隊）"@zh,
+        "（29隊）"@zh ;
+    ns1:currentSeason 2015 ;
+    ns1:founded 1946 ;
+    ns1:leagueName "国家篮球协会"@zh ;
+    ns1:logo "NBA-LOGO.png"@zh ;
+    ns1:mostChamps "波士頓塞爾提克隊（17次）"@zh ;
+    ns1:pixels 125 ;
+    ns1:sport <http://zh.dbpedia.org/resource/篮球> ;
+    ns1:teams 30 .
+
+<http://zh.dbpedia.org/resource/Oculus_VR> ns1:foundation "美國加利福尼亞州爾灣"@zh ;
+    ns1:founder <http://zh.dbpedia.org/resource/帕爾默·拉奇>,
+        "內特·米切爾（Nate Mitchell）"@zh,
+        "布倫丹·艾瑞比"@zh,
+        "麥可·亞伯拉什"@zh ;
+    ns1:industry <http://zh.dbpedia.org/resource/虚拟现实> ;
+    ns1:keyPeople <http://zh.dbpedia.org/resource/帕爾默·拉奇>,
+        <http://zh.dbpedia.org/resource/約翰·卡馬克>,
+        <http://zh.dbpedia.org/resource/迈克尔·亚伯拉什>,
+        <http://zh.dbpedia.org/resource/首席技术官>,
+        "布倫丹·艾瑞比（執行長）"@zh,
+        "（副總裁、工程師）"@zh ;
+    ns1:locationCity "加利福尼亞州爾灣"@zh ;
+    ns1:locationCountry <http://zh.dbpedia.org/resource/美国> ;
+    ns1:logo 230 ;
+    ns1:name "Oculus VR"@zh ;
+    ns1:parent <http://zh.dbpedia.org/resource/Facebook> ;
+    ns1:products <http://zh.dbpedia.org/resource/Oculus_Rift>,
+        "Gear VR(（与三星电子合作）)"@zh .
+
+<http://zh.dbpedia.org/resource/Outlook_Express> ns1:alsoAvailableFor <http://zh.dbpedia.org/resource/Mac_OS_9>,
+        <http://zh.dbpedia.org/resource/Windows_95> ;
+    ns1:caption "Windows版Outlook Express浏览维基百科新闻组时的截圖"@zh ;
+    ns1:includedWith <http://zh.dbpedia.org/resource/Windows_2000>,
+        <http://zh.dbpedia.org/resource/Windows_98>,
+        <http://zh.dbpedia.org/resource/Windows_Me>,
+        <http://zh.dbpedia.org/resource/Windows_Server_2003>,
+        <http://zh.dbpedia.org/resource/Windows_XP> ;
+    ns1:logo "Outlookexpress.png"@zh ;
+    ns1:logoSize 100 ;
+    ns1:name "Outlook Express"@zh ;
+    ns1:relatedComponents <http://zh.dbpedia.org/resource/Internet_Explorer> ;
+    ns1:replacedBy <http://zh.dbpedia.org/resource/Windows_Live_Mail> ;
+    ns1:replaces "Microsoft Internet Mail and News"@zh ;
+    ns1:screenshot "OutlookExpress.jpg"@zh ;
+    ns1:screenshotSize 200 .
+
+<http://zh.dbpedia.org/resource/Six_Apart> ns1:foundation <http://zh.dbpedia.org/resource/加利福尼亚州>,
+        <http://zh.dbpedia.org/resource/旧金山>,
+        <http://zh.dbpedia.org/resource/美国> ;
+    ns1:industry <http://zh.dbpedia.org/resource/软件> ;
+    ns1:keyPeople "Nobuhiro Seki, CEO"@zh ;
+    ns1:location "日本，东京"@zh ;
+    ns1:logo 200 ;
+    ns1:name "Six Apart"@zh ;
+    ns1:products <http://zh.dbpedia.org/resource/Movable_Type>,
+        <http://zh.dbpedia.org/resource/TypePad>,
+        <http://zh.dbpedia.org/resource/Zenback> ;
+    ns1:type "私人"@zh .
+
+<http://zh.dbpedia.org/resource/T.W.L/Yellow_Pansy_Street> ns1:artist <http://zh.dbpedia.org/resource/關西傑尼斯8> ;
+    ns1:chartPosition """* 週榜第1名(（Oricon）)
+* 2011年4月度月間第1位(（Oricon）)
+* 2011上半年度年間第7位(（Oricon）)
+* 2011年度年間第19位(（Oricon）)"""@zh ;
+    ns1:format <http://zh.dbpedia.org/resource/唱片> ;
+    ns1:genre <http://zh.dbpedia.org/resource/日本流行音樂> ;
+    ns1:label <http://zh.dbpedia.org/resource/Imperial_Records> ;
+    ns1:lastSingle <http://zh.dbpedia.org/resource/LIFE～朝著眼前的方向～>,
+        "（2010年）"@zh ;
+    ns1:name "T.W.L/Yellow Pansy Street"@zh ;
+    ns1:nextSingle <http://zh.dbpedia.org/resource/My_Home>,
+        "（2011年）"@zh ;
+    ns1:released 2011 ;
+    ns1:thisSingle "T.W.L/Yellow Pansy Street"@zh,
+        "（2011年）"@zh .
+
+<http://zh.dbpedia.org/resource/TeX> ns1:developer <http://zh.dbpedia.org/resource/高德纳> ;
+    ns1:genre <http://zh.dbpedia.org/resource/排版> ;
+    ns1:latestReleaseDate 2014 ;
+    ns1:latestReleaseVersion 3.141593e+00 ;
+    ns1:license <http://zh.dbpedia.org/resource/软件许可证列表> ;
+    ns1:logo 100 ;
+    ns1:operatingSystem <http://zh.dbpedia.org/resource/跨平台> .
+
+<http://zh.dbpedia.org/resource/Universities_UK> ns1:formation 1918 ;
+    ns1:headquarters "Woburn House"@zh ;
+    ns1:leaderName <http://zh.dbpedia.org/resource/克里斯托佛·斯諾登> ;
+    ns1:leaderTitle "President"@zh ;
+    ns1:location <http://zh.dbpedia.org/resource/伦敦> ;
+    ns1:membership 133 ;
+    ns1:name "Universities UK"@zh .
+
+<http://zh.dbpedia.org/resource/互联网档案馆> ns1:alexa 163 ;
+    ns1:caption "網際網路檔案館的主頁截圖"@zh ;
+    ns1:chairman <http://zh.dbpedia.org/resource/布魯斯特·卡利> ;
+    ns1:companyLogo 120 ;
+    ns1:companyName "Internet Archive"@zh ;
+    ns1:companySlogan "Universal access to all knowledge"@zh ;
+    ns1:companyType 501 ;
+    ns1:language <http://zh.dbpedia.org/resource/英语> ;
+    ns1:launchDate 2001 ;
+    ns1:location <http://zh.dbpedia.org/resource/加利福尼亚州>,
+        <http://zh.dbpedia.org/resource/旧金山>,
+        <http://zh.dbpedia.org/resource/美国>,
+        <http://zh.dbpedia.org/resource/里奇蒙德區_(舊金山)> ;
+    ns1:numEmployees 200 ;
+    ns1:screenshot 250 ;
+    ns1:services "互聯網檔案館，開放式圖書館，時光機（Wayback Machine）（2001年起），Netlabels，NASA Images，Prelinger Archives"@zh ;
+    ns1:websiteType <http://zh.dbpedia.org/resource/數位圖書館> .
+
+<http://zh.dbpedia.org/resource/亚洲足球联合会> ns1:abbreviation "AFC"@zh ;
+    ns1:formation 1954 ;
+    ns1:headquarters "馬來西亞吉隆坡"@zh ;
+    ns1:leaderName "張吉龍"@zh,
+        "谢赫·萨尔曼·本·易卜拉欣·艾尔-哈利法"@zh,
+        "阿历克斯·苏斯"@zh ;
+    ns1:leaderTitle "主席"@zh,
+        "副主席"@zh,
+        "秘書長"@zh ;
+    ns1:membership 47 ;
+    ns1:motto "\"The Future is Asia\""@zh ;
+    ns1:msize 200 ;
+    ns1:name "亚洲足球联合会"@zh ;
+    ns1:originalName "Asian Football Confederation"@zh ;
+    ns1:parentOrganization <http://zh.dbpedia.org/resource/国际足球联合会> ;
+    ns1:regionServed <http://zh.dbpedia.org/resource/亚洲> ;
+    ns1:size 200 ;
+    ns1:type "體育組織"@zh .
+
+<http://zh.dbpedia.org/resource/伊宁事变> ns1:casualties "伤亡总数不明，在俄族与东突厥斯坦共和国的对抗中损失惨重"@zh,
+        "伤亡总数不明，许多中国人在伊犁被杀"@zh ;
+    ns1:combatant "*  國民革命軍（后为國軍）"@zh ;
+    ns1:commander "A·波利诺夫"@zh,
+        "F·列斯肯"@zh,
+        "Liu Bin-Di"@zh,
+        "伊斯哈克拜克·木农阿吉"@zh,
+        "尧乐博斯"@zh,
+        "张治中"@zh,
+        "烏斯滿·巴圖爾（1944-1946）"@zh,
+        "烏斯滿·巴圖爾（1946-1951）"@zh,
+        "白崇禧"@zh,
+        "约瑟夫·斯大林"@zh,
+        "蒋中正"@zh,
+        "阿不都克里木·阿巴索夫"@zh,
+        "阿合买提江·哈斯木"@zh,
+        "韩有文"@zh,
+        "马呈祥"@zh,
+        "马希珍"@zh,
+        "马步芳"@zh,
+        "麦斯武德"@zh ;
+    ns1:conflict "伊宁事变"@zh ;
+    ns1:date 1944 ;
+    ns1:place <http://zh.dbpedia.org/resource/新疆维吾尔自治区> ;
+    ns1:result "停火"@zh ;
+    ns1:status "停火、建立联合政府、新疆和平解放"@zh ;
+    ns1:strength <http://zh.dbpedia.org/resource/中国俄罗斯族>,
+        <http://zh.dbpedia.org/resource/國民革命軍>,
+        """*  100,000名汉族和回族步兵和骑兵
+**  第二军（4个师）
+**  回民第五骑兵团
+**  回民第四十二骑兵团
+**  回民第十四骑兵团
+**  保安队（由忠于中国政府的哈萨克族、蒙古族和白俄组成的和平部队）"""@zh,
+        "上千名苏联红军士兵"@zh,
+        "白俄"@zh,
+        "（哈萨克族、维吾尔族、回族、蒙古族、锡伯族和白俄）"@zh .
+
+<http://zh.dbpedia.org/resource/倉木麻衣> ns1:出生地點 "千葉縣船橋市"@zh ;
+    ns1:出生日期 "1982-10-28"^^xsd:date ;
+    ns1:唱片公司 <http://zh.dbpedia.org/resource/GIZA_studio>,
+        <http://zh.dbpedia.org/resource/NORTHERN_MUSIC>,
+        "Bip! Records（1999年）"@zh ;
+    ns1:圖片尺寸 220 ;
+    ns1:外文 "ja"@zh ;
+    ns1:外文名 "倉木 麻衣（くらき まい）"@zh ;
+    ns1:姓名 "倉木麻衣"@zh ;
+    ns1:教育程度 <http://zh.dbpedia.org/resource/立命馆大学> ;
+    ns1:暱稱 "Mai-K、麻衣ちゃん"@zh,
+        "マイマイ、クッキー"@zh ;
+    ns1:活躍年代 1999 ;
+    ns1:罗马拼音 "Kuraki Mai"@zh ;
+    ns1:職業 <http://zh.dbpedia.org/resource/歌手> ;
+    ns1:英文名 "Mai Kuraki"@zh ;
+    ns1:音樂類型 <http://zh.dbpedia.org/resource/东洋>,
+        <http://zh.dbpedia.org/resource/日本流行音樂>,
+        <http://zh.dbpedia.org/resource/节奏布鲁斯> ;
+    ns1:類型 "女歌手"@zh .
+
+<http://zh.dbpedia.org/resource/倖田來未> ns1:fansite "2009-07-07"^^xsd:date ;
+    ns1:japanese "倖田 來未"@zh ;
+    ns1:kana "こうだ くみ"@zh ;
+    ns1:romaji "Kōda Kumi"@zh ;
+    ns1:tone "2009-07-07"^^xsd:date ;
+    ns1:出生地點 "京都府"@zh ;
+    ns1:出生日期 "1982-11-13"^^xsd:date ;
+    ns1:唱片公司 <http://zh.dbpedia.org/resource/Rhythm_zone> ;
+    ns1:圖片 "Koda Kumi 2013.10.09 taiwan.JPG"@zh ;
+    ns1:姓名 "（"@zh,
+        "）"@zh ;
+    ns1:教育程度 "高中畢業"@zh ;
+    ns1:星座 <http://zh.dbpedia.org/resource/天蝎座> ;
+    ns1:本名 "神田來未子"@zh ;
+    ns1:綽號 "くぅちゃん （Kuu-Chan）"@zh ;
+    ns1:羅馬拼音 "K&#333;da Kumiko"@zh ;
+    ns1:職業 <http://zh.dbpedia.org/resource/歌手> ;
+    ns1:血型 "A型"@zh ;
+    ns1:身高 154 ;
+    ns1:配偶 "KEIJI03"@zh ;
+    ns1:音樂類型 <http://zh.dbpedia.org/resource/日本流行音樂>,
+        <http://zh.dbpedia.org/resource/节奏布鲁斯> ;
+    ns1:類型 "女歌手"@zh .
+
+<http://zh.dbpedia.org/resource/傑克·雷恩> ns1:caption "由克里斯·潘恩飾演的傑克·萊恩"@zh ;
+    ns1:colour "#ADD8E6"@zh ;
+    ns1:creator <http://zh.dbpedia.org/resource/湯姆·克蘭西> ;
+    ns1:first <http://zh.dbpedia.org/resource/獵殺紅色十月號> ;
+    ns1:gender "男"@zh ;
+    ns1:last <http://zh.dbpedia.org/resource/傑克萊恩︰詭影任務> ;
+    ns1:name "Jack Ryan"@zh,
+        "傑克·萊恩"@zh ;
+    ns1:occupation <http://zh.dbpedia.org/resource/中央情报局>,
+        <http://zh.dbpedia.org/resource/注册会计师>,
+        <http://zh.dbpedia.org/resource/總統國家安全事務助理>,
+        <http://zh.dbpedia.org/resource/美国副总统>,
+        <http://zh.dbpedia.org/resource/美国总统>,
+        <http://zh.dbpedia.org/resource/证券经纪人>,
+        "中央情報局代理DDI"@zh,
+        "中央情報局分析員"@zh,
+        "安納波利斯海軍學院教授"@zh,
+        "美國海軍陸戰隊少尉（前）"@zh ;
+    ns1:portrayer <http://zh.dbpedia.org/resource/克里斯·潘恩>,
+        <http://zh.dbpedia.org/resource/哈里森·福特>,
+        <http://zh.dbpedia.org/resource/恐懼的總和>,
+        <http://zh.dbpedia.org/resource/本·阿弗莱克>,
+        <http://zh.dbpedia.org/resource/獵殺紅色十月號>,
+        <http://zh.dbpedia.org/resource/艾力·寶雲> .
+
+<http://zh.dbpedia.org/resource/克羅伊登郡政府> ns1:area 2.95778e+04 ;
+    ns1:caption "克羅伊登郡於昆士蘭州轄境圖"@zh ;
+    ns1:est 1887 ;
+    ns1:fedgov "甘迺迪"@zh ;
+    ns1:imagesize 180 ;
+    ns1:mayor "Corrie Pickering"@zh ;
+    ns1:name "克羅伊登郡"@zh ;
+    ns1:nearE <http://zh.dbpedia.org/resource/伊瑟力治郡政府> ;
+    ns1:nearN <http://zh.dbpedia.org/resource/卡奔塔利亞郡政府> ;
+    ns1:nearNe <http://zh.dbpedia.org/resource/高原區> ;
+    ns1:nearNw <http://zh.dbpedia.org/resource/卡奔塔利亞郡政府> ;
+    ns1:nearS <http://zh.dbpedia.org/resource/里奇蒙郡政府> ;
+    ns1:nearSe <http://zh.dbpedia.org/resource/里奇蒙郡政府> ;
+    ns1:nearSw <http://zh.dbpedia.org/resource/麥金利郡政府> ;
+    ns1:nearW <http://zh.dbpedia.org/resource/卡奔塔利亞郡政府> ;
+    ns1:pop 255 ;
+    ns1:popFootnotes "（2006年人口調查）"@zh ;
+    ns1:region "遠北"@zh ;
+    ns1:seat "克羅伊登"@zh ;
+    ns1:state "昆士蘭州"@zh ;
+    ns1:stategov "伊薩山"@zh ;
+    ns1:type "lga"@zh .
+
+<http://zh.dbpedia.org/resource/共和人民黨_(土耳其)> ns1:colorcode "#D40000"@zh ;
+    ns1:colours <http://zh.dbpedia.org/resource/白色>,
+        <http://zh.dbpedia.org/resource/红色> ;
+    ns1:country "土耳其"@zh ;
+    ns1:european <http://zh.dbpedia.org/resource/歐洲社會黨> ;
+    ns1:flag 180,
+        "Six Arrows"@zh ;
+    ns1:founded "1919-09-07"^^xsd:date,
+        "1923-09-09"^^xsd:date,
+        "1992-09-09"^^xsd:date ;
+    ns1:headquarters "Anadolu Bulvarı 12, Söğütözü, Ankara"@zh ;
+    ns1:ideology <http://zh.dbpedia.org/resource/凱末爾主義>,
+        <http://zh.dbpedia.org/resource/社會民主主義> ;
+    ns1:international <http://zh.dbpedia.org/resource/社會黨國際> ;
+    ns1:leader "Kemal Kılıçdaroğlu"@zh ;
+    ns1:leader1Name <http://zh.dbpedia.org/resource/穆斯塔法·凯末尔·阿塔图尔克> ;
+    ns1:leader1Title "創黨人兼「永久主席」"@zh ;
+    ns1:nameNative "Cumhuriyet Halk Partisi"@zh ;
+    ns1:partyLogo 220 ;
+    ns1:partyName "共和人民黨"@zh ;
+    ns1:position <http://zh.dbpedia.org/resource/中間偏左> ;
+    ns1:predecessor "安那托利亞與魯米利亞權利捍衛組織"@zh ;
+    ns1:seats1Title <http://zh.dbpedia.org/resource/土耳其大國民議會> ;
+    ns1:secretaryGeneral "Bihlun Tamaylıgil"@zh ;
+    ns1:slogan "CHP varsa herkes için var."@zh ;
+    ns1:youthWing "共和人民黨青年運動"@zh .
+
+<http://zh.dbpedia.org/resource/凡尔登条约> ns1:date 843 ;
+    ns1:eventName "凡尔登条约"@zh ;
+    ns1:imageCaption "加洛林帝国领土最大时期和843年的三个主要部分。"@zh ;
+    ns1:imageName "Partage de l'Empire carolingien au Traité de Verdun en 843.JPG"@zh ;
+    ns1:location <http://zh.dbpedia.org/resource/凡尔登> ;
+    ns1:participants <http://zh.dbpedia.org/resource/日耳曼人路易>,
+        <http://zh.dbpedia.org/resource/洛泰尔一世_(中法兰克)>,
+        <http://zh.dbpedia.org/resource/秃头查理> ;
+    ns1:result "加洛林帝国的领土被分为三个王国；对于西欧地区继承权的影响和冲突一直持续到20世纪。"@zh .
+
+<http://zh.dbpedia.org/resource/凯特琳·詹纳> ns1:almaMater <http://zh.dbpedia.org/resource/格里斯兰大学> ;
+    ns1:birthDate "1949-10-28"^^xsd:date ;
+    ns1:birthName "William Bruce Jenner"@zh ;
+    ns1:birthPlace "纽约"@zh ;
+    ns1:caption 2015 ;
+    ns1:children <http://zh.dbpedia.org/resource/凱莉·珍娜>,
+        <http://zh.dbpedia.org/resource/坎達兒·珍娜>,
+        <http://zh.dbpedia.org/resource/布羅迪·詹納>,
+        "Brandon Jenner"@zh,
+        "Burton Jenner"@zh,
+        "Cassandra Jenner"@zh ;
+    ns1:education "Newtown High School"@zh ;
+    ns1:name "Caitlyn Jenner"@zh,
+        "凯特琳·詹纳"@zh ;
+    ns1:netWorth "$10亿"@zh ;
+    ns1:party <http://zh.dbpedia.org/resource/共和黨_(美國)> ;
+    ns1:residence "加利福尼亚州马利布"@zh ;
+    ns1:spouse <http://zh.dbpedia.org/resource/克莉絲·詹纳>,
+        1972,
+        1981,
+        1986,
+        1991,
+        2015,
+        "Chrystie Crownover"@zh,
+        "Linda Thompson"@zh ;
+    ns1:television "《Keeping Up with the Kardashians》"@zh ;
+    ns1:yearsActive 1970 .
+
+<http://zh.dbpedia.org/resource/切斯特城足球俱乐部> ns1:align "right"@zh ;
+    ns1:body "0.0"^^<http://dbpedia.org/datatype/cubicCentimetre>,
+        "DD0000"@zh,
+        "FFFF00"@zh ;
+    ns1:capacity 4170,
+        5376 ;
+    ns1:chrtitle "東主"@zh ;
+    ns1:city <http://zh.dbpedia.org/resource/切斯特>,
+        "夫林特夏（Flintshire），"@zh,
+        "西蘭（Sealand）"@zh,
+        "部分位於威爾斯"@zh ;
+    ns1:clubname "Chester City"@zh,
+        "車士打城"@zh ;
+    ns1:dissolved 2010 ;
+    ns1:founded 1885 ;
+    ns1:fullname "Chester City Football Club"@zh,
+        "車士打城足球會"@zh ;
+    ns1:ground "德瓦运动场（Deva Stadium）"@zh ;
+    ns1:league "沒有"@zh,
+        "被逐出議會全國聯賽"@zh ;
+    ns1:leftarm "0.0"^^<http://dbpedia.org/datatype/cubicCentimetre>,
+        "DD0000"@zh ;
+    ns1:mgrtitle "領隊"@zh ;
+    ns1:nickname "海豹（The Seals）"@zh,
+        "藍軍（The Blues）"@zh ;
+    ns1:patternB "_3whitestripes"@zh ;
+    ns1:patternLa "_white_stripes"@zh ;
+    ns1:patternRa "_white_stripes"@zh ;
+    ns1:position "取消所有成績"@zh ;
+    ns1:rightarm "0.0"^^<http://dbpedia.org/datatype/cubicCentimetre>,
+        "DD0000"@zh ;
+    ns1:season 2009,
+        "全國聯賽"@zh ;
+    ns1:shorts "0.0"^^<http://dbpedia.org/datatype/cubicCentimetre>,
+        "FFFF00"@zh,
+        "FFFFFF"@zh ;
+    ns1:socks "0.0"^^<http://dbpedia.org/datatype/cubicCentimetre>,
+        "FFFF00"@zh,
+        "FFFFFF"@zh ;
+    ns1:title "車士打最初的主場球衣"@zh .
+
+<http://zh.dbpedia.org/resource/加拉塔沙雷體育會> ns1:body "FFBB00"@zh,
+        "FFFFFF"@zh ;
+    ns1:capacity 52652 ;
+    ns1:chairman "Dursun Aydın Özbek"@zh ;
+    ns1:city <http://zh.dbpedia.org/resource/伊斯坦堡>,
+        <http://zh.dbpedia.org/resource/土耳其> ;
+    ns1:clubname "加拉塔沙雷"@zh ;
+    ns1:founded 1905 ;
+    ns1:fullname "加拉塔沙雷體育會-"@zh ;
+    ns1:league <http://zh.dbpedia.org/resource/土耳其足球超级联赛> ;
+    ns1:leftarm "FFBB00"@zh,
+        "FFFFFF"@zh ;
+    ns1:manager <http://zh.dbpedia.org/resource/罕穆扎> ;
+    ns1:nickname "\"）"@zh,
+        "占邦（\""@zh,
+        "土豪"@zh,
+        "雄獅（\""@zh ;
+    ns1:patternB "4366800.0"^^<http://dbpedia.org/datatype/second>,
+        "_gal1213a"@zh,
+        "_gs1213t"@zh ;
+    ns1:patternLa "4366800.0"^^<http://dbpedia.org/datatype/second>,
+        "_gal1213a"@zh,
+        "_gs1213t"@zh ;
+    ns1:patternRa "4366800.0"^^<http://dbpedia.org/datatype/second>,
+        "_gs1213t"@zh ;
+    ns1:position "土超，第 1 位"@zh ;
+    ns1:rightarm "BB0000"@zh,
+        "FFFFFF"@zh ;
+    ns1:season 2014 ;
+    ns1:shorts 23180,
+        "FFFFFF"@zh ;
+    ns1:socks 23180,
+        "FFFFFF"@zh,
+        "c4312f"@zh .
+
+<http://zh.dbpedia.org/resource/南沙群岛> ns1:area "少於"@zh ;
+    ns1:country "多个国家"@zh ;
+    ns1:country2Claim "中華民國"@zh ;
+    ns1:country2ClaimDivisions "高雄市旗津区"@zh ;
+    ns1:country2ClaimDivisionsTitle <http://zh.dbpedia.org/resource/区_(中华民国)> ;
+    ns1:country3Claim "汶萊"@zh ;
+    ns1:country3ClaimDivisions "汶萊專屬經濟區"@zh ;
+    ns1:country3ClaimDivisionsTitle <http://zh.dbpedia.org/resource/专属经济区> ;
+    ns1:country4Claim "馬來西亞"@zh ;
+    ns1:country4ClaimDivisions <http://zh.dbpedia.org/resource/沙巴> ;
+    ns1:country4ClaimDivisionsTitle <http://zh.dbpedia.org/resource/州> ;
+    ns1:country5Claim "菲律賓"@zh ;
+    ns1:country5ClaimDivisions "民马罗巴区巴拉望省卡拉延市"@zh ;
+    ns1:country5ClaimDivisionsTitle <http://zh.dbpedia.org/resource/直辖市> ;
+    ns1:country6Claim "越南"@zh ;
+    ns1:country6ClaimDivisions "庆和省長沙島縣"@zh ;
+    ns1:country6ClaimDivisionsTitle <http://zh.dbpedia.org/resource/县> ;
+    ns1:country7Claim "印尼"@zh ;
+    ns1:country7ClaimDivisions <http://zh.dbpedia.org/resource/廖內群島省> ;
+    ns1:country7ClaimDivisionsTitle <http://zh.dbpedia.org/resource/省> ;
+    ns1:countryClaim "中華人民共和國"@zh ;
+    ns1:countryClaimDivisions "海南省三沙市"@zh ;
+    ns1:countryClaimDivisionsTitle <http://zh.dbpedia.org/resource/地级市> ;
+    ns1:highestMount "位於南子礁"@zh ;
+    ns1:hn "群島長沙"@zh ;
+    ns1:imageSize 300 ;
+    ns1:location <http://zh.dbpedia.org/resource/南海> ;
+    ns1:locatorMap "LocationSpratlyIslands.png"@zh ;
+    ns1:majorIslands <http://zh.dbpedia.org/resource/中业岛>,
+        <http://zh.dbpedia.org/resource/南威島>,
+        <http://zh.dbpedia.org/resource/太平島>,
+        <http://zh.dbpedia.org/resource/彈丸礁>,
+        <http://zh.dbpedia.org/resource/永暑島>,
+        <http://zh.dbpedia.org/resource/渚碧岛>,
+        <http://zh.dbpedia.org/resource/美济岛>,
+        <http://zh.dbpedia.org/resource/西月島> ;
+    ns1:mapCaption "南沙群島的位置"@zh ;
+    ns1:name "南沙群島"@zh ;
+    ns1:otherNames "斯普拉特利群島、長沙群島、三寶瓏觀察群礁、卡拉延群島"@zh ;
+    ns1:plural "yes"@zh ;
+    ns1:qn "Quần đảo Trường Sa"@zh ;
+    ns1:totalIslands 750 .
+
+<http://zh.dbpedia.org/resource/卡伊·莱奥·约翰内森> ns1:birthDate "1964-08-28"^^xsd:date ;
+    ns1:birthPlace "托尔斯港"@zh ;
+    ns1:name "Kaj Leo Johannesen"@zh,
+        "卡伊·莱奥·约翰内森"@zh ;
+    ns1:office <http://zh.dbpedia.org/resource/联盟党_(法罗群岛)> ;
+    ns1:party <http://zh.dbpedia.org/resource/联盟党_(法罗群岛)> ;
+    ns1:predecessor <http://zh.dbpedia.org/resource/约安内斯·埃德斯加德> ;
+    ns1:profession "商人"@zh ;
+    ns1:successor <http://zh.dbpedia.org/resource/阿克塞爾·V·約翰森> ;
+    ns1:termEnd 2015 ;
+    ns1:termStart 2004,
+        2008 .
+
+<http://zh.dbpedia.org/resource/卡尔·林奈> ns1:almaMater <http://zh.dbpedia.org/resource/乌普萨拉大学>,
+        <http://zh.dbpedia.org/resource/哈尔德韦克大学>,
+        <http://zh.dbpedia.org/resource/隆德大学> ;
+    ns1:alt "Portrait of Linnaeus on a brown background with the word \"Linne\" in the top right corner"@zh ;
+    ns1:authorAbbrevBot "L."@zh ;
+    ns1:birthDate "1707-05-23"^^xsd:date ;
+    ns1:birthPlace "瑞典的Stenbrohult教区（今属于艾尔姆胡尔特市）"@zh ;
+    ns1:caption "卡爾·馮·林奈, 1775年"@zh ;
+    ns1:deathDate "1778-01-10"^^xsd:date ;
+    ns1:deathPlace "瑞典乌普萨拉"@zh ;
+    ns1:fields <http://zh.dbpedia.org/resource/动物学>,
+        <http://zh.dbpedia.org/resource/植物学>,
+        <http://zh.dbpedia.org/resource/生物学> ;
+    ns1:footnotes "center|200px卡尔·林奈家的纹章"@zh ;
+    ns1:id "Carl_von_Linné"@zh ;
+    ns1:imageSize 200 ;
+    ns1:knownFor <http://zh.dbpedia.org/resource/植物学>,
+        <http://zh.dbpedia.org/resource/生态学>,
+        <http://zh.dbpedia.org/resource/生物分类学> ;
+    ns1:name "Carl von Linné"@zh,
+        "卡爾·馮·林奈"@zh ;
+    ns1:residence "瑞典"@zh ;
+    ns1:signature "Linne autograph.png.svg"@zh ;
+    ns1:signatureAlt "Carl v. Linné"@zh .
+
+<http://zh.dbpedia.org/resource/卡洛斯·桑布拉諾> ns1:after <http://zh.dbpedia.org/resource/傑克·皮維>,
+        <http://zh.dbpedia.org/resource/唐崔利·威利斯>,
+        <http://zh.dbpedia.org/resource/德瑞克·洛夫> ;
+    ns1:bats "左右開弓"@zh ;
+    ns1:before <http://zh.dbpedia.org/resource/Chris_Young_(pitcher)>,
+        <http://zh.dbpedia.org/resource/傑克·皮維>,
+        <http://zh.dbpedia.org/resource/唐崔利·威利斯>,
+        <http://zh.dbpedia.org/resource/班·席茲> ;
+    ns1:birthdate "1981-06-01"^^xsd:date ;
+    ns1:br "z/zambrca01"@zh ;
+    ns1:cube "Z/carlos-zambrano"@zh ;
+    ns1:debutdate 8 ;
+    ns1:debutteam "芝加哥小熊"@zh ;
+    ns1:debutyear 2001 ;
+    ns1:espn 4499 ;
+    ns1:fangraphs 305 ;
+    ns1:highlights """* 3次入选全明星赛 （2004年，2006年，2008年）
+* 3次获得银棒奖 （，，）
+* 国家联盟胜投王 （）
+* 9月14日对休士顿太空人投出无安打比赛"""@zh ;
+    ns1:mlb 407296 ;
+    ns1:name "卡洛斯·桑布拉諾"@zh ;
+    ns1:number 38 ;
+    ns1:position "先發投手"@zh ;
+    ns1:stat1label <http://zh.dbpedia.org/resource/勝投> ;
+    ns1:stat1value 103 ;
+    ns1:stat2label <http://zh.dbpedia.org/resource/防禦率> ;
+    ns1:stat2value 3.47e+00 ;
+    ns1:stat3label <http://zh.dbpedia.org/resource/三振> ;
+    ns1:stat3value 1273 ;
+    ns1:stat4label <http://zh.dbpedia.org/resource/保送> ;
+    ns1:stat4value 677 ;
+    ns1:statyear 2009 ;
+    ns1:team "-"@zh ;
+    ns1:teams """* 芝加哥小熊 
+* 邁阿密馬林魚"""@zh ;
+    ns1:throws "右"@zh ;
+    ns1:title <http://zh.dbpedia.org/resource/芝加哥小熊开幕战先发投手列表>,
+        "国家联盟当月最佳投手"@zh,
+        "國家聯盟勝投王"@zh ;
+    ns1:width 250 ;
+    ns1:years 2004,
+        2005,
+        2006,
+        2007,
+        "（和布拉德·佩尼，德瑞克·洛夫，傑克·皮維，約翰·史摩茲，布蘭登·偉伯共同获得）"@zh .
+
+<http://zh.dbpedia.org/resource/卡馬河> ns1:basinCountries <http://zh.dbpedia.org/resource/俄罗斯> ;
+    ns1:imageName "Kama River .jpg"@zh ;
+    ns1:length 1805 ;
+    ns1:mouth <http://zh.dbpedia.org/resource/伏尔加河> ;
+    ns1:origin <http://zh.dbpedia.org/resource/烏德穆爾特共和國> ;
+    ns1:riverName "卡马河"@zh ;
+    ns1:watershed 507000 .
+
+<http://zh.dbpedia.org/resource/古巴共产党> ns1:affiliation <http://zh.dbpedia.org/resource/圣保罗论坛>,
+        <http://zh.dbpedia.org/resource/拉美加勒比政党常设会议> ;
+    ns1:affiliation1Title "美洲组织"@zh ;
+    ns1:colorcode "#FF0000"@zh ;
+    ns1:colours <http://zh.dbpedia.org/resource/红色>,
+        <http://zh.dbpedia.org/resource/藍色> ;
+    ns1:country "古巴"@zh ;
+    ns1:foundation 1965 ;
+    ns1:founder <http://zh.dbpedia.org/resource/菲德尔·卡斯特罗> ;
+    ns1:headquarters <http://zh.dbpedia.org/resource/哈瓦那> ;
+    ns1:ideology <http://zh.dbpedia.org/resource/何塞·马蒂>,
+        <http://zh.dbpedia.org/resource/共产主义>,
+        <http://zh.dbpedia.org/resource/卡斯特羅主義>,
+        <http://zh.dbpedia.org/resource/格瓦拉主義>,
+        <http://zh.dbpedia.org/resource/马克思列宁主义> ;
+    ns1:international <http://zh.dbpedia.org/resource/共产党和工人党国际会议>,
+        <http://zh.dbpedia.org/resource/国际共产主义研讨会> ;
+    ns1:leader1Name <http://zh.dbpedia.org/resource/劳尔·卡斯特罗> ;
+    ns1:leader1Title <http://zh.dbpedia.org/resource/古巴共产党中央委员会第一书记> ;
+    ns1:leader2Name <http://zh.dbpedia.org/resource/何塞·马查多> ;
+    ns1:leader2Title "第二书记"@zh ;
+    ns1:membership 800000 ;
+    ns1:nativeName "Partido Comunista de Cuba"@zh ;
+    ns1:newspaper "《格拉瑪報》"@zh ;
+    ns1:partyLogo 150 ;
+    ns1:partyName "古巴共产党"@zh ;
+    ns1:position <http://zh.dbpedia.org/resource/左派> ;
+    ns1:seats1Title <http://zh.dbpedia.org/resource/全国人民政权代表大会> ;
+    ns1:youthWing <http://zh.dbpedia.org/resource/青年共产主义联盟_(古巴)> ;
+    ns1:先锋组织 <http://zh.dbpedia.org/resource/何塞·马蒂先锋组织> ;
+    ns1:前身 <http://zh.dbpedia.org/resource/古巴社会主义革命统一党> ;
+    ns1:口号 "“直到最后的胜利”"@zh ;
+    ns1:统计日期 2011 .
+
+<http://zh.dbpedia.org/resource/吸血鬼猎人巴菲_(第三季)> ns1:bgcolour "#336666"@zh ;
+    ns1:caption "Region 1 Season 3 DVD cover"@zh ;
+    ns1:country "美国"@zh ;
+    ns1:directedby <http://zh.dbpedia.org/resource/David_Grossman_(director)>,
+        <http://zh.dbpedia.org/resource/David_Semel>,
+        <http://zh.dbpedia.org/resource/David_Solomon_(TV_producer)>,
+        <http://zh.dbpedia.org/resource/James_A._Contner>,
+        <http://zh.dbpedia.org/resource/James_Whitmore,_Jr.>,
+        <http://zh.dbpedia.org/resource/Michael_Gershman_(director)>,
+        <http://zh.dbpedia.org/resource/Michael_Lange>,
+        "David Greenwalt"@zh,
+        "James A. Contner"@zh,
+        "Joss Whedon"@zh,
+        "Michael Lange"@zh,
+        "Regis Kimble"@zh ;
+    ns1:episodeList <http://zh.dbpedia.org/resource/吸血鬼猎人巴菲集数列表> ;
+    ns1:episodenumber 2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56 ;
+    ns1:fgcolour "#ffffff"@zh ;
+    ns1:firstAired "1998-09-29"^^xsd:date ;
+    ns1:lastAired "1999-07-13"^^xsd:date ;
+    ns1:linecolor 336666 ;
+    ns1:network <http://zh.dbpedia.org/resource/WB電視網> ;
+    ns1:nextSeason <http://zh.dbpedia.org/resource/吸血鬼猎人巴菲_(第四季)> ;
+    ns1:numEpisodes 22 ;
+    ns1:originalairdate "1998-10-06"^^xsd:date,
+        "1998-10-13"^^xsd:date,
+        "1998-10-20"^^xsd:date,
+        "1998-11-03"^^xsd:date,
+        "1998-11-10"^^xsd:date,
+        "1998-11-17"^^xsd:date,
+        "1998-11-24"^^xsd:date,
+        "1998-12-08"^^xsd:date,
+        "1998-12-15"^^xsd:date,
+        "1999-01-12"^^xsd:date,
+        "1999-01-19"^^xsd:date,
+        "1999-01-26"^^xsd:date,
+        "1999-02-09"^^xsd:date,
+        "1999-02-16"^^xsd:date,
+        "1999-02-23"^^xsd:date,
+        "1999-03-16"^^xsd:date,
+        "1999-05-04"^^xsd:date,
+        "1999-05-11"^^xsd:date,
+        "1999-05-18"^^xsd:date,
+        "1999-07-13"^^xsd:date,
+        "1999-09-21"^^xsd:date ;
+    ns1:prevSeason <http://zh.dbpedia.org/resource/吸血鬼猎人巴菲_(第二季)> ;
+    ns1:prodcode 3 ;
+    ns1:region "2001-10-29"^^xsd:date,
+        "2003-01-07"^^xsd:date ;
+    ns1:rtitle <http://zh.dbpedia.org/resource/Graduation_Day_(Buffy_the_Vampire_Slayer)> ;
+    ns1:seasonName "吸血鬼猎人巴菲 第三季"@zh ;
+    ns1:title <http://zh.dbpedia.org/resource/Amends>,
+        <http://zh.dbpedia.org/resource/Bad_Girls_(Buffy_the_Vampire_Slayer)>,
+        <http://zh.dbpedia.org/resource/Band_Candy>,
+        <http://zh.dbpedia.org/resource/Beauty_and_the_Beasts>,
+        <http://zh.dbpedia.org/resource/Choices_(Buffy_the_Vampire_Slayer)>,
+        <http://zh.dbpedia.org/resource/Consequences_(Buffy_the_Vampire_Slayer)>,
+        <http://zh.dbpedia.org/resource/Dead_Man's_Party_(Buffy_the_Vampire_Slayer)>,
+        <http://zh.dbpedia.org/resource/Doppelgangland>,
+        <http://zh.dbpedia.org/resource/Earshot_(Buffy_the_Vampire_Slayer)>,
+        <http://zh.dbpedia.org/resource/Enemies_(Buffy_the_Vampire_Slayer)>,
+        <http://zh.dbpedia.org/resource/Faith,_Hope_&_Trick>,
+        <http://zh.dbpedia.org/resource/Gingerbread_(Buffy_the_Vampire_Slayer)>,
+        <http://zh.dbpedia.org/resource/Helpless_(Buffy_the_Vampire_Slayer)>,
+        <http://zh.dbpedia.org/resource/Homecoming_(Buffy_the_Vampire_Slayer)>,
+        <http://zh.dbpedia.org/resource/Lovers_Walk>,
+        <http://zh.dbpedia.org/resource/Revelations_(Buffy_the_Vampire_Slayer)>,
+        <http://zh.dbpedia.org/resource/The_Prom_(Buffy_the_Vampire_Slayer)>,
+        <http://zh.dbpedia.org/resource/The_Wish_(Buffy_the_Vampire_Slayer)>,
+        <http://zh.dbpedia.org/resource/The_Zeppo> ;
+    ns1:writtenby <http://zh.dbpedia.org/resource/Dan_Vebber>,
+        <http://zh.dbpedia.org/resource/David_Fury>,
+        <http://zh.dbpedia.org/resource/David_Greenwalt>,
+        <http://zh.dbpedia.org/resource/Doug_Petrie>,
+        <http://zh.dbpedia.org/resource/Jane_Espenson>,
+        <http://zh.dbpedia.org/resource/Marti_Noxon>,
+        "Dan Vebber"@zh,
+        "David Greenwalt"@zh,
+        "Douglas Petrie"@zh,
+        "Jane Espenson"@zh,
+        "Joss Whedon"@zh,
+        "Marti Noxon"@zh,
+        "Story by: Thania St. John & Jane Espenson"@zh,
+        "Teleplay by: Jane Espenson"@zh .
+
+<http://zh.dbpedia.org/resource/哈康六世> ns1:before <http://zh.dbpedia.org/resource/马格努斯七世> ;
+    ns1:dateOfBirth 1340 ;
+    ns1:dateOfDeath 1380 ;
+    ns1:father <http://zh.dbpedia.org/resource/马格努斯七世> ;
+    ns1:heir <http://zh.dbpedia.org/resource/奥拉夫二世·哈康松> ;
+    ns1:imgw 100 ;
+    ns1:mother "Blanka of Namur"@zh ;
+    ns1:name "哈康六世·马格努斯"@zh ;
+    ns1:placeOfBirth <http://zh.dbpedia.org/resource/瑞典> ;
+    ns1:placeOfDeath <http://zh.dbpedia.org/resource/奥斯陆>,
+        <http://zh.dbpedia.org/resource/挪威> ;
+    ns1:predecessor <http://zh.dbpedia.org/resource/马格努斯七世> ;
+    ns1:regent <http://zh.dbpedia.org/resource/马格努斯七世> ;
+    ns1:reign 1343,
+        1362 ;
+    ns1:rows 2 ;
+    ns1:royalHouse <http://zh.dbpedia.org/resource/福尔孔王朝> ;
+    ns1:succession <http://zh.dbpedia.org/resource/挪威君主列表>,
+        <http://zh.dbpedia.org/resource/瑞典君主> ;
+    ns1:successor <http://zh.dbpedia.org/resource/奥拉夫二世·哈康松>,
+        <http://zh.dbpedia.org/resource/阿尔伯特_(瑞典国王)> ;
+    ns1:title <http://zh.dbpedia.org/resource/挪威君主列表>,
+        <http://zh.dbpedia.org/resource/瑞典君主> ;
+    ns1:years 1343,
+        1362 .
+
+<http://zh.dbpedia.org/resource/图尼纳> ns1:alternativeLocationMap "Australia Victoria metropolitan Melbourne"@zh ;
+    ns1:area 5e-01 ;
+    ns1:city "墨尔本"@zh ;
+    ns1:fedgov <http://zh.dbpedia.org/resource/羅勒_(澳大利亞國會選區)> ;
+    ns1:latd 3.7817e+01 ;
+    ns1:lga <http://zh.dbpedia.org/resource/梅尔顿郡>,
+        <http://zh.dbpedia.org/resource/温德姆> ;
+    ns1:longd 1.4475e+02 ;
+    ns1:name "图尼纳"@zh ;
+    ns1:nearE <http://zh.dbpedia.org/resource/狄瑞姆特> ;
+    ns1:nearN <http://zh.dbpedia.org/resource/洛科本克> ;
+    ns1:nearNe <http://zh.dbpedia.org/resource/瑞温顥> ;
+    ns1:nearNw <http://zh.dbpedia.org/resource/洛科本克> ;
+    ns1:nearS <http://zh.dbpedia.org/resource/霍珀森> ;
+    ns1:nearSe <http://zh.dbpedia.org/resource/威蓝町> ;
+    ns1:nearSw <http://zh.dbpedia.org/resource/霍珀森> ;
+    ns1:nearW <http://zh.dbpedia.org/resource/塔尼特> ;
+    ns1:pop 9138 ;
+    ns1:postcode 3029 ;
+    ns1:state "vic"@zh ;
+    ns1:stategov <http://zh.dbpedia.org/resource/梅尔顿选区>,
+        <http://zh.dbpedia.org/resource/阿通纳选区> ;
+    ns1:type "suburb"@zh .
+
+<http://zh.dbpedia.org/resource/塞格雷河> ns1:basinCountries <http://zh.dbpedia.org/resource/安道尔>,
+        <http://zh.dbpedia.org/resource/法国>,
+        <http://zh.dbpedia.org/resource/西班牙> ;
+    ns1:caption "塞格雷河一景，位于列伊达"@zh ;
+    ns1:imageMap "Cuenca del Segre.png"@zh ;
+    ns1:imageName "Lleida-Riu de Lleida.jpg"@zh ;
+    ns1:mapCaption <http://zh.dbpedia.org/resource/埃布羅河> ;
+    ns1:mouth <http://zh.dbpedia.org/resource/埃布羅河> ;
+    ns1:origin <http://zh.dbpedia.org/resource/比利牛斯山> ;
+    ns1:riverName "塞格雷河"@zh .
+
+<http://zh.dbpedia.org/resource/墨西哥湾> ns1:caption "墨西哥湾地图"@zh ;
+    ns1:countries <http://zh.dbpedia.org/resource/古巴>,
+        <http://zh.dbpedia.org/resource/墨西哥>,
+        <http://zh.dbpedia.org/resource/美国> ;
+    ns1:name "墨西哥湾"@zh ;
+    ns1:oceans <http://zh.dbpedia.org/resource/大西洋> ;
+    ns1:rivers <http://zh.dbpedia.org/resource/密西西比河>,
+        <http://zh.dbpedia.org/resource/格兰德河> ;
+    ns1:settlements <http://zh.dbpedia.org/resource/Tampa>,
+        <http://zh.dbpedia.org/resource/休斯敦>,
+        <http://zh.dbpedia.org/resource/哈瓦那>,
+        <http://zh.dbpedia.org/resource/新奥尔良> .
+
+<http://zh.dbpedia.org/resource/多倫多藍鳥> ns1:after "無"@zh ;
+    ns1:ballpark <http://zh.dbpedia.org/resource/羅渣士中心> ;
+    ns1:before <http://zh.dbpedia.org/resource/明尼苏达双城> ;
+    ns1:colors "Royal blue, navy blue, white, red"@zh,
+        "藍色、黑色、石墨色、銀色、白色、紅色"@zh ;
+    ns1:currentLeague "美國聯盟"@zh ;
+    ns1:div "東區"@zh ;
+    ns1:division <http://zh.dbpedia.org/resource/美國聯盟東區> ;
+    ns1:divisionChamps 9223372036854775807 ;
+    ns1:established 1977 ;
+    ns1:league "美國聯盟"@zh ;
+    ns1:logo "TorontoBlueJays2012primary.png"@zh ;
+    ns1:manager <http://zh.dbpedia.org/resource/約翰·吉本斯> ;
+    ns1:name "多倫多藍鳥"@zh ;
+    ns1:nativeName "Toronto Blue Jays"@zh ;
+    ns1:nickname "多倫多藍鳥"@zh ;
+    ns1:nicknames "The Jays, Blue Birds"@zh ;
+    ns1:owner <http://zh.dbpedia.org/resource/羅渣士通訊集團> ;
+    ns1:pastparks """:* 前名：天虹體育館（） 
+*"""@zh ;
+    ns1:pennants 1992 ;
+    ns1:retirednumbers 12 ;
+    ns1:team "Blue Jays"@zh,
+        "Blue_Jays"@zh ;
+    ns1:title "世界大赛冠军"@zh ;
+    ns1:uniform "ALE-Uniform-TOR.png"@zh ;
+    ns1:uniformlogo "TorontoBlueJays2012cap.png"@zh ;
+    ns1:wildCard "無"@zh ;
+    ns1:worldChampions 1992 ;
+    ns1:years 1992 .
+
+<http://zh.dbpedia.org/resource/大衛·普克德> ns1:birthDate "1912-09-07"^^xsd:date ;
+    ns1:deathDate "1996-03-26"^^xsd:date ;
+    ns1:knownFor <http://zh.dbpedia.org/resource/惠普> ;
+    ns1:姓名 "大衛·普克德"@zh ;
+    ns1:母校 <http://zh.dbpedia.org/resource/史丹佛大學> ;
+    ns1:英文名 "David Packard"@zh .
+
+<http://zh.dbpedia.org/resource/奧斯卡·克萊因> ns1:almaMater <http://zh.dbpedia.org/resource/哥本哈根大学>,
+        <http://zh.dbpedia.org/resource/挪威諾貝爾研究所> ;
+    ns1:birthDate 1894 ;
+    ns1:birthPlace "瑞典斯德哥爾摩省丹德呂德市"@zh ;
+    ns1:caption "奧斯卡·克萊因"@zh ;
+    ns1:dateOfBirth "1894-09-15"^^xsd:date ;
+    ns1:dateOfDeath "1977-02-05"^^xsd:date ;
+    ns1:deathDate "1977-02-07"^^xsd:date ;
+    ns1:deathPlace "瑞典斯德哥爾摩"@zh ;
+    ns1:doctoralStudents "David M. Dennison"@zh ;
+    ns1:field <http://zh.dbpedia.org/resource/物理学> ;
+    ns1:imageSize 200 ;
+    ns1:influences <http://zh.dbpedia.org/resource/斯凡特·奥古斯特·阿伦尼乌斯> ;
+    ns1:knownFor <http://zh.dbpedia.org/resource/克萊因-戈爾登方程>,
+        <http://zh.dbpedia.org/resource/卡魯扎-克萊因理論>,
+        "Rydberg–Klein–Rees method"@zh ;
+    ns1:name "Klein, Oskar"@zh,
+        "Oskar Klein"@zh,
+        "奧斯卡·克萊因"@zh ;
+    ns1:nationality <http://zh.dbpedia.org/resource/瑞典> ;
+    ns1:placeOfBirth "Stockholm, Sweden"@zh ;
+    ns1:placeOfDeath "Stockholm, Sweden"@zh ;
+    ns1:prizes "馬克斯·普朗克獎章（1959年）"@zh ;
+    ns1:shortDescription "Swedish physicist"@zh ;
+    ns1:workInstitutions <http://zh.dbpedia.org/resource/哥本哈根大学>,
+        <http://zh.dbpedia.org/resource/密歇根大学>,
+        <http://zh.dbpedia.org/resource/隆德大学> .
+
+<http://zh.dbpedia.org/resource/威尔乌> ns1:areaServed "全球"@zh ;
+    ns1:companyLogo 200 ;
+    ns1:companyName "Valve公司"@zh ;
+    ns1:companyType "私人"@zh ;
+    ns1:equity "(（2012年，estimated）)"@zh ;
+    ns1:foundation 1996 ;
+    ns1:founder <http://zh.dbpedia.org/resource/加布·紐維爾>,
+        <http://zh.dbpedia.org/resource/麦克·哈灵顿> ;
+    ns1:industry <http://zh.dbpedia.org/resource/软件>,
+        <http://zh.dbpedia.org/resource/電子遊戲產業> ;
+    ns1:keyPeople "加布·纽维尔（Gabe Newell）"@zh ;
+    ns1:location "華盛頓州贝尔维尤"@zh ;
+    ns1:numEmployees "~330(（2013年）)"@zh ;
+    ns1:products <http://zh.dbpedia.org/resource/Source引擎>,
+        <http://zh.dbpedia.org/resource/Steam>,
+        "《半条命2系列》"@zh,
+        "《半条命》"@zh,
+        "《反恐精英系列》"@zh,
+        "《決勝之日系列》"@zh,
+        "《絕地要塞2》"@zh ;
+    ns1:revenue "(（2007年）)"@zh ;
+    ns1:totalEquity "}"@zh .
+
+<http://zh.dbpedia.org/resource/安达曼海> ns1:basinCountries <http://zh.dbpedia.org/resource/印度>,
+        <http://zh.dbpedia.org/resource/印度尼西亚>,
+        <http://zh.dbpedia.org/resource/泰国>,
+        <http://zh.dbpedia.org/resource/缅甸>,
+        <http://zh.dbpedia.org/resource/马来西亚> ;
+    ns1:imageBathymetry "LocationAndamanSea.png"@zh ;
+    ns1:oceanName "安達曼海"@zh .
+
+<http://zh.dbpedia.org/resource/實習醫生_(電視劇)> ns1:audioFormat <http://zh.dbpedia.org/resource/杜比数字>,
+        <http://zh.dbpedia.org/resource/立體聲> ;
+    ns1:caption "实习医生的Logo"@zh ;
+    ns1:creator <http://zh.dbpedia.org/resource/珊达·莱梅斯> ;
+    ns1:firstAired 2005 ;
+    ns1:format <http://zh.dbpedia.org/resource/戏剧> ;
+    ns1:id 413573 ;
+    ns1:imdbId 413573 ;
+    ns1:language <http://zh.dbpedia.org/resource/英语> ;
+    ns1:lastAired "至今"@zh ;
+    ns1:listEpisodes "實習醫生劇情列表"@zh ;
+    ns1:narrated "艾蓮·朋佩歐"@zh ;
+    ns1:network <http://zh.dbpedia.org/resource/美国广播公司> ;
+    ns1:numEpisodes 253 ;
+    ns1:numSeasons 12 ;
+    ns1:opentheme "\"Cosy in the Rocket\""@zh ;
+    ns1:pictureFormat 480 ;
+    ns1:related <http://zh.dbpedia.org/resource/私人診所> ;
+    ns1:runtime "約42分鐘"@zh ;
+    ns1:showName "(Grey's Anatomy)"@zh,
+        "实习医生"@zh ;
+    ns1:showNameZhCn "实习医生格蕾"@zh ;
+    ns1:showNameZhHk "實習醫生（福斯）"@zh,
+        "醫人當自強（亞洲電視）"@zh,
+        "醫者有情人（SONY）"@zh ;
+    ns1:showNameZhTw "實習醫生"@zh ;
+    ns1:starring <http://zh.dbpedia.org/resource/T·R·奈特>,
+        <http://zh.dbpedia.org/resource/伊賽亞·華盛頓>,
+        <http://zh.dbpedia.org/resource/凱特·沃許>,
+        <http://zh.dbpedia.org/resource/凱瑟琳·海格>,
+        <http://zh.dbpedia.org/resource/吳珊卓>,
+        <http://zh.dbpedia.org/resource/小詹姆士·比克坎>,
+        <http://zh.dbpedia.org/resource/帕特里克·丹普西>,
+        <http://zh.dbpedia.org/resource/桑德拉·威爾森>,
+        <http://zh.dbpedia.org/resource/艾蓮·朋佩歐>,
+        <http://zh.dbpedia.org/resource/莎拉·芮莫茲>,
+        <http://zh.dbpedia.org/resource/賈斯汀·錢柏斯> ;
+    ns1:themeMusicComposer <http://zh.dbpedia.org/resource/Psapp> ;
+    ns1:title "Grey's Anatomy"@zh ;
+    ns1:tvComId 24440 .
+
+<http://zh.dbpedia.org/resource/巴西國家足球隊> ns1:age "1980-05-06"^^xsd:date,
+        "1982-04-22"^^xsd:date,
+        "1983-01-02"^^xsd:date,
+        "1983-05-06"^^xsd:date,
+        "1984-01-25"^^xsd:date,
+        "1984-09-07"^^xsd:date,
+        "1984-09-22"^^xsd:date,
+        "1985-05-04"^^xsd:date,
+        "1985-05-10"^^xsd:date,
+        "1985-05-16"^^xsd:date,
+        "1985-06-24"^^xsd:date,
+        "1985-08-09"^^xsd:date,
+        "1985-09-07"^^xsd:date,
+        "1986-07-25"^^xsd:date,
+        "1987-01-13"^^xsd:date,
+        "1987-03-24"^^xsd:date,
+        "1987-04-12"^^xsd:date,
+        "1987-04-22"^^xsd:date,
+        "1987-07-23"^^xsd:date,
+        "1988-05-12"^^xsd:date,
+        "1988-08-09"^^xsd:date,
+        "1989-04-10"^^xsd:date,
+        "1989-07-19"^^xsd:date,
+        "1990-09-14"^^xsd:date,
+        "1990-11-26"^^xsd:date,
+        "1991-01-26"^^xsd:date,
+        "1991-07-15"^^xsd:date,
+        "1991-09-09"^^xsd:date,
+        "1991-10-02"^^xsd:date,
+        "1992-02-05"^^xsd:date,
+        "1992-02-23"^^xsd:date,
+        "1992-06-12"^^xsd:date,
+        "1992-08-13"^^xsd:date,
+        "1993-03-05"^^xsd:date,
+        "1993-10-23"^^xsd:date,
+        "1994-05-14"^^xsd:date ;
+    ns1:align "left"@zh ;
+    ns1:association <http://zh.dbpedia.org/resource/巴西足球协会> ;
+    ns1:badge "CBF logo.svg"@zh ;
+    ns1:bg "#FBEC5D"@zh ;
+    ns1:body "33.0"^^<http://dbpedia.org/datatype/cubicCentimetre>,
+        0,
+        "FDE910"@zh,
+        "FF0000"@zh,
+        "FFCC00"@zh,
+        "FFDD00"@zh,
+        "FFDF00"@zh,
+        "FFFF00"@zh,
+        "FFFFFF"@zh,
+        "FFcc00"@zh,
+        "ffffff"@zh ;
+    ns1:caps 0,
+        2,
+        3,
+        4,
+        6,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14,
+        15,
+        19,
+        20,
+        22,
+        25,
+        26,
+        27,
+        33,
+        42,
+        45,
+        47,
+        51,
+        54,
+        58,
+        67,
+        85,
+        91,
+        99 ;
+    ns1:captain <http://zh.dbpedia.org/resource/内马尔> ;
+    ns1:club <http://zh.dbpedia.org/resource/AC米兰>,
+        <http://zh.dbpedia.org/resource/保地花高足球競賽會>,
+        <http://zh.dbpedia.org/resource/切爾西足球俱乐部>,
+        <http://zh.dbpedia.org/resource/利物浦足球俱乐部>,
+        <http://zh.dbpedia.org/resource/哥連泰斯保利斯塔體育會>,
+        <http://zh.dbpedia.org/resource/国际米兰足球俱乐部>,
+        <http://zh.dbpedia.org/resource/圣彼得堡泽尼特足球俱乐部>,
+        <http://zh.dbpedia.org/resource/奥兰多城足球俱乐部>,
+        <http://zh.dbpedia.org/resource/尤文图斯足球俱乐部>,
+        <http://zh.dbpedia.org/resource/山东鲁能泰山足球俱乐部>,
+        <http://zh.dbpedia.org/resource/巴伦西亚足球俱乐部>,
+        <http://zh.dbpedia.org/resource/巴塞罗那足球俱乐部>,
+        <http://zh.dbpedia.org/resource/巴黎圣日耳曼足球俱乐部>,
+        <http://zh.dbpedia.org/resource/拜仁慕尼黑足球俱乐部>,
+        <http://zh.dbpedia.org/resource/摩納哥體育會足球會>,
+        <http://zh.dbpedia.org/resource/曼彻斯特城足球俱乐部>,
+        <http://zh.dbpedia.org/resource/桑托斯足球俱乐部>,
+        <http://zh.dbpedia.org/resource/江蘇蘇寧>,
+        <http://zh.dbpedia.org/resource/沃尔夫斯堡>,
+        <http://zh.dbpedia.org/resource/甘美奧阿雷格里港足球會>,
+        <http://zh.dbpedia.org/resource/皇家马德里足球俱乐部>,
+        <http://zh.dbpedia.org/resource/米内罗竞技俱乐部>,
+        <http://zh.dbpedia.org/resource/阿森纳足球俱乐部>,
+        <http://zh.dbpedia.org/resource/阿爾阿里足球會>,
+        <http://zh.dbpedia.org/resource/頓涅茨克礦工足球俱樂部>,
+        <http://zh.dbpedia.org/resource/马德里竞技俱乐部> ;
+    ns1:clubnat "BRA"@zh,
+        "CHN"@zh,
+        "ENG"@zh,
+        "ESP"@zh,
+        "FRA"@zh,
+        "GER"@zh,
+        "ITA"@zh,
+        "RUS"@zh,
+        "UAE"@zh,
+        "UKR"@zh,
+        "USA"@zh ;
+    ns1:coach "鄧加"@zh ;
+    ns1:confederation <http://zh.dbpedia.org/resource/南美洲足球協會> ;
+    ns1:confederationsCupApps 7 ;
+    ns1:confederationsCupBest "冠軍，1997年、2005年、2009年、2013年"@zh ;
+    ns1:confederationsCupFirst 1997 ;
+    ns1:eloMax 1 ;
+    ns1:eloMaxDate 1958,
+        1965,
+        1970,
+        1978,
+        1981,
+        1986,
+        1990,
+        1992,
+        1994,
+        2002 ;
+    ns1:eloMin 18 ;
+    ns1:eloMinDate 2001 ;
+    ns1:eloRank 11 ;
+    ns1:fg "#008000"@zh ;
+    ns1:fifaMax 1 ;
+    ns1:fifaMaxDate 1993,
+        1994,
+        2002,
+        2007,
+        2009,
+        2010 ;
+    ns1:fifaMin 22 ;
+    ns1:fifaMinDate 2013 ;
+    ns1:fifaTrigramme "BRA"@zh ;
+    ns1:firstGame 3 ;
+    ns1:goals 0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        12,
+        28,
+        29,
+        46 ;
+    ns1:largestLoss 6,
+        "巴西  1 - 7"@zh,
+        "（巴西-{zh-tw:美景市;zh-hk:美景市;zh-cn:贝洛奥里藏特;zh-mo:美景市}-；2014年7月8日）"@zh,
+        "（智利比尼亚德尔马；1920年9月18日）"@zh ;
+    ns1:largestWin "巴西 14 - 0"@zh,
+        "（墨西哥墨西哥城；1975年10月17日）"@zh ;
+    ns1:leftarm "33.0"^^<http://dbpedia.org/datatype/cubicCentimetre>,
+        0,
+        70707,
+        "FDE910"@zh,
+        "FF0000"@zh,
+        "FFCC00"@zh,
+        "FFDD00"@zh,
+        "FFDF00"@zh,
+        "FFFF00"@zh,
+        "FFcc00"@zh,
+        "blue hoops"@zh,
+        "ffffff"@zh ;
+    ns1:mostCaps "卡富（142場）"@zh ;
+    ns1:name <http://zh.dbpedia.org/resource/奧斯卡·多斯桑托斯·埃姆博阿巴·儒尼奧爾>,
+        <http://zh.dbpedia.org/resource/拉美利斯>,
+        <http://zh.dbpedia.org/resource/浩克_(足球运动员)>,
+        <http://zh.dbpedia.org/resource/路易斯·阿德里亚诺>,
+        <http://zh.dbpedia.org/resource/迭戈·阿尔维斯>,
+        <http://zh.dbpedia.org/resource/马塞洛·维埃拉>,
+        "-{zh-cn:费尔南迪尼奥;zh-hk:費蘭甸奴;zh-tw:費爾南迪尼奧;}-（Fernando Luiz Roza）"@zh,
+        "-{zh-hans:丹尼尔·阿尔维斯;zh-hk:丹尼爾·艾維斯;zh-tw:丹尼爾·艾維斯;}-（Daniel Alves da Silva）"@zh,
+        "-{zh-hans:内托;zh-hk:尼圖;zh-tw:内托;}- （Neto）"@zh,
+        "-{zh-hans:内马尔;zh-hk:尼馬;zh-tw:內馬爾;}-（Neymar Jr.）12px"@zh,
+        "-{zh-hans:包列斯達; zh-hk:保斯利達;}-（Gabriel Paulista）"@zh,
+        "-{zh-hans:卡塞米罗;zh-hk:卡斯米路;}-（Casemiro）"@zh,
+        "-{zh-hans:卢卡斯·莫拉; zh-hk:盧卡斯·摩亞;}-（Lucas Moura）"@zh,
+        "-{zh-hans:古斯塔沃;zh-hk:古斯達禾;zh-tw:古斯塔沃;}-（Luiz Gustavo）"@zh,
+        "-{zh-hans:塔尔德利;zh-hk:高達杜尼}-（Diego Tardelli）"@zh,
+        "-{zh-hans:大卫·路易斯;zh-hk:大衛·雷斯;zh-tw:大衛·路易斯;}-（David Luiz）"@zh,
+        "-{zh-hans:奥利维拉;zh-hk:奧利華拉;zh-tw:奧利維拉;}-（Ricardo Oliveira）"@zh,
+        "-{zh-hans:威廉; zh-hk:韋利安;zh-tw:威廉;}-（Willian）"@zh,
+        "-{zh-hans:库蒂尼奥;zh-hk:古天奴;zh-tw:菲利普·庫迪尼奧;}-（Philippe Coutinho）"@zh,
+        "-{zh-hans:拉菲尼亚; zh-hk:拉芬拿;zh-tw:拉菲尼亞;}-（Rafinha）"@zh,
+        "-{zh-hans:法比尼奥;zh-hk:費賓奴}-（Fabinho）"@zh,
+        "-{zh-hans:米兰达;zh-hk:米蘭達}-（Miranda）12px"@zh,
+        "-{zh-hans:罗比尼奥;zh-hk:羅賓奴;zh-tw:羅比尼奧;}-（Robinho）"@zh,
+        "-{zh-hans:艾力克斯·桑德羅;zh-hk:A.辛特路;}-（Alex Sandro）"@zh,
+        "-{zh-hans:菲利佩·路易斯; zh-hk:菲臘比·路爾斯;}-（Filipe Luís）"@zh,
+        "-{zh-hans:菲尔米诺;zh-hk:法明奴;zh-tw:法明奴;}-（Roberto Firmino）"@zh,
+        "-{zh-hans:蒂亚戈·席尔瓦; zh-hk:泰亞高·施華;}-（Thiago Silva）12px"@zh,
+        "-{zh-hans:谢法臣;zh-hk:謝佛遜;zh-tw:傑弗森}- （Jefferson）"@zh,
+        "-{zh-hans:达尼洛;zh-hk:丹尼路;zh-tw:達尼洛;}-（Danilo）"@zh,
+        "-{zh-hans:道格拉斯·科斯塔; zh-hk:杜格拉斯·哥斯達}-（Douglas Costa）"@zh,
+        "-{zh-hans:里贝罗;zh-hk:利比路}-（Everton Ribeiro）"@zh,
+        "-{zh-hk:馬昆奴斯;zh-cn:马金尼奥斯}-（Marquinhos）"@zh,
+        "卡卡（Kaká）"@zh,
+        "哥希 （Marcelo Grohe）"@zh,
+        "埃利亞斯（Elias）"@zh,
+        "巴西"@zh,
+        "費特（Fred）"@zh ;
+    ns1:nickname "森巴軍團"@zh,
+        "（五冠王）"@zh,
+        "（国家队）"@zh,
+        "（小金絲雀）"@zh,
+        "（綠金軍團）"@zh ;
+    ns1:no 1,
+        3,
+        9,
+        10,
+        21,
+        22,
+        "--"@zh ;
+    ns1:p0atternSo "_2_stripes_white"@zh ;
+    ns1:patternB "345600.0"^^<http://dbpedia.org/datatype/second>,
+        "5094000.0"^^<http://dbpedia.org/datatype/second>,
+        "_ adidasbrasil"@zh,
+        "_bluecollar_2"@zh,
+        "_bra02a"@zh,
+        "_bra96a"@zh,
+        "_brasil1998"@zh,
+        "_brazil1415a"@zh,
+        "_brazil1415t"@zh,
+        "_brazil1994"@zh,
+        "_brazil1994away"@zh,
+        """_brazilh
+0204"""@zh,
+        "_collargreen"@zh,
+        "_greencollar"@zh,
+        "_greenhorizontal"@zh,
+        "_greenstripes"@zh,
+        "_vneck_transparent"@zh,
+        "_whitecollar"@zh ;
+    ns1:patternLa "5094000.0"^^<http://dbpedia.org/datatype/second>,
+        "_ adidasbrasil2"@zh,
+        "_blue_border"@zh,
+        "_blue_hoops"@zh,
+        "_blueborder"@zh,
+        "_bra02a"@zh,
+        "_bra98"@zh,
+        "_brazil1415a"@zh,
+        "_brazil1994"@zh,
+        "_brazil1994away"@zh,
+        "_brazilh0204"@zh,
+        "_green_shoulders"@zh,
+        "_green_stripes"@zh,
+        "_greenborder"@zh,
+        "_whiteborder"@zh,
+        "_whiteshoulders"@zh,
+        "_yellow_hoops"@zh ;
+    ns1:patternRa "5094000.0"^^<http://dbpedia.org/datatype/second>,
+        "_ adidasbrasil1"@zh,
+        "_black_hoops"@zh,
+        "_blue_border"@zh,
+        "_blueborder"@zh,
+        "_bra02a"@zh,
+        "_bra98"@zh,
+        "_brazil1415a"@zh,
+        "_brazil1994"@zh,
+        "_brazil1994away"@zh,
+        "_brazilh0204"@zh,
+        "_green_shoulders"@zh,
+        "_green_stripes"@zh,
+        "_greenborder"@zh,
+        "_whiteborder"@zh,
+        "_whiteshoulders"@zh,
+        "_yellow_hoops"@zh ;
+    ns1:patternSh "2912400.0"^^<http://dbpedia.org/datatype/second>,
+        "39600.0"^^<http://dbpedia.org/datatype/second>,
+        "_adidaswhite"@zh,
+        "_blue_border"@zh,
+        "_blue_stripes"@zh,
+        "_brazil1415t"@zh,
+        "_colchester0809t"@zh,
+        "_white_border"@zh,
+        "_white_stripes"@zh,
+        "_yellow_stripes"@zh ;
+    ns1:patternSo "338400.0"^^<http://dbpedia.org/datatype/second>,
+        "_2_stripes_white"@zh,
+        "_3_stripes_blue"@zh,
+        "_3_stripes_green"@zh,
+        "_3_stripes_white"@zh,
+        "_bra94a"@zh,
+        "_brasil 1978"@zh,
+        "_brasil1930"@zh,
+        "_brasil1954"@zh,
+        "_brasil1998"@zh,
+        "_yellow"@zh,
+        "blue"@zh ;
+    ns1:pos "AM"@zh,
+        "CB"@zh,
+        "CF"@zh,
+        "CM"@zh,
+        "DF"@zh,
+        "DM"@zh,
+        "GK"@zh,
+        "LB"@zh,
+        "LM"@zh,
+        "LW"@zh,
+        "RB"@zh,
+        "RM"@zh,
+        "RW"@zh ;
+    ns1:regionalCupApps 32 ;
+    ns1:regionalCupBest 1949,
+        1999,
+        "冠军，1919年、1922年、"@zh ;
+    ns1:regionalCupFirst 1916 ;
+    ns1:regionalName <http://zh.dbpedia.org/resource/美洲盃足球賽> ;
+    ns1:rightarm "33.0"^^<http://dbpedia.org/datatype/cubicCentimetre>,
+        0,
+        70707,
+        "FDE910"@zh,
+        "FF0000"@zh,
+        "FFCC00"@zh,
+        "FFDD00"@zh,
+        "FFDF00"@zh,
+        "FFFF00"@zh,
+        "FFcc00"@zh,
+        "ffffff"@zh ;
+    ns1:shorts 0,
+        47,
+        228,
+        3399,
+        "FFFFFF"@zh,
+        "ffffff"@zh ;
+    ns1:socks 0,
+        228,
+        3399,
+        70707,
+        "FFFFFF"@zh,
+        "ffffff"@zh ;
+    ns1:title 1914,
+        1917,
+        1918,
+        1919,
+        1938,
+        1945,
+        1949,
+        1954,
+        1958,
+        1978,
+        1986,
+        1988,
+        1994,
+        1997,
+        1998,
+        2002,
+        "巴西參賽大賽名單"@zh,
+        "巴西參賽大賽決賽圈"@zh ;
+    ns1:topScorer "比利（78球）"@zh ;
+    ns1:worldCupApps 20 ;
+    ns1:worldCupBest 5,
+        1970 ;
+    ns1:worldCupFirst 1930 .
+
+<http://zh.dbpedia.org/resource/布里斯本市政府> ns1:area 1367 ;
+    ns1:caption "布里斯本市於昆士蘭東南轄境圖"@zh ;
+    ns1:density 3.798e+02 ;
+    ns1:est 1924 ;
+    ns1:imagesize 200 ;
+    ns1:logo "Bcc.png"@zh ;
+    ns1:mayor "市長坎貝爾·紐曼"@zh ;
+    ns1:name "布里斯本市"@zh ;
+    ns1:nearE "摩頓灣"@zh ;
+    ns1:nearN <http://zh.dbpedia.org/resource/摩頓灣區政府> ;
+    ns1:nearNe <http://zh.dbpedia.org/resource/摩頓灣區政府> ;
+    ns1:nearNw <http://zh.dbpedia.org/resource/索美塞區政府> ;
+    ns1:nearS <http://zh.dbpedia.org/resource/洛根市_(昆士蘭州)> ;
+    ns1:nearSe <http://zh.dbpedia.org/resource/紅土市政府> ;
+    ns1:nearSw <http://zh.dbpedia.org/resource/伊普斯威奇市政府> ;
+    ns1:nearW <http://zh.dbpedia.org/resource/索美塞區政府> ;
+    ns1:pop 10278471 ;
+    ns1:region "昆士蘭州東南部"@zh ;
+    ns1:seat <http://zh.dbpedia.org/resource/布里斯本中央商業區> ;
+    ns1:state "昆士蘭州"@zh ;
+    ns1:type "lga"@zh .
+
+<http://zh.dbpedia.org/resource/希洛卡河> ns1:city <http://zh.dbpedia.org/resource/潘克鲁多> ;
+    ns1:discharge 2.1e+00 ;
+    ns1:dischargeMax 3.4e+00 ;
+    ns1:dischargeMin 1.6e+00 ;
+    ns1:district <http://zh.dbpedia.org/resource/特魯埃爾省>,
+        <http://zh.dbpedia.org/resource/薩拉戈薩省> ;
+    ns1:free <http://zh.dbpedia.org/resource/埃布羅河> ;
+    ns1:freeType "水系"@zh ;
+    ns1:imageCaption "希洛卡河一景，位于特魯埃爾省卡拉莫查"@zh ;
+    ns1:imageSize 280 ;
+    ns1:length 126 ;
+    ns1:mapCaption "埃布羅河流域图，中下方黄色区域为希洛卡河"@zh ;
+    ns1:mouthElevation 530 ;
+    ns1:mouthLatD 4.134096e+01 ;
+    ns1:mouthLatNs "N"@zh ;
+    ns1:mouthLocation <http://zh.dbpedia.org/resource/卡拉泰乌德> ;
+    ns1:mouthLongD 1.657459e+00 ;
+    ns1:mouthLongEw "W"@zh ;
+    ns1:mouthRegion <http://zh.dbpedia.org/resource/薩拉戈薩省> ;
+    ns1:name "希洛卡河"@zh ;
+    ns1:nativeName "Jiloca"@zh ;
+    ns1:otherName "Giloca"@zh ;
+    ns1:region <http://zh.dbpedia.org/resource/阿拉贡自治区> ;
+    ns1:source "Fuente de Cella"@zh,
+        "Ojos de Monreal"@zh ;
+    ns1:source1Elevation 1036 ;
+    ns1:source1LatD 4.04546e+01 ;
+    ns1:source1LatNs "N"@zh ;
+    ns1:source1Location <http://zh.dbpedia.org/resource/塞利亚_(特鲁埃尔省)> ;
+    ns1:source1LongD 1.286831e+00 ;
+    ns1:source1LongEw "W"@zh ;
+    ns1:source1Region <http://zh.dbpedia.org/resource/特魯埃爾省> ;
+    ns1:sourceElevation 950 ;
+    ns1:sourceLatD 4.076041e+01 ;
+    ns1:sourceLatNs "N"@zh ;
+    ns1:sourceLocation <http://zh.dbpedia.org/resource/蒙雷亚尔德尔坎波> ;
+    ns1:sourceLongD 1.351933e+00 ;
+    ns1:sourceLongEw "W"@zh ;
+    ns1:sourceRegion <http://zh.dbpedia.org/resource/特魯埃爾省> ;
+    ns1:watershed 2957 .
+
+<http://zh.dbpedia.org/resource/帕塞伊克河> ns1:category "River"@zh ;
+    ns1:categoryHide "yes"@zh ;
+    ns1:city <http://zh.dbpedia.org/resource/帕特森_(新泽西州)>,
+        <http://zh.dbpedia.org/resource/紐華克_(新澤西州)> ;
+    ns1:country "美国"@zh ;
+    ns1:discharge1AverageImperial 320 ;
+    ns1:discharge1Location <http://zh.dbpedia.org/resource/Chatham,_New_Jersey> ;
+    ns1:dischargeAverageImperial 2100 ;
+    ns1:dischargeLocation <http://zh.dbpedia.org/resource/Little_Falls,_New_Jersey> ;
+    ns1:dischargeMaxImperial 8330 ;
+    ns1:dischargeMinImperial 36 ;
+    ns1:district <http://zh.dbpedia.org/resource/North_Jersey>,
+        <http://zh.dbpedia.org/resource/Skylands_Region>,
+        <http://zh.dbpedia.org/resource/门户地区> ;
+    ns1:imageCaption "流经巴賽克縣和博根縣交界处的帕塞伊克河"@zh ;
+    ns1:imageSize 300 ;
+    ns1:lengthImperial 80 ;
+    ns1:mapCaption "帕塞伊克河与哈肯萨克河流域"@zh ;
+    ns1:mapSize 300 ;
+    ns1:mouthElevationImperial 0 ;
+    ns1:mouthLatD 40 ;
+    ns1:mouthLatM 42 ;
+    ns1:mouthLatNs "N"@zh ;
+    ns1:mouthLatS 46 ;
+    ns1:mouthLocation <http://zh.dbpedia.org/resource/紐華克_(新澤西州)> ;
+    ns1:mouthLongD 74 ;
+    ns1:mouthLongEw "W"@zh ;
+    ns1:mouthLongM 7 ;
+    ns1:mouthLongS 8 ;
+    ns1:mouthName <http://zh.dbpedia.org/resource/纽瓦克湾> ;
+    ns1:name "The Passaic Flood of 1903"@zh,
+        "帕塞伊克河"@zh ;
+    ns1:nativeName "Passaic River"@zh ;
+    ns1:no 19878 ;
+    ns1:region <http://zh.dbpedia.org/resource/博根縣>,
+        <http://zh.dbpedia.org/resource/哈德遜縣>,
+        <http://zh.dbpedia.org/resource/巴賽克縣>,
+        <http://zh.dbpedia.org/resource/摩里斯縣_(新澤西州)>,
+        <http://zh.dbpedia.org/resource/聯合縣_(新澤西州)>,
+        <http://zh.dbpedia.org/resource/艾塞克斯郡_(紐澤西州)>,
+        <http://zh.dbpedia.org/resource/萨默塞特县_(新泽西州)> ;
+    ns1:regionType <http://zh.dbpedia.org/resource/县_(美国)> ;
+    ns1:sourceElevationImperial 540 ;
+    ns1:sourceLatD 40 ;
+    ns1:sourceLatM 45 ;
+    ns1:sourceLatNs "N"@zh ;
+    ns1:sourceLatS 43 ;
+    ns1:sourceLocation <http://zh.dbpedia.org/resource/Mendham,_New_Jersey> ;
+    ns1:sourceLongD 74 ;
+    ns1:sourceLongEw "W"@zh ;
+    ns1:sourceLongM 34 ;
+    ns1:sourceLongS 42 ;
+    ns1:sourceName "Unnamed Pond"@zh ;
+    ns1:state "新泽西州"@zh ;
+    ns1:tributaryLeft <http://zh.dbpedia.org/resource/Pompton_River>,
+        <http://zh.dbpedia.org/resource/Rockaway_River>,
+        <http://zh.dbpedia.org/resource/Saddle_River_(Passaic_River)> ;
+    ns1:tributaryRight <http://zh.dbpedia.org/resource/Dead_River_(New_Jersey)> ;
+    ns1:watershedImperial 935 .
+
+<http://zh.dbpedia.org/resource/幻想世界> ns1:imageWidth 150 ;
+    ns1:logo "Fantasyland logo.svg"@zh ;
+    ns1:name "夢幻樂園"@zh,
+        "幻想世界"@zh ;
+    ns1:nativeName "Fantasyland"@zh ;
+    ns1:opened 1955,
+        1971,
+        1983,
+        1992,
+        2005,
+        2015 ;
+    ns1:park <http://zh.dbpedia.org/resource/上海迪士尼樂園>,
+        <http://zh.dbpedia.org/resource/巴黎迪士尼樂園>,
+        <http://zh.dbpedia.org/resource/東京迪士尼樂園>,
+        <http://zh.dbpedia.org/resource/神奇王國>,
+        <http://zh.dbpedia.org/resource/迪士尼樂園>,
+        <http://zh.dbpedia.org/resource/香港迪士尼樂園>,
+        "巴黎迪士尼樂園"@zh,
+        "東京迪士尼樂園"@zh,
+        "神奇王國"@zh,
+        "迪士尼樂園"@zh ;
+    ns1:status "Operating"@zh,
+        "Under construction"@zh ;
+    ns1:theme "迪士尼的奇幻動畫電影"@zh .
+
+<http://zh.dbpedia.org/resource/彼得·阿尔卡季耶维奇·斯托雷平> ns1:birthDate "1862-04-14"^^xsd:date ;
+    ns1:birthPlace "日耳曼邦联萨克森王国德累斯顿"@zh ;
+    ns1:deathDate "1911-09-18"^^xsd:date ;
+    ns1:deathPlace "俄罗斯帝国基辅"@zh ;
+    ns1:monarch <http://zh.dbpedia.org/resource/尼古拉二世_(俄罗斯)> ;
+    ns1:name "彼得·斯托雷平"@zh ;
+    ns1:order "第3任俄罗斯帝国大臣会议主席"@zh ;
+    ns1:predecessor <http://zh.dbpedia.org/resource/伊万·洛吉诺维奇·戈列梅金> ;
+    ns1:spouse "Olga Borisovna Neidhardt"@zh ;
+    ns1:successor <http://zh.dbpedia.org/resource/弗拉基米尔·尼古拉耶维奇·科科夫佐夫> ;
+    ns1:termEnd 1911 ;
+    ns1:termStart 1906 .
+
+<http://zh.dbpedia.org/resource/怀俄明州> ns1:2000density 1.96e+00 ;
+    ns1:2000pop 493782 ;
+    ns1:admittancedate 1890 ;
+    ns1:admittanceorder 44 ;
+    ns1:arearank 10 ;
+    ns1:capital <http://zh.dbpedia.org/resource/夏延_(怀俄明州)> ;
+    ns1:densityrank 49 ;
+    ns1:flag "Flag of Wyoming.svg"@zh ;
+    ns1:fullZhName "怀俄明州"@zh ;
+    ns1:fullname "State of Wyoming"@zh ;
+    ns1:governor <http://zh.dbpedia.org/resource/共和黨_(美國)>,
+        <http://zh.dbpedia.org/resource/馬特·米德> ;
+    ns1:highestelev 4207 ;
+    ns1:isocode "US-WY"@zh ;
+    ns1:landarea 251706 ;
+    ns1:largestcity <http://zh.dbpedia.org/resource/夏延_(怀俄明州)> ;
+    ns1:latitude 41 ;
+    ns1:length 580 ;
+    ns1:longitude 104 ;
+    ns1:lowestelev 945 ;
+    ns1:meanelev 2040 ;
+    ns1:name "Wyoming"@zh ;
+    ns1:nickname "平等之州"@zh ;
+    ns1:officiallang <http://zh.dbpedia.org/resource/英语> ;
+    ns1:pcwater 7e-01 ;
+    ns1:poprank 50 ;
+    ns1:postalabbreviation "WY"@zh ;
+    ns1:seal "Seal of Wyoming.svg"@zh ;
+    ns1:senators <http://zh.dbpedia.org/resource/共和黨_(美國)>,
+        <http://zh.dbpedia.org/resource/約翰·巴拉索>,
+        <http://zh.dbpedia.org/resource/麥克·恩齊> ;
+    ns1:timezone <http://zh.dbpedia.org/resource/UTC-6>,
+        <http://zh.dbpedia.org/resource/UTC-7>,
+        <http://zh.dbpedia.org/resource/北美山區時區> ;
+    ns1:totalarea 253554 ;
+    ns1:type <http://zh.dbpedia.org/resource/美国州份> ;
+    ns1:waterarea 1851 ;
+    ns1:website "wyoming.gov"@zh ;
+    ns1:width 450 .
+
+<http://zh.dbpedia.org/resource/愛情夢> ns1:airdate 2012 ;
+    ns1:episode 4 ;
+    ns1:episodeList <http://zh.dbpedia.org/resource/探險活寶各集列表> ;
+    ns1:guests "是演豬先生"@zh ;
+    ns1:length 11 ;
+    ns1:music "派屈克·麥克海爾〈Dream of Love〉"@zh ;
+    ns1:next <http://zh.dbpedia.org/resource/重返惡夜魔境/爸爸的小怪獸> ;
+    ns1:prev <http://zh.dbpedia.org/resource/蜘蛛怪咖> ;
+    ns1:production 1008 ;
+    ns1:season 4 ;
+    ns1:series <http://zh.dbpedia.org/resource/探險時光> ;
+    ns1:story <http://zh.dbpedia.org/resource/潘得頓·沃德> ;
+    ns1:title "愛情夢"@zh ;
+    ns1:writer "Somvilay Xayaphone"@zh,
+        "伯特·尹"@zh .
+
+<http://zh.dbpedia.org/resource/戴姆勒> ns1:assets "€1,629.78 亿"@zh ;
+    ns1:ceo "迪特尔·蔡澈"@zh ;
+    ns1:companyLogo 200 ;
+    ns1:companyName "戴姆勒"@zh ;
+    ns1:companyNameEn "Daimler AG"@zh ;
+    ns1:companyType <http://zh.dbpedia.org/resource/股份有限公司> ;
+    ns1:divisions <http://zh.dbpedia.org/resource/Smart_(汽車)>,
+        <http://zh.dbpedia.org/resource/梅賽德斯-賓士> ;
+    ns1:equity "€455.1 亿"@zh ;
+    ns1:foundation 1886 ;
+    ns1:industry "汽车工业、航天航空工业、电气工业、服务业"@zh ;
+    ns1:location "斯圖加特"@zh ;
+    ns1:netIncome "€64.95 亿"@zh ;
+    ns1:numEmployees 275087 ;
+    ns1:operatingIncome "€86.15 亿"@zh ;
+    ns1:products <http://zh.dbpedia.org/resource/商用车辆>,
+        <http://zh.dbpedia.org/resource/汽车> ;
+    ns1:revenue "€1,142.97 亿"@zh .
+
+<http://zh.dbpedia.org/resource/拉勒米河> ns1:category "River"@zh ;
+    ns1:categoryHide 1 ;
+    ns1:city <http://zh.dbpedia.org/resource/惠特兰_(怀俄明州)>,
+        <http://zh.dbpedia.org/resource/拉勒米_(怀俄明州)>,
+        <http://zh.dbpedia.org/resource/拉勒米堡_(怀俄明州)> ;
+    ns1:country "United States"@zh ;
+    ns1:countryFlag 1 ;
+    ns1:dischargeImperial 129 ;
+    ns1:dischargeLocation "拉勒米堡，距离河口1千米"@zh ;
+    ns1:dischargeMaxImperial 6260 ;
+    ns1:dischargeMinImperial 0 ;
+    ns1:dischargeRound 1 ;
+    ns1:etymology "Named for Jacques La Ramie, French fur trapper"@zh ;
+    ns1:imageCaption "The Laramie River, as it flows past the site of old Fort Laramie"@zh ;
+    ns1:imageSize 300 ;
+    ns1:lengthImperial 280 ;
+    ns1:mapCaption "地图中心亮蓝色的为拉勒米河"@zh ;
+    ns1:mouth <http://zh.dbpedia.org/resource/北普拉特河> ;
+    ns1:mouthElevationImperial 4213 ;
+    ns1:mouthLatD 42 ;
+    ns1:mouthLatM 11 ;
+    ns1:mouthLatNs "N"@zh ;
+    ns1:mouthLatS 59 ;
+    ns1:mouthLocation <http://zh.dbpedia.org/resource/戈申縣> ;
+    ns1:mouthLongD 104 ;
+    ns1:mouthLongEw "W"@zh ;
+    ns1:mouthLongM 31 ;
+    ns1:mouthLongS 47 ;
+    ns1:name "Laramie River"@zh,
+        "拉勒米河"@zh ;
+    ns1:source "Chambers Lake"@zh ;
+    ns1:sourceElevationImperial 9192 ;
+    ns1:sourceLatD 40 ;
+    ns1:sourceLatM 36 ;
+    ns1:sourceLatNs "N"@zh ;
+    ns1:sourceLatS 56 ;
+    ns1:sourceLocation <http://zh.dbpedia.org/resource/拉里默爾縣_(科羅拉多州)> ;
+    ns1:sourceLongD 105 ;
+    ns1:sourceLongEw "W"@zh ;
+    ns1:sourceLongM 51 ;
+    ns1:sourceLongS 29 ;
+    ns1:state "Colorado"@zh,
+        "Wyoming"@zh ;
+    ns1:stateFlag 1 ;
+    ns1:tributaryLeft <http://zh.dbpedia.org/resource/北拉勒米河> ;
+    ns1:watershedImperial 4564 ;
+    ns1:watershedRound -1 .
+
+<http://zh.dbpedia.org/resource/新英格蘭學校和學院協會> ns1:formation 1885 ;
+    ns1:headquarters <http://zh.dbpedia.org/resource/伯灵顿_(马萨诸塞州)> ;
+    ns1:name "新英格蘭學校聯會"@zh ;
+    ns1:purpose "教育評鑑"@zh ;
+    ns1:regionServed <http://zh.dbpedia.org/resource/佛蒙特州>,
+        <http://zh.dbpedia.org/resource/康乃狄克州>,
+        <http://zh.dbpedia.org/resource/新罕布什尔州>,
+        <http://zh.dbpedia.org/resource/缅因州>,
+        <http://zh.dbpedia.org/resource/羅德島州>,
+        <http://zh.dbpedia.org/resource/麻薩諸塞州> ;
+    ns1:status "聯會"@zh .
+
+<http://zh.dbpedia.org/resource/新闻集团_(1979－2013年)> ns1:areaServed "全球"@zh ;
+    ns1:assets 566 ;
+    ns1:caption "分拆前的新聞集團標誌"@zh ;
+    ns1:ceo "魯伯特·默多克"@zh ;
+    ns1:chairman "魯伯特·默多克"@zh ;
+    ns1:coo "蔡司·凱裡"@zh ;
+    ns1:defunct "2013-06-28"^^xsd:date ;
+    ns1:equity 246 ;
+    ns1:fate "分拆"@zh ;
+    ns1:foundation "2004-11-12"^^xsd:date ;
+    ns1:founder <http://zh.dbpedia.org/resource/鲁伯特·默多克> ;
+    ns1:industry <http://zh.dbpedia.org/resource/传播媒体> ;
+    ns1:location "紐約州紐約市"@zh ;
+    ns1:logo 250 ;
+    ns1:name "新聞集團"@zh ;
+    ns1:nameEn "News Corporation"@zh ;
+    ns1:netIncome 11 ;
+    ns1:numEmployees 48000 ;
+    ns1:operatingIncome 22 ;
+    ns1:products "電視、廣播、電影、報紙、雜誌"@zh ;
+    ns1:revenue 337 ;
+    ns1:successor 21 ;
+    ns1:type <http://zh.dbpedia.org/resource/上市公司> .
+
+<http://zh.dbpedia.org/resource/星空聯盟> ns1:airports 1328 ;
+    ns1:align "right"@zh ;
+    ns1:alliance "星空聯盟"@zh ;
+    ns1:allianceSlogan "The Way The Earth Connects"@zh ;
+    ns1:annualPassengers 6.785e+02 ;
+    ns1:annualRpk 9.9024e+03 ;
+    ns1:countries 195 ;
+    ns1:direction "vertical"@zh ;
+    ns1:engName "Star Alliance"@zh ;
+    ns1:fleet 4701 ;
+    ns1:footer <http://zh.dbpedia.org/resource/加拿大航空>,
+        <http://zh.dbpedia.org/resource/北歐航空>,
+        <http://zh.dbpedia.org/resource/汉莎航空>,
+        <http://zh.dbpedia.org/resource/泰国国际航空>,
+        <http://zh.dbpedia.org/resource/聯合航空> ;
+    ns1:footerAlign "center"@zh ;
+    ns1:fullMembers 26 ;
+    ns1:futureMembers 0 ;
+    ns1:headquarters "法兰克福"@zh ;
+    ns1:image "Airbus A340-311, Star Alliance  AN2177827.jpg"@zh,
+        "C-GHLM .jpg"@zh,
+        "HS-TGW@PEK .JPG"@zh,
+        "N77022 LLBG 08-11-2013.jpg"@zh,
+        "Scandinavian Airlines Airbus A330-300; SE-REF@CPH;03.06.2010 574ap  .jpg"@zh ;
+    ns1:launchDate 1997 ;
+    ns1:logo "Logo of Star Alliance.svg"@zh ;
+    ns1:siteName "staralliance.com"@zh ;
+    ns1:size 250 ;
+    ns1:sponsoredMembers 25 ;
+    ns1:width 200 .
+
+<http://zh.dbpedia.org/resource/普惠PW4000> ns1:bypass 5.3e+00 ;
+    ns1:combustion "環形"@zh ;
+    ns1:compression 32 ;
+    ns1:compressor 1 ;
+    ns1:diameter 112 ;
+    ns1:firstRun 1984 ;
+    ns1:length 1.631e+02 ;
+    ns1:majorApplications <http://zh.dbpedia.org/resource/波音747>,
+        <http://zh.dbpedia.org/resource/波音767>,
+        <http://zh.dbpedia.org/resource/空中客车A300>,
+        <http://zh.dbpedia.org/resource/空中客车A330>,
+        "波音777"@zh,
+        "空中客车A310"@zh,
+        "麥道MD-11"@zh ;
+    ns1:manufacturer <http://zh.dbpedia.org/resource/普惠公司> ;
+    ns1:predecessor <http://zh.dbpedia.org/resource/普惠JT9D> ;
+    ns1:thrust 74000 ;
+    ns2:weight "~6 - 7"@zh ;
+    ns1:turbine 2 ;
+    ns1:turbinetemp 707 ;
+    ns1:type <http://zh.dbpedia.org/resource/渦輪扇發動機>,
+        "雙轉子高涵道比渦輪扇發動機"@zh .
+
+<http://zh.dbpedia.org/resource/暮光之城：蝕> ns1:author "史蒂芬妮·梅爾"@zh ;
+    ns1:country <http://zh.dbpedia.org/resource/美国> ;
+    ns1:followedBy <http://zh.dbpedia.org/resource/暮光之城：破曉> ;
+    ns1:genre "青年小說，愛情，科幻"@zh ;
+    ns1:imageCaption "中文简体版封面"@zh ;
+    ns1:isbn "ISBN 978-7-5448-0571-1（简体）"@zh ;
+    ns1:language 20 ;
+    ns1:mediaType "印刷"@zh ;
+    ns1:name "暮光之城：蝕"@zh ;
+    ns1:pages 476,
+        565 ;
+    ns1:precededBy <http://zh.dbpedia.org/resource/暮光之城：新月> ;
+    ns1:publisher <http://zh.dbpedia.org/resource/尖端出版>,
+        <http://zh.dbpedia.org/resource/接力出版社> ;
+    ns1:releaseDate 2008 ;
+    ns1:series <http://zh.dbpedia.org/resource/暮光之城系列> ;
+    ns1:titleOrig "Eclipse"@zh ;
+    ns1:translator "瞿秀蕙（繁／正体）"@zh,
+        "龚萍（简体）"@zh .
+
+<http://zh.dbpedia.org/resource/朱熹> ns1:birthDate 1130 ;
+    ns1:birthPlace "福建尤溪县郑氏草堂"@zh ;
+    ns1:boxWidth 20 ;
+    ns1:color "lightsteelblue"@zh ;
+    ns1:deathDate 1200 ;
+    ns1:deathPlace "福建建阳考亭沧州精舍"@zh ;
+    ns1:era <http://zh.dbpedia.org/resource/古代哲學> ;
+    ns1:imageCaption "朱子畫像"@zh ;
+    ns1:imageName "Zhu xi.jpg"@zh ;
+    ns1:imageSize 200 ;
+    ns1:influenced <http://zh.dbpedia.org/resource/李滉>,
+        <http://zh.dbpedia.org/resource/李约瑟>,
+        <http://zh.dbpedia.org/resource/杜維明>,
+        <http://zh.dbpedia.org/resource/林羅山>,
+        <http://zh.dbpedia.org/resource/王夫之>,
+        <http://zh.dbpedia.org/resource/王守仁>,
+        <http://zh.dbpedia.org/resource/藤原惺窩>,
+        <http://zh.dbpedia.org/resource/錢穆> ;
+    ns1:influences <http://zh.dbpedia.org/resource/周敦颐>,
+        <http://zh.dbpedia.org/resource/孔子>,
+        <http://zh.dbpedia.org/resource/孟子>,
+        <http://zh.dbpedia.org/resource/張載_(北宋)>,
+        <http://zh.dbpedia.org/resource/程顥>,
+        <http://zh.dbpedia.org/resource/程颐> ;
+    ns1:mainInterests <http://zh.dbpedia.org/resource/哲学>,
+        <http://zh.dbpedia.org/resource/自然科学>,
+        <http://zh.dbpedia.org/resource/道学> ;
+    ns1:name "朱熹"@zh ;
+    ns1:notableIdeas <http://zh.dbpedia.org/resource/存天理、灭人欲> ;
+    ns1:region "中國哲學"@zh ;
+    ns1:schoolTradition "儒學理學學派"@zh .
+
+<http://zh.dbpedia.org/resource/歐洲聯合左派/北歐綠色左派> ns1:associated <http://zh.dbpedia.org/resource/北歐綠色左翼聯盟>,
+        <http://zh.dbpedia.org/resource/欧洲反资本主义左翼> ;
+    ns1:chairs "加布裡埃爾·澤梅爾"@zh,
+        "弗朗西斯爾茨"@zh,
+        "洛薩"@zh,
+        "阿隆索·何塞·普埃爾塔 ,"@zh ;
+    ns1:englishabbr "GUE/NGL"@zh ;
+    ns1:europarties <http://zh.dbpedia.org/resource/歐洲左派黨> ;
+    ns1:formalname "Confederal Group of the European United Left/Nordic Green Left"@zh ;
+    ns1:frenchabbr "GUE/NGL"@zh ;
+    ns1:from 1995 ;
+    ns1:ideology <http://zh.dbpedia.org/resource/共产主义>,
+        <http://zh.dbpedia.org/resource/民主社会主义> ;
+    ns1:imagecaption "欧洲联合左翼/北欧绿色左翼标志"@zh ;
+    ns1:meps "第1屆"@zh,
+        "第2屆"@zh,
+        "第3屆"@zh,
+        "第4屆"@zh,
+        "第5屆"@zh,
+        "第6屆"@zh,
+        "第7屆"@zh,
+        "第8屆"@zh ;
+    ns1:name "European United Left/Nordic Green Left"@zh ;
+    ns1:precededby <http://zh.dbpedia.org/resource/欧洲联合左翼联盟党团>,
+        "北欧绿色左翼"@zh ;
+    ns1:title "歐洲聯合左派/北歐綠色左派"@zh .
+
+<http://zh.dbpedia.org/resource/歐洲足球協會聯盟> ns1:abbreviation "UEFA"@zh ;
+    ns1:bg "#E70410"@zh ;
+    ns1:fg "white"@zh ;
+    ns1:headquarters "瑞士尼永"@zh ;
+    ns1:language "英语、法语、德语"@zh ;
+    ns1:leaderName <http://zh.dbpedia.org/resource/米歇尔·普拉蒂尼>,
+        "伦纳特·约翰松"@zh,
+        "吉亚尼·因凡蒂诺"@zh,
+        "舍内斯·厄齐克"@zh ;
+    ns1:leaderTitle "主席"@zh,
+        "副主席"@zh,
+        "秘书长"@zh,
+        "荣誉主席"@zh ;
+    ns1:mainOrgan "UEFA协会"@zh ;
+    ns1:membership 54 ;
+    ns1:name "欧洲-{足}-球协会联盟"@zh ;
+    ns1:parentOrganization <http://zh.dbpedia.org/resource/国际足球联合会> ;
+    ns1:regionServed "欧洲"@zh ;
+    ns1:size 175 ;
+    ns1:title "UEFA"@zh,
+        "國際足球"@zh ;
+    ns1:type "体育组织"@zh .
+
+<http://zh.dbpedia.org/resource/民主党_(美国)> ns1:blank1Title "Position in national political spectrum"@zh ;
+    ns1:chairman "（FL）"@zh ;
+    ns1:colorcode "#479FDF"@zh ;
+    ns1:colors "蓝色"@zh ;
+    ns1:country "美國"@zh ;
+    ns1:founded 1792,
+        1828 ;
+    ns1:headquarters <http://zh.dbpedia.org/resource/华盛顿哥伦比亚特区>,
+        20003 ;
+    ns1:ideology <http://zh.dbpedia.org/resource/保守主义>,
+        <http://zh.dbpedia.org/resource/民粹主义>,
+        <http://zh.dbpedia.org/resource/社会自由主义>,
+        <http://zh.dbpedia.org/resource/第三条道路>,
+        <http://zh.dbpedia.org/resource/自由意志主義>,
+        <http://zh.dbpedia.org/resource/進步主義>,
+        "内部派别："@zh ;
+    ns1:international <http://zh.dbpedia.org/resource/進步聯盟> ;
+    ns1:leader1Name <http://zh.dbpedia.org/resource/伊利诺伊州>,
+        <http://zh.dbpedia.org/resource/贝拉克·奥巴马> ;
+    ns1:leader1Title "美国总统"@zh ;
+    ns1:leader2Name <http://zh.dbpedia.org/resource/乔·拜登>,
+        <http://zh.dbpedia.org/resource/特拉华州> ;
+    ns1:leader2Title "美国副总统"@zh ;
+    ns1:leader3Name <http://zh.dbpedia.org/resource/伊利诺伊州>,
+        <http://zh.dbpedia.org/resource/内华达州>,
+        <http://zh.dbpedia.org/resource/哈里·瑞德>,
+        <http://zh.dbpedia.org/resource/迪克·德宾> ;
+    ns1:leader3Title "参议院领袖"@zh ;
+    ns1:leader4Name <http://zh.dbpedia.org/resource/加利福尼亚州>,
+        <http://zh.dbpedia.org/resource/斯坦利·霍耶>,
+        <http://zh.dbpedia.org/resource/蘭希·佩洛西>,
+        <http://zh.dbpedia.org/resource/马里兰州> ;
+    ns1:leader4Title "众议院领袖"@zh ;
+    ns1:leader5Name "（VT）"@zh ;
+    ns1:leader5Title "主席"@zh ;
+    ns1:logo 200 ;
+    ns1:membership 4310 ;
+    ns1:membershipYear 2012 ;
+    ns1:name "民主黨"@zh ;
+    ns1:partyArticletitle "民主黨"@zh ;
+    ns1:predecessor <http://zh.dbpedia.org/resource/民主共和黨> ;
+    ns1:seats1Title <http://zh.dbpedia.org/resource/美国参议院> ;
+    ns1:seats2Title <http://zh.dbpedia.org/resource/美国众议院> ;
+    ns1:seats3Title <http://zh.dbpedia.org/resource/州长> .
+
+<http://zh.dbpedia.org/resource/汉尼拔> ns1:allegiance <http://zh.dbpedia.org/resource/古迦太基> ;
+    ns1:battles <http://zh.dbpedia.org/resource/坎尼會戰>,
+        <http://zh.dbpedia.org/resource/札馬戰役>,
+        <http://zh.dbpedia.org/resource/特拉西美诺湖战役>,
+        <http://zh.dbpedia.org/resource/特雷比亚河战役>,
+        <http://zh.dbpedia.org/resource/第二次布匿战争> ;
+    ns1:caption "羅浮宮的漢尼拔雕像,Sébastien Slodzt, 1704."@zh ;
+    ns1:lived "公元前247年 – 公元前183年"@zh ;
+    ns1:name 15,
+        "漢尼拔·巴卡"@zh ;
+    ns1:rank "迦太基統帥，行政官"@zh .
+
+<http://zh.dbpedia.org/resource/滑板少年> ns1:artist <http://zh.dbpedia.org/resource/艾薇兒·拉維尼> ;
+    ns1:certification <http://zh.dbpedia.org/resource/黄金唱片> ;
+    ns1:chartPosition """* #1 
+* #3 
+* #6 
+* #8 
+* #10 
+* #12 
+* #28"""@zh ;
+    ns1:cover "Avril_lavigne-single-sk8er_boi.jpg"@zh ;
+    ns1:format "Airplay only"@zh ;
+    ns1:fromAlbum <http://zh.dbpedia.org/resource/展翅高飛> ;
+    ns1:genre <http://zh.dbpedia.org/resource/流行朋克音乐> ;
+    ns1:label "Arista Records"@zh ;
+    ns1:lastSingle "\"Complicated\""@zh ;
+    ns1:length "204.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:name "Sk8er Boi"@zh ;
+    ns1:nextNo 4 ;
+    ns1:nextSingle "\"I'm with You\""@zh,
+        "/"@zh ;
+    ns1:nextTrack "\"I'm With You\""@zh ;
+    ns1:prevNo 2 ;
+    ns1:prevTrack "\"Complicated\""@zh ;
+    ns1:producer "The Matrix"@zh ;
+    ns1:released 2002 ;
+    ns1:thisSingle "\"Sk8er Boi\""@zh ;
+    ns1:thisTrack "\"Sk8er Boi\""@zh ;
+    ns1:trackNo 3 ;
+    ns1:writer "Avril Lavigne"@zh,
+        "Graham Edwards"@zh,
+        "Lauren Christy"@zh,
+        "Scott Spock"@zh .
+
+<http://zh.dbpedia.org/resource/漢默史密斯橋> ns1:bridge "汉默史密斯桥"@zh,
+        "英国国家格网参考系统："@zh ;
+    ns1:bridgeName "漢默史密斯橋"@zh ;
+    ns1:carries <http://zh.dbpedia.org/resource/A306_road> ;
+    ns1:crosses <http://zh.dbpedia.org/resource/泰晤士河> ;
+    ns1:design <http://zh.dbpedia.org/resource/悬索桥> ;
+    ns1:downstream <http://zh.dbpedia.org/resource/普特尼桥> ;
+    ns1:followed <http://zh.dbpedia.org/resource/普特尼桥> ;
+    ns1:heritage <http://zh.dbpedia.org/resource/登錄建築> ;
+    ns1:id "s0008011"@zh,
+        "s0008013"@zh ;
+    ns1:locale "英国伦敦"@zh ;
+    ns1:open 1827 ;
+    ns1:place <http://zh.dbpedia.org/resource/泰晤士河> ;
+    ns1:preceded <http://zh.dbpedia.org/resource/Barnes_Railway_Bridge> ;
+    ns1:structure <http://zh.dbpedia.org/resource/Crossings_of_the_River_Thames> ;
+    ns1:title "Hammersmith Bridge"@zh ;
+    ns1:upstream <http://zh.dbpedia.org/resource/奇西克桥>,
+        <http://zh.dbpedia.org/resource/巴恩斯铁路桥> .
+
+<http://zh.dbpedia.org/resource/瑞士21歲以下國家足球隊> ns1:association <http://zh.dbpedia.org/resource/瑞士足球協會> ;
+    ns1:badge "SFV Logo.svg"@zh ;
+    ns1:body "FF0000"@zh,
+        "FFFFFF"@zh ;
+    ns1:captain "--"@zh ;
+    ns1:coach "皮耶路易吉·泰米"@zh,
+        "（Pierluigi Tami）"@zh ;
+    ns1:firstGame "(（--）)"@zh,
+        "-"@zh ;
+    ns1:largestLoss "(（--）)"@zh,
+        "(（只計算正式比賽紀錄）)"@zh,
+        "-"@zh ;
+    ns1:largestWin "(（--）)"@zh,
+        "-"@zh ;
+    ns1:leftarm "FF0000"@zh,
+        "FFFFFF"@zh ;
+    ns1:mostCaps "-- （-- 次）"@zh ;
+    ns1:name "Schweiz U21"@zh,
+        "瑞士U-21"@zh ;
+    ns1:nickname "--"@zh ;
+    ns1:patternB "_sui06"@zh ;
+    ns1:rightarm "FF0000"@zh,
+        "FFFFFF"@zh ;
+    ns1:shorts "FF0000"@zh,
+        "FFFFFF"@zh ;
+    ns1:socks "FF0000"@zh,
+        "FFFFFF"@zh ;
+    ns1:topScorer "-- （-- 球）"@zh ;
+    ns1:uefau21champApps 3 ;
+    ns1:uefau21champBest "亞軍：2011年"@zh ;
+    ns1:uefau21champFirst 2002 .
+
+<http://zh.dbpedia.org/resource/環遊世界八十天> ns1:author <http://zh.dbpedia.org/resource/儒勒·凡尔纳> ;
+    ns1:country <http://zh.dbpedia.org/resource/法国> ;
+    ns1:followedBy <http://zh.dbpedia.org/resource/神秘岛_(小说)> ;
+    ns1:genre <http://zh.dbpedia.org/resource/冒險小說> ;
+    ns1:illustrator "Alphonse-Marie-Adolphe de Neuville and Léon Benett"@zh ;
+    ns1:imageCaption 1873 ;
+    ns1:language <http://zh.dbpedia.org/resource/法语> ;
+    ns1:name "Around the World in Eighty Days"@zh,
+        "Le tour du monde en quatre-vingts jours"@zh,
+        "環遊世界八十天"@zh ;
+    ns1:no 103,
+        3456 ;
+    ns1:precededBy <http://zh.dbpedia.org/resource/Le_Pays_des_fourrures> ;
+    ns1:publisher <http://zh.dbpedia.org/resource/Pierre-Jules_Hetzel> ;
+    ns1:releaseDate 1873 ;
+    ns1:series "Les Voyages Extraordinaires #11"@zh .
+
+<http://zh.dbpedia.org/resource/白藤江之战_(938年)> ns1:casualties 5000,
+        "不詳"@zh ;
+    ns1:casus "吳權討伐矯公羨，矯公羨向南漢求救"@zh ;
+    ns1:combatant <http://zh.dbpedia.org/resource/南汉>,
+        <http://zh.dbpedia.org/resource/吳朝> ;
+    ns1:commander <http://zh.dbpedia.org/resource/吳權>,
+        "劉弘操"@zh ;
+    ns1:conflict 938 ;
+    ns1:date 938 ;
+    ns1:hn "陣白藤,938"@zh ;
+    ns1:place <http://zh.dbpedia.org/resource/白藤江>,
+        <http://zh.dbpedia.org/resource/越南> ;
+    ns1:result "吳權擊敗南漢軍隊，越南自中國獨立"@zh ;
+    ns1:strength 10000,
+        "不詳"@zh .
+
+<http://zh.dbpedia.org/resource/真爱如血_(第三季)> ns1:aux 4.26e+00,
+        4.46e+00,
+        4.68e+00,
+        4.74e+00,
+        4.86e+00,
+        5,
+        5.09e+00,
+        5.24e+00,
+        5.38e+00,
+        5.39e+00,
+        5.44e+00 ;
+    ns1:bgcolour "#22638B"@zh ;
+    ns1:caption "第三季海报"@zh ;
+    ns1:country "美国"@zh ;
+    ns1:directedby "Anthony Hemingway"@zh,
+        "Daniel Minahan"@zh,
+        "David Petrarca"@zh,
+        "John Dahl"@zh,
+        "Lesli Linka Glatter"@zh,
+        "Michael Lehmann"@zh,
+        "Scott Winant"@zh ;
+    ns1:episodenumber 2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36 ;
+    ns1:fgcolour "#FFF"@zh ;
+    ns1:firstAired "2010-06-13"^^xsd:date ;
+    ns1:lastAired "2010-09-12"^^xsd:date ;
+    ns1:linecolor "22638.0"^^<http://dbpedia.org/datatype/byte> ;
+    ns1:network <http://zh.dbpedia.org/resource/HBO> ;
+    ns1:nextSeason <http://zh.dbpedia.org/resource/真爱如血_(第四季)> ;
+    ns1:numEpisodes 12 ;
+    ns1:originalairdate "2010-06-20"^^xsd:date,
+        "2010-06-27"^^xsd:date,
+        "2010-07-11"^^xsd:date,
+        "2010-07-18"^^xsd:date,
+        "2010-07-25"^^xsd:date,
+        "2010-08-01"^^xsd:date,
+        "2010-08-08"^^xsd:date,
+        "2010-08-15"^^xsd:date,
+        "2010-08-22"^^xsd:date,
+        "2010-08-29"^^xsd:date,
+        "2010-09-12"^^xsd:date ;
+    ns1:prevSeason <http://zh.dbpedia.org/resource/真爱如血_(第二季)> ;
+    ns1:seasonName "True Blood Season 3"@zh,
+        "真爱如血 第三季"@zh ;
+    ns1:title 9,
+        "Beautifully Broken"@zh,
+        "Everything Is Broken"@zh,
+        "Evil Is Going On"@zh,
+        "Fresh Blood"@zh,
+        "Hitting the Ground"@zh,
+        "I Got a Right to Sing the Blues"@zh,
+        "It Hurts Me Too"@zh,
+        "Night on the Sun"@zh,
+        "Trouble"@zh ;
+    ns1:writtenby "Alan Ball"@zh,
+        "Alexander Woo"@zh,
+        "Brian Buckner"@zh,
+        "Kate Barnow & Elisabeth R. Finch"@zh,
+        "Nancy Oliver"@zh,
+        "Raelle Tucker"@zh .
+
+<http://zh.dbpedia.org/resource/神鬼通牒> ns1:author <http://zh.dbpedia.org/resource/勞勃·勒德倫> ;
+    ns1:country <http://zh.dbpedia.org/resource/美国> ;
+    ns1:followedBy <http://zh.dbpedia.org/resource/神鬼傳承> ;
+    ns1:genre "驚悚小說、諜報小說"@zh ;
+    ns1:isbn "ISBN 978-957-33-2342-6"@zh ;
+    ns1:language "原著：英文"@zh,
+        "翻譯：繁體中文"@zh ;
+    ns1:name "神鬼通牒"@zh ;
+    ns1:pages 864 ;
+    ns1:precededBy <http://zh.dbpedia.org/resource/神鬼疑雲> ;
+    ns1:publisher "：Random House"@zh,
+        "：皇冠文化"@zh ;
+    ns1:releaseDate "原著：1990年"@zh,
+        "翻譯：2007年7月30日"@zh ;
+    ns1:series <http://zh.dbpedia.org/resource/谍影重重系列> ;
+    ns1:titleOrig "The Bourne Ultimatum"@zh ;
+    ns1:translator "王詩琪"@zh .
+
+<http://zh.dbpedia.org/resource/福爾摩斯回憶錄> ns1:author <http://zh.dbpedia.org/resource/阿瑟·柯南·道尔> ;
+    ns1:followedBy <http://zh.dbpedia.org/resource/巴斯克維爾的獵犬> ;
+    ns1:genre <http://zh.dbpedia.org/resource/推理小說> ;
+    ns1:language <http://zh.dbpedia.org/resource/英语> ;
+    ns1:name "福爾摩斯回憶錄"@zh ;
+    ns1:precededBy <http://zh.dbpedia.org/resource/冒险史> ;
+    ns1:pubDate 1894 ;
+    ns1:publisher <http://zh.dbpedia.org/resource/George_Newnes> ;
+    ns1:series <http://zh.dbpedia.org/resource/福尔摩斯探案> ;
+    ns1:titleOrig "The Memoirs of Sherlock Holmes"@zh .
+
+<http://zh.dbpedia.org/resource/科爾馬克·墨菲-奧康納> ns1:appointed 2000 ;
+    ns1:birthDate "1932-08-24"^^xsd:date ;
+    ns1:birthName "Cormac Murphy-O'Connor"@zh ;
+    ns1:birthPlace "英國英格蘭伯克郡雷丁"@zh ;
+    ns1:cardinal 2001 ;
+    ns1:coatOfArms "Coat of arms of Cormac Murphy-O'Connor.svg"@zh ;
+    ns1:consecration 1977 ;
+    ns1:createdCardinalBy <http://zh.dbpedia.org/resource/若望·保祿二世> ;
+    ns1:honorificPrefix "最尊敬的"@zh ;
+    ns1:motto "Gaudium et Spes"@zh ;
+    ns1:name "Cardinal Cormac Murphy-O'Connor"@zh,
+        "科爾馬克·墨菲-奧康納"@zh ;
+    ns1:nationality "英國"@zh ;
+    ns1:ordination 1956 ;
+    ns1:otherPost <http://zh.dbpedia.org/resource/神廟遺址聖母堂> ;
+    ns1:parents "George and Ellen Murphy-O'Connor"@zh ;
+    ns1:predecessor <http://zh.dbpedia.org/resource/巴西爾·休謨> ;
+    ns1:previousPost <http://zh.dbpedia.org/resource/天主教阿倫德爾暨布萊頓教區> ;
+    ns1:rank <http://zh.dbpedia.org/resource/樞機> ;
+    ns1:religion <http://zh.dbpedia.org/resource/天主教> ;
+    ns1:successor <http://zh.dbpedia.org/resource/文森特·尼科尔斯> ;
+    ns1:termEnd 2009 ;
+    ns1:termStart 2000 ;
+    ns1:title <http://zh.dbpedia.org/resource/天主教威斯敏斯特總教區> ;
+    ns1:type "cardinal"@zh .
+
+<http://zh.dbpedia.org/resource/秘魯總統列表> ns1:appointer <http://zh.dbpedia.org/resource/2006年秘鲁大选> ;
+    ns1:body "秘鲁共和国"@zh ;
+    ns1:formation 1821 ;
+    ns1:imagesize 150 ;
+    ns1:inaugural <http://zh.dbpedia.org/resource/何塞·德·圣马丁> ;
+    ns1:incumbent <http://zh.dbpedia.org/resource/奥良塔·乌马拉> ;
+    ns1:incumbentsince 2011 ;
+    ns1:insignia "Presidential Standard of Peru.svg"@zh ;
+    ns1:insigniacaption "总统旗"@zh ;
+    ns1:insigniasize 150 ;
+    ns1:post "总统"@zh ;
+    ns1:residence <http://zh.dbpedia.org/resource/政府宫_(秘鲁)> ;
+    ns1:termlength 5 .
+
+<http://zh.dbpedia.org/resource/突尼斯总统> ns1:body "突尼西亞"@zh ;
+    ns1:formation 1959 ;
+    ns1:inaugural <http://zh.dbpedia.org/resource/哈比卜·布尔吉巴> ;
+    ns1:incumbent <http://zh.dbpedia.org/resource/貝吉·凱德·埃塞卜西> ;
+    ns1:incumbentsince 2014 ;
+    ns1:insignia "Presidential_Standard_of_Tunisia.svg"@zh ;
+    ns1:insigniacaption "突尼西亞總統旗"@zh ;
+    ns1:insigniasize 100 ;
+    ns1:post "總統"@zh ;
+    ns1:termlength 5 .
+
+<http://zh.dbpedia.org/resource/索尼移动通信> ns1:accountingPeriod 1 ;
+    ns1:companyLogo 200 ;
+    ns1:companyName "索尼行動通訊股份有限公司"@zh ;
+    ns1:companyNameEn "Sony Mobile Communications Inc."@zh ;
+    ns1:companyType "股份公司"@zh ;
+    ns1:foundation 2001 ;
+    ns1:industry "行動通訊"@zh ;
+    ns1:keyPeople "十時裕樹（總裁暨執行長）"@zh ;
+    ns1:location "總部：日本東京港區"@zh,
+        "註冊成立：瑞典"@zh ;
+    ns1:netIncome "€ 90 百萬歐元（2010年）"@zh ;
+    ns1:numEmployees 7100 ;
+    ns1:parent <http://zh.dbpedia.org/resource/索尼> ;
+    ns1:predecessor "索尼愛立信"@zh ;
+    ns1:products "行動電話、藍牙通訊設備"@zh ;
+    ns1:revenue "€ 6,294 百萬歐元（2010年）"@zh .
+
+<http://zh.dbpedia.org/resource/索马里和解和重建委员会> ns1:active 2001 ;
+    ns1:allies <http://zh.dbpedia.org/resource/埃塞俄比亚>,
+        <http://zh.dbpedia.org/resource/美国> ;
+    ns1:area "索马里南部和摩加迪沙的一部分"@zh ;
+    ns1:caption "索马里和解与重建委员会旗帜"@zh ;
+    ns1:clans "索马里南部部族为主"@zh ;
+    ns1:headquarters <http://zh.dbpedia.org/resource/摩加迪休> ;
+    ns1:leaders <http://zh.dbpedia.org/resource/侯赛因·法拉·艾迪德>,
+        <http://zh.dbpedia.org/resource/哈桑·穆罕默德·努尔·沙提加杜德>,
+        <http://zh.dbpedia.org/resource/穆罕默德·奥马尔·哈贝博> ;
+    ns1:name "索马里和解与重建委员会"@zh ;
+    ns1:next <http://zh.dbpedia.org/resource/过渡联邦政府> ;
+    ns1:opponents <http://zh.dbpedia.org/resource/朱巴谷联盟>,
+        <http://zh.dbpedia.org/resource/索马里过渡国家政府> ;
+    ns1:partof "？"@zh ;
+    ns1:previous <http://zh.dbpedia.org/resource/拉汉温抵抗军>,
+        <http://zh.dbpedia.org/resource/索马里全国联盟>,
+        "独立派别的领导人和部族"@zh ;
+    ns1:strength "？"@zh ;
+    ns1:war <http://zh.dbpedia.org/resource/索马里内战> .
+
+<http://zh.dbpedia.org/resource/纽约州议会> ns1:coaPic "Seal of New York.svg"@zh ;
+    ns1:election 1994,
+        2011,
+        2012 ;
+    ns1:houseType "两院制"@zh ;
+    ns1:houses <http://zh.dbpedia.org/resource/纽约州众议院>,
+        <http://zh.dbpedia.org/resource/纽约州参议院> ;
+    ns1:lastElection 2012 ;
+    ns1:leader <http://zh.dbpedia.org/resource/Dean_Skelos>,
+        <http://zh.dbpedia.org/resource/Jeffrey_Klein>,
+        <http://zh.dbpedia.org/resource/Sheldon_Silver> ;
+    ns1:leader1Type <http://zh.dbpedia.org/resource/纽约州参议院多数党领袖> ;
+    ns1:leader2Type <http://zh.dbpedia.org/resource/纽约州众议院发言人> ;
+    ns1:leader3Type <http://zh.dbpedia.org/resource/纽约州参议院多数党领袖> ;
+    ns1:meetingPlace <http://zh.dbpedia.org/resource/纽约州议会大厦> ;
+    ns1:members 213,
+        "參議院"@zh,
+        "眾議院"@zh ;
+    ns1:name "New York State Legislature"@zh,
+        "纽约州议会"@zh ;
+    ns1:party "獨立"@zh ;
+    ns1:politicalGroups "共和党"@zh,
+        "民主党"@zh ;
+    ns1:salary "79000.0"^^<http://dbpedia.org/datatype/usDollar> ;
+    ns1:sessionRoom "NYSCapitolPanorama.jpg"@zh ;
+    ns1:website "http://public.leginfo.state.ny.us/menuf.cgi"@zh,
+        "http://www.assembly.state.ny.us"@zh .
+
+<http://zh.dbpedia.org/resource/老挝人民革命党> ns1:colorcode "#DA251D"@zh ;
+    ns1:colors <http://zh.dbpedia.org/resource/红色> ;
+    ns1:country "老挝"@zh ;
+    ns1:foundation 1955 ;
+    ns1:generalSecretary <http://zh.dbpedia.org/resource/本扬·沃拉吉> ;
+    ns1:headquarters <http://zh.dbpedia.org/resource/永珍> ;
+    ns1:ideology <http://zh.dbpedia.org/resource/共产主义>,
+        <http://zh.dbpedia.org/resource/马克思列宁主义> ;
+    ns1:international <http://zh.dbpedia.org/resource/共产党和工人党国际会议>,
+        <http://zh.dbpedia.org/resource/国际共产主义研讨会> ;
+    ns1:logo <http://zh.dbpedia.org/resource/File:Flag_of_LPRP.svg> ;
+    ns1:membership 191700 ;
+    ns1:membershipYear 2011 ;
+    ns1:nameEnglish "Lao People's Revolutionary Party"@zh ;
+    ns1:nameNative "Phak Pasason Pativat Lao"@zh ;
+    ns1:national <http://zh.dbpedia.org/resource/老挝建国阵线> ;
+    ns1:position <http://zh.dbpedia.org/resource/左派> ;
+    ns1:seats1Title <http://zh.dbpedia.org/resource/老挝国会> ;
+    ns1:youthWing <http://zh.dbpedia.org/resource/老挝人民革命青年团> ;
+    ns1:创始人 <http://zh.dbpedia.org/resource/凯山·丰威汉> .
+
+<http://zh.dbpedia.org/resource/育碧软件> ns1:companyLogo 256 ;
+    ns1:companyName "育碧软件"@zh ;
+    ns1:companyType <http://zh.dbpedia.org/resource/上市公司> ;
+    ns1:divisions <http://zh.dbpedia.org/resource/Ubisoft_Motion_Pictures> ;
+    ns1:foundation 1986 ;
+    ns1:industry <http://zh.dbpedia.org/resource/互動娛樂> ;
+    ns1:keyPeople "Michel Ancel（创意总监）"@zh,
+        "Yannis Mallat（蒙特婁工作室CEO）"@zh,
+        "Yves Guillemot（CEO）"@zh ;
+    ns1:location "蒙特勒伊"@zh ;
+    ns1:netIncome "€ 3.9 百万"@zh ;
+    ns1:numEmployees 9200 ;
+    ns1:operatingIncome "€ 87.9 百万"@zh ;
+    ns1:products <http://zh.dbpedia.org/resource/刺客教條系列>,
+        <http://zh.dbpedia.org/resource/孤岛惊魂系列>,
+        <http://zh.dbpedia.org/resource/戰火回憶錄>,
+        <http://zh.dbpedia.org/resource/波斯王子：时之砂>,
+        <http://zh.dbpedia.org/resource/火線獵殺系列>,
+        <http://zh.dbpedia.org/resource/看門狗_(遊戲)>,
+        <http://zh.dbpedia.org/resource/细胞分裂系列>,
+        <http://zh.dbpedia.org/resource/舞力全开系列>,
+        <http://zh.dbpedia.org/resource/虹彩六號>,
+        <http://zh.dbpedia.org/resource/赤色鋼鐵>,
+        <http://zh.dbpedia.org/resource/超越善恶>,
+        <http://zh.dbpedia.org/resource/迷霧之島>,
+        <http://zh.dbpedia.org/resource/雷曼系列>,
+        <http://zh.dbpedia.org/resource/魔法门系列>,
+        <http://zh.dbpedia.org/resource/鹰击长空> ;
+    ns1:revenue "€ 12.56 亿"@zh .
+
+<http://zh.dbpedia.org/resource/英國外交及聯邦事務部> ns1:agencyName "外交及聯邦事務部"@zh ;
+    ns1:budget 21 ;
+    ns1:chief1Name <http://zh.dbpedia.org/resource/夏偉林> ;
+    ns1:chief1Position <http://zh.dbpedia.org/resource/外交及聯邦事務大臣> ;
+    ns1:formed 1968 ;
+    ns1:headquarters "倫敦查爾斯國王街外交及聯邦事務部總部大樓（FCO Main Building）"@zh ;
+    ns1:latd 51 ;
+    ns1:latm 30 ;
+    ns1:latns "N"@zh ;
+    ns1:lats 9 ;
+    ns1:longd 0 ;
+    ns1:longew "W"@zh ;
+    ns1:longm 7 ;
+    ns1:longs 3.97e+01 ;
+    ns1:seal "Foreign and Commonwealth Office logo.jpg"@zh ;
+    ns1:sealCaption "外交及聯邦事務部標誌"@zh .
+
+<http://zh.dbpedia.org/resource/英格蘭足總盃> ns1:currentChampions "阿仙奴（第 12 次）"@zh ;
+    ns1:founded 1871 ;
+    ns1:logo 150 ;
+    ns1:mostSuccessfulClub <http://zh.dbpedia.org/resource/阿森纳足球俱乐部> ;
+    ns1:noOfTitles 12 ;
+    ns1:numberOfTeams 736 ;
+    ns1:region "／"@zh .
+
+<http://zh.dbpedia.org/resource/蒙通联足球俱乐部> ns1:body 505050,
+        "FF0000"@zh,
+        "FFFFFF"@zh ;
+    ns1:capacity 17500 ;
+    ns1:chairman "Ravi Lohtong"@zh ;
+    ns1:clubname "Muangthong United"@zh,
+        "蒙通聯"@zh ;
+    ns1:founded 1989 ;
+    ns1:fullname "สโมสรฟุตบอล เมืองทอง ยูไนเต็ด"@zh,
+        "蒙通联足球俱乐部"@zh ;
+    ns1:ground <http://zh.dbpedia.org/resource/皇象水泥体育场>,
+        "泰国暖武里Pak Kret市"@zh ;
+    ns1:league <http://zh.dbpedia.org/resource/泰國足球超級聯賽> ;
+    ns1:leftarm 505050,
+        "FF0000"@zh,
+        "FFFFFF"@zh ;
+    ns1:manager <http://zh.dbpedia.org/resource/斯拉维萨·乔卡诺维克> ;
+    ns1:mgrtitle "教练"@zh ;
+    ns1:name <http://zh.dbpedia.org/resource/久羅夫斯基>,
+        <http://zh.dbpedia.org/resource/亞當_（泰国足球员）>,
+        <http://zh.dbpedia.org/resource/他通>,
+        <http://zh.dbpedia.org/resource/塔姆薩查南>,
+        <http://zh.dbpedia.org/resource/威沙努沙>,
+        <http://zh.dbpedia.org/resource/巴努邦>,
+        <http://zh.dbpedia.org/resource/帕特里克·维埃拉>,
+        <http://zh.dbpedia.org/resource/提迪攀>,
+        <http://zh.dbpedia.org/resource/暖西猜>,
+        <http://zh.dbpedia.org/resource/林茨>,
+        <http://zh.dbpedia.org/resource/沙拉武·玛素>,
+        <http://zh.dbpedia.org/resource/班圖>,
+        <http://zh.dbpedia.org/resource/瓦塔亞翁>,
+        <http://zh.dbpedia.org/resource/當達>,
+        <http://zh.dbpedia.org/resource/皮集蓬>,
+        <http://zh.dbpedia.org/resource/紮甲班>,
+        <http://zh.dbpedia.org/resource/蒙戈爾>,
+        <http://zh.dbpedia.org/resource/西亞卡>,
+        <http://zh.dbpedia.org/resource/西瓦功>,
+        <http://zh.dbpedia.org/resource/達沙功>,
+        <http://zh.dbpedia.org/resource/那帕>,
+        <http://zh.dbpedia.org/resource/金裕晉>,
+        <http://zh.dbpedia.org/resource/阿迪·道沙旺>,
+        <http://zh.dbpedia.org/resource/韋拉武> ;
+    ns1:nat "AUT"@zh,
+        "CIV"@zh,
+        "MKD"@zh,
+        "South Korea"@zh,
+        "THA"@zh ;
+    ns1:nickname "''\""@zh,
+        "双麒麟"@zh ;
+    ns1:no 1,
+        2,
+        4,
+        6,
+        7,
+        9,
+        10,
+        13,
+        14,
+        16,
+        18,
+        19,
+        20,
+        21,
+        23,
+        24,
+        25,
+        26,
+        28,
+        29,
+        35,
+        36,
+        39,
+        40 ;
+    ns1:other <http://zh.dbpedia.org/resource/Captain> ;
+    ns1:patternB "_blackhoops"@zh,
+        "_vneckblack"@zh ;
+    ns1:patternLa "_blackborder"@zh,
+        "_redborder"@zh ;
+    ns1:patternRa "_blackborder"@zh,
+        "_redborder"@zh ;
+    ns1:patternSh "_adidaswhite"@zh ;
+    ns1:patternSo "_hoops_black"@zh,
+        "_hoops_red"@zh ;
+    ns1:pos "DF"@zh,
+        "FW"@zh,
+        "GK"@zh,
+        "MF"@zh ;
+    ns1:position "泰超，第 2 位"@zh ;
+    ns1:rightarm 505050,
+        "FF0000"@zh,
+        "FFFFFF"@zh ;
+    ns1:season 2015 ;
+    ns1:shorts 0,
+        "FFFFFF"@zh ;
+    ns1:socks 0,
+        "FFFFFF"@zh .
+
+<http://zh.dbpedia.org/resource/西班牙军队> ns1:active 123300 ;
+    ns1:age 18 ;
+    ns1:amount "5.937E9"^^<http://dbpedia.org/datatype/euro> ;
+    ns1:branches <http://zh.dbpedia.org/resource/西班牙海軍>,
+        <http://zh.dbpedia.org/resource/西班牙皇家衛隊>,
+        <http://zh.dbpedia.org/resource/西班牙空军>,
+        <http://zh.dbpedia.org/resource/西班牙陸軍>,
+        25,
+        "西班牙武警"@zh ;
+    ns1:caption "Spanish Armed Forces Recruitment Logo"@zh,
+        "Tri-service badge"@zh ;
+    ns1:commander "Fernando García Sánchez"@zh,
+        "General Admiral"@zh ;
+    ns1:commanderInChief <http://zh.dbpedia.org/resource/費利佩六世> ;
+    ns1:commanderInChiefTitle <http://zh.dbpedia.org/resource/軍事制度> ;
+    ns1:commanderTitle <http://zh.dbpedia.org/resource/總參謀長> ;
+    ns1:country "Spain"@zh ;
+    ns1:headquarters "西班牙馬德里"@zh ;
+    ns1:history <http://zh.dbpedia.org/resource/收復失地運動>,
+        1823,
+        "Comuneros起義"@zh,
+        "三十年戰爭"@zh,
+        "他加祿戰爭"@zh,
+        "伊夫尼戰爭"@zh,
+        "伊拉克戰爭 (2003年)"@zh,
+        "八十年戰爭"@zh,
+        "利比亞內戰: 奧德賽黎明行動"@zh,
+        "十年戰爭"@zh,
+        "半島戰爭"@zh,
+        "卡洛斯戰爭"@zh,
+        "古巴獨立戰爭"@zh,
+        "四國同盟戰爭 (1718年)"@zh,
+        "奧斯曼－哈布斯堡戰爭"@zh,
+        "拉丁美洲獨立戰爭"@zh,
+        "格拉納達戰爭"@zh,
+        "第二次摩洛哥戰爭"@zh,
+        "美國獨立戰爭"@zh,
+        "義大利戰爭"@zh,
+        "英西戰爭"@zh,
+        "西班牙內戰"@zh,
+        "西班牙征服印加帝國"@zh,
+        "西班牙征服阿茲特克帝國"@zh,
+        "西班牙王位繼承戰爭"@zh,
+        "西班牙－摩洛哥戰爭"@zh,
+        "西美戰爭"@zh,
+        "詹金斯的耳朵戰爭"@zh,
+        "阿勞卡尼亞戰爭"@zh,
+        "阿富汗戰爭 (2001年)"@zh ;
+    ns1:image <http://zh.dbpedia.org/resource/File:Spanish_Armed_Forces_logo.svg> ;
+    ns1:minister "Pedro Morenés"@zh ;
+    ns1:ministerTitle <http://zh.dbpedia.org/resource/国防部长> ;
+    ns1:name "西班牙軍隊"@zh ;
+    ns1:nativeName "Fuerzas Armadas Españolas"@zh ;
+    ns1:percentGdp "0.6"^^<http://dbpedia.org/datatype/perCent> ;
+    ns1:reserve 16200 .
+
+<http://zh.dbpedia.org/resource/西班牙省份> ns1:areaRange 1980 ;
+    ns1:category <http://zh.dbpedia.org/resource/省> ;
+    ns1:currentNumber 50 ;
+    ns1:government "Provincial council"@zh ;
+    ns1:legislationBegin "皇家法令"@zh ;
+    ns1:name "省"@zh ;
+    ns1:populationRange 95258 ;
+    ns1:startDate 1883 ;
+    ns1:subdivision <http://zh.dbpedia.org/resource/Comarcas_of_Spain>,
+        <http://zh.dbpedia.org/resource/市鎮_(西班牙)> ;
+    ns1:territory <http://zh.dbpedia.org/resource/西班牙> ;
+    ns1:upperUnit <http://zh.dbpedia.org/resource/自治区> .
+
+<http://zh.dbpedia.org/resource/诺基亚> ns1:areaServed "全球"@zh ;
+    ns1:assets 2.106e+01 ;
+    ns1:equity 8.67e+00 ;
+    ns1:foundation "芬蘭坦佩雷市（1865年）；芬蘭諾基亞市（1871年）"@zh ;
+    ns1:founded "弗雷德里克·伊德斯坦姆（1865年5月12日）"@zh ;
+    ns1:founder <http://zh.dbpedia.org/resource/弗雷德里克·伊德斯坦姆>,
+        <http://zh.dbpedia.org/resource/里歐·梅麒麟> ;
+    ns1:imageCaption "諾基亞在埃斯波的總部"@zh ;
+    ns1:industry <http://zh.dbpedia.org/resource/电信> ;
+    ns1:intl "Yes"@zh ;
+    ns1:keyPeople <http://zh.dbpedia.org/resource/Timo_Ihamuotila>,
+        <http://zh.dbpedia.org/resource/席拉斯馬>,
+        <http://zh.dbpedia.org/resource/里斯托·席拉斯馬>,
+        "(（創辦人）)"@zh,
+        "(（總裁兼首席執行官）)"@zh,
+        "(（首席財務官）)"@zh ;
+    ns1:locationCity "新地區埃斯波"@zh ;
+    ns1:locationCountry <http://zh.dbpedia.org/resource/芬兰> ;
+    ns1:logo 100 ;
+    ns1:name "Nokia Corporation"@zh,
+        "諾基亞公司"@zh ;
+    ns1:netIncome 1.17e+00 ;
+    ns1:numEmployees 61656 ;
+    ns1:operatingIncome 1.63e+00 ;
+    ns1:products "平板電腦、智慧型手機和服務產品"@zh ;
+    ns1:revenue 1.273e+01 ;
+    ns1:subsid <http://zh.dbpedia.org/resource/諾基亞高端技術>,
+        <http://zh.dbpedia.org/resource/诺基亚通信> ;
+    ns1:successors <http://zh.dbpedia.org/resource/微軟移動> ;
+    ns1:type <http://zh.dbpedia.org/resource/上市公司> .
+
+<http://zh.dbpedia.org/resource/诺贝尔经济学奖> ns1:description "在經濟學領域作出傑出貢獻的人"@zh ;
+    ns1:location <http://zh.dbpedia.org/resource/斯德哥尔摩> ;
+    ns1:name "瑞典中央銀行紀念阿爾弗雷德·諾貝爾經濟學獎"@zh ;
+    ns1:presenter <http://zh.dbpedia.org/resource/瑞典皇家科學院> ;
+    ns1:year 1969 .
+
+<http://zh.dbpedia.org/resource/贝尔纳多特王朝> ns1:coatOfArms 135 ;
+    ns1:country <http://zh.dbpedia.org/resource/挪威>,
+        <http://zh.dbpedia.org/resource/瑞典> ;
+    ns1:currentHead <http://zh.dbpedia.org/resource/卡尔十六世·古斯塔夫> ;
+    ns1:deposition 1905,
+        "挪威："@zh ;
+    ns1:estate "瑞典、挪威"@zh ;
+    ns1:finalRuler <http://zh.dbpedia.org/resource/奧斯卡二世>,
+        "挪威："@zh ;
+    ns1:founder <http://zh.dbpedia.org/resource/卡尔十四世·约翰> ;
+    ns1:foundingYear 1810 ;
+    ns1:nationality "法国"@zh ;
+    ns1:surname "贝尔纳多特王朝"@zh ;
+    ns1:titles """*瑞典国王
+*挪威国王（1818-1905）"""@zh .
+
+<http://zh.dbpedia.org/resource/费奥多尔三世> ns1:birthDate "1661-06-09"^^xsd:date ;
+    ns1:birthPlace <http://zh.dbpedia.org/resource/莫斯科> ;
+    ns1:burialPlace <http://zh.dbpedia.org/resource/阿尔汉格尔斯克教堂> ;
+    ns1:corType <http://zh.dbpedia.org/resource/加冕> ;
+    ns1:coronation 1676 ;
+    ns1:deathDate "1682-05-07"^^xsd:date ;
+    ns1:deathPlace <http://zh.dbpedia.org/resource/莫斯科> ;
+    ns1:father <http://zh.dbpedia.org/resource/阿列克谢·米哈伊洛维奇·罗曼诺夫> ;
+    ns1:fullName "费奥多尔·阿列克谢维奇·罗曼诺夫"@zh ;
+    ns1:house <http://zh.dbpedia.org/resource/罗曼诺夫王朝> ;
+    ns1:issue "伊利亚·费奥多罗维奇"@zh ;
+    ns1:mother <http://zh.dbpedia.org/resource/玛丽亚·伊利尼奇娜> ;
+    ns1:name "费奥多尔三世·阿列克谢维奇"@zh ;
+    ns1:predecessor <http://zh.dbpedia.org/resource/阿列克谢·米哈伊洛维奇·罗曼诺夫> ;
+    ns1:reign 1676 ;
+    ns1:religion <http://zh.dbpedia.org/resource/正教會> ;
+    ns1:spouse <http://zh.dbpedia.org/resource/阿加菲娅·谢苗诺夫娜>,
+        "玛莎·阿加菲娅"@zh ;
+    ns1:succession <http://zh.dbpedia.org/resource/沙皇> ;
+    ns1:successor <http://zh.dbpedia.org/resource/伊凡五世>,
+        <http://zh.dbpedia.org/resource/彼得大帝> ;
+    ns1:type "monarch"@zh .
+
+<http://zh.dbpedia.org/resource/达喀尔大学> ns1:campus "达喀尔BP 5005"@zh ;
+    ns1:city <http://zh.dbpedia.org/resource/達喀爾> ;
+    ns1:country <http://zh.dbpedia.org/resource/塞内加尔> ;
+    ns1:endowment 2006,
+        "Yearly state budget:"@zh ;
+    ns1:established "1957-02-24"^^xsd:date ;
+    ns1:formerNames "达喀尔大学 （1987年3月30日）"@zh ;
+    ns1:free "Free to Senegalese citizens with International Baccalaureate degree"@zh ;
+    ns1:freeLabel "Free"@zh ;
+    ns1:motto "（光明是我的法律）"@zh ;
+    ns1:name "谢赫·安达·迪奥普大学"@zh ;
+    ns1:rector "Abdou Salam SALL教授"@zh ;
+    ns1:state <http://zh.dbpedia.org/resource/达喀尔区> ;
+    ns1:students 60000 ;
+    ns1:type "Public"@zh .
+
+<http://zh.dbpedia.org/resource/迷失_(第四季)> ns1:aux <http://zh.dbpedia.org/resource/Brian_K._Vaughan>,
+        <http://zh.dbpedia.org/resource/Drew_Goddard>,
+        <http://zh.dbpedia.org/resource/Eric_Laneuville>,
+        <http://zh.dbpedia.org/resource/Greggory_Nations>,
+        <http://zh.dbpedia.org/resource/Kyle_Pennington>,
+        <http://zh.dbpedia.org/resource/Paul_Edwards_(cinematographer)>,
+        <http://zh.dbpedia.org/resource/Stephen_Semel>,
+        <http://zh.dbpedia.org/resource/丹尼爾·法拉第>,
+        <http://zh.dbpedia.org/resource/伊利沙伯·薩諾夫>,
+        <http://zh.dbpedia.org/resource/休戈·「赫利」·瑞斯>,
+        <http://zh.dbpedia.org/resource/傑克·本德>,
+        <http://zh.dbpedia.org/resource/傑克·謝潑德>,
+        <http://zh.dbpedia.org/resource/克利斯丁娜·M·金>,
+        <http://zh.dbpedia.org/resource/凱特·奧斯頓>,
+        <http://zh.dbpedia.org/resource/卡爾頓·丘斯>,
+        <http://zh.dbpedia.org/resource/史提芬·威廉斯>,
+        <http://zh.dbpedia.org/resource/夏洛特·路易斯>,
+        <http://zh.dbpedia.org/resource/德斯蒙德·休謨>,
+        <http://zh.dbpedia.org/resource/愛德華·克特西斯>,
+        <http://zh.dbpedia.org/resource/戴蒙·林道夫>,
+        <http://zh.dbpedia.org/resource/本杰明·莱纳斯>,
+        <http://zh.dbpedia.org/resource/权真秀>,
+        <http://zh.dbpedia.org/resource/法蘭克·萊帕達斯>,
+        <http://zh.dbpedia.org/resource/白善華>,
+        <http://zh.dbpedia.org/resource/约翰·洛克>,
+        <http://zh.dbpedia.org/resource/茱莉葉·柏克>,
+        <http://zh.dbpedia.org/resource/薩伊德·賈拉>,
+        <http://zh.dbpedia.org/resource/迈克尔·道森>,
+        <http://zh.dbpedia.org/resource/迷失角色列表>,
+        <http://zh.dbpedia.org/resource/麥爾斯·斯特勞姆> ;
+    ns1:bgcolor "#3366FF"@zh ;
+    ns1:caption "Tagline: The wait is over"@zh ;
+    ns1:episodenumber 1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85 ;
+    ns1:fgcolor "#fff"@zh ;
+    ns1:firstAired "2008-01-31"^^xsd:date ;
+    ns1:lastAired "2008-05-29"^^xsd:date ;
+    ns1:linecolor 3366 ;
+    ns1:network <http://zh.dbpedia.org/resource/美国广播公司> ;
+    ns1:nextSeason <http://zh.dbpedia.org/resource/迷失_(第五季)> ;
+    ns1:numEpisodes 14 ;
+    ns1:originalairdate 2008 ;
+    ns1:prevSeason <http://zh.dbpedia.org/resource/迷失_(第三季)> ;
+    ns1:seasonName "迷失第四季"@zh ;
+    ns1:shortsummary "一個茱莉葉不喜歡的舊人探訪了她，並帶給她指令：找到夏洛特和法拉第，不計代價，必須阻止他們完成其任務。同時，賓向洛克敘述了關於查爾斯·威德摩的資料。回敘中顯示茱莉葉與古德溫的外遇，以及她和古德溫的妻子哈柏、賓的關係。"@zh,
+        "倖存者們絕望地試圖逃離小島，而賓謀劃去迎擊Kahana上的僱傭兵。前敘則顯示海洋航空六人組回到世界的情況。"@zh,
+        "凱特從麥爾斯獲得了一些資料，結果令她被洛克趕走。在前敘中，凱特養育著克萊爾的兒子艾倫，和她接受審判。"@zh,
+        "在潘妮的拯救下，傑克、凱特、薩伊德、赫利、善華、艾倫、德斯蒙德和法蘭克逃離了小島，而賓和洛克則成功移動了小島。前敘中，洛克探訪了海洋航空六人組和華特。"@zh,
+        "得知查理臨死前的信息後，部分生還者開始思索到底是否該信任娜歐米等人，因此從大隊分裂了出來。前敍裏，赫利獲救之後，幾位他不願意見的人來探望他。"@zh,
+        "洛克在探訪雅各的小屋後，得知他必須移動小島。另外，貨輪上的人們的生命變得十分危險，因為僱傭兵在船上發生兵變。回敘中，年輕的洛克遇到理查，以及他癱瘓後遇到马修·亚巴顿。"@zh,
+        "洛克的營地遭到攻擊，賓的女兒艾莉克斯被俘作人質，克米以她威脅賓投降，最後殺害了她。而傑克想找出被沖上海岸的屍體的身份。在前敘中，賓招攬了薩伊德作為刺客，以及他遇到查爾斯·威德摩。"@zh,
+        "生還者們遇到了來訪的娜歐米隊員——麥爾斯、弗蘭克、丹尼爾和夏洛特。回憶裏描述了娜歐米和以上四人生活中奇妙的故事。"@zh,
+        "當傑克的健康十分惡化時，凱特和茱莉葉必須要合作，以拯救傑克。而索耶、克萊爾和米爾斯則離開了洛克，正在返回沙灘營地的路途上。前敘中，傑克開始失去他的理智，並從赫利中得知查理給他的口信，而且他和凱特的關係亦開始崩解。"@zh,
+        "茱莉葉為了阻止善華搬去洛克的營地，結果向真秀透露了一些善華的秘密。同時，薩伊德和德斯蒙德在見識到貨輪的船長後，開始了解到貨輪上人員的企圖。回敘中，真秀必須完成送禮的工作。前敘中，善華生下了一個女兒。"@zh,
+        "薩伊德和凱特爲洛克關起來的人質談判，因爲人質或許能幫他們離開這個荒島。前敍裏，薩伊德有著一項危險的工作，還有一個令人詫異的上司。"@zh,
+        "薩伊德和德斯蒙德在前往貨輪時遇到亂流，結果令德斯蒙德出現了一些出乎意料的副作用。在時間旅行的閃影中，德斯蒙德回到他當軍人的時候。"@zh,
+        "薩伊德遇到賓在貨輪上的間諜，另外賓勸導他女兒艾莉克斯和丹妮艾爾、卡爾一同逃走，以避開即將來臨的攻擊。回敘顯示，麥可在離開小島和登上貨輪的過程。"@zh ;
+    ns1:title <http://zh.dbpedia.org/resource/另一个女人>,
+        <http://zh.dbpedia.org/resource/回家真好_(迷失)>,
+        <http://zh.dbpedia.org/resource/常量_(迷失)>,
+        <http://zh.dbpedia.org/resource/智妍_(迷失)>,
+        <http://zh.dbpedia.org/resource/最美是家>,
+        <http://zh.dbpedia.org/resource/未来世界_(迷失)>,
+        <http://zh.dbpedia.org/resource/林中木屋_(迷失)>,
+        <http://zh.dbpedia.org/resource/确认死亡>,
+        <http://zh.dbpedia.org/resource/经济学家_(迷失)>,
+        <http://zh.dbpedia.org/resource/结局的开始>,
+        <http://zh.dbpedia.org/resource/遭遇凯文·约翰逊>,
+        <http://zh.dbpedia.org/resource/鸡蛋镇> .
+
+<http://zh.dbpedia.org/resource/速霸陸360> ns1:bodyStyle "雙門開頂型轎車、三門輕廂型車"@zh ;
+    ns1:class <http://zh.dbpedia.org/resource/輕型車> ;
+    ns1:designer <http://zh.dbpedia.org/resource/百瀨晉六> ;
+    ns1:engine 356 ;
+    ns1:fuelCapacity "20.0"^^<http://dbpedia.org/datatype/litre> ;
+    ns1:height "1380.0"^^<http://dbpedia.org/datatype/millimetre> ;
+    ns1:layout <http://zh.dbpedia.org/resource/後置後驅> ;
+    ns1:length "2990.0"^^<http://dbpedia.org/datatype/millimetre> ;
+    ns1:manufacturer <http://zh.dbpedia.org/resource/富士重工業> ;
+    ns1:name "速霸陸360"@zh ;
+    ns1:production 1958 ;
+    ns1:related <http://zh.dbpedia.org/resource/速霸陸450>,
+        <http://zh.dbpedia.org/resource/速霸陸Sambar> ;
+    ns1:successor <http://zh.dbpedia.org/resource/速霸陸R-2> ;
+    ns1:transmission "三速手動排檔"@zh ;
+    ns1:weight "385.0"^^<http://dbpedia.org/datatype/kilogram> ;
+    ns1:wheelbase "1800.0"^^<http://dbpedia.org/datatype/millimetre> ;
+    ns1:width "1300.0"^^<http://dbpedia.org/datatype/millimetre> .
+
+<http://zh.dbpedia.org/resource/那威> ns1:caption "Shops on the south side of Broad Arrow Road"@zh ;
+    ns1:city "悉尼"@zh ;
+    ns1:dir "south"@zh ;
+    ns1:dist 18 ;
+    ns1:fedgov <http://zh.dbpedia.org/resource/Division_of_Banks>,
+        <http://zh.dbpedia.org/resource/Division_of_Watson> ;
+    ns1:lga <http://zh.dbpedia.org/resource/坎特伯雷市_(新南威爾斯州)>,
+        <http://zh.dbpedia.org/resource/好市圍市> ;
+    ns1:location <http://zh.dbpedia.org/resource/悉尼商業中心區> ;
+    ns1:name "那威"@zh ;
+    ns1:nearE <http://zh.dbpedia.org/resource/Beverly_Hills,_New_South_Wales> ;
+    ns1:nearN <http://zh.dbpedia.org/resource/Roselands,_New_South_Wales> ;
+    ns1:nearNe <http://zh.dbpedia.org/resource/Roselands,_New_South_Wales> ;
+    ns1:nearNw <http://zh.dbpedia.org/resource/Roselands,_New_South_Wales> ;
+    ns1:nearS <http://zh.dbpedia.org/resource/Penshurst,_New_South_Wales> ;
+    ns1:nearSe <http://zh.dbpedia.org/resource/比華利山_(澳洲)> ;
+    ns1:nearSw <http://zh.dbpedia.org/resource/Peakhurst,_New_South_Wales> ;
+    ns1:nearW <http://zh.dbpedia.org/resource/Riverwood,_New_South_Wales> ;
+    ns1:postcode 2209 ;
+    ns1:state "新南威爾斯州"@zh ;
+    ns1:stategov <http://zh.dbpedia.org/resource/Electoral_district_of_Lakemba>,
+        <http://zh.dbpedia.org/resource/Electoral_district_of_Oatley> ;
+    ns1:type "suburb"@zh .
+
+<http://zh.dbpedia.org/resource/都铎王朝> ns1:cadetBranches <http://zh.dbpedia.org/resource/简·格雷> ;
+    ns1:coatOfArms 200,
+        "都铎玫瑰"@zh ;
+    ns1:country "威尔士"@zh,
+        "爱尔兰"@zh,
+        "英格兰"@zh ;
+    ns1:currentHead "已绝灭"@zh ;
+    ns1:dissolution 1603 ;
+    ns1:finalRuler <http://zh.dbpedia.org/resource/伊丽莎白一世_(英格兰)> ;
+    ns1:founder <http://zh.dbpedia.org/resource/亨利七世_(英格兰)> ;
+    ns1:foundingYear 1485 ;
+    ns1:nationality <http://zh.dbpedia.org/resource/威爾士>,
+        <http://zh.dbpedia.org/resource/英格兰> ;
+    ns1:parentHouse <http://zh.dbpedia.org/resource/蘭開斯特王朝> ;
+    ns1:surname "都铎王朝"@zh ;
+    ns1:titles """* 英格蘭國王
+* 愛爾蘭國王
+* 法蘭西國王（主张）
+* 爱尔兰领主
+* 威爾斯親王"""@zh .
+
+<http://zh.dbpedia.org/resource/金獅獎> ns1:imagesize 100 ;
+    ns1:location <http://zh.dbpedia.org/resource/威尼斯> ;
+    ns1:name "Leone d'Oro"@zh,
+        "金獅獎"@zh ;
+    ns1:other "其他同名獎項"@zh ;
+    ns1:presenter <http://zh.dbpedia.org/resource/威尼斯电影节> ;
+    ns1:subject <http://zh.dbpedia.org/resource/威尼斯电影节> ;
+    ns1:year 1949,
+        2015 .
+
+<http://zh.dbpedia.org/resource/阿尔及利亚总统> ns1:appointer "选举产生"@zh ;
+    ns1:body "阿尔及利亚"@zh ;
+    ns1:formation 1963 ;
+    ns1:imagesize 165 ;
+    ns1:inaugural <http://zh.dbpedia.org/resource/艾哈邁德·本·貝拉> ;
+    ns1:incumbent <http://zh.dbpedia.org/resource/阿卜杜勒-阿齐兹·布特弗利卡> ;
+    ns1:incumbentsince 1999 ;
+    ns1:insignia "Presidential Standard of Algeria.svg"@zh ;
+    ns1:insigniacaption "Presidential Standard"@zh ;
+    ns1:insigniasize 165 ;
+    ns1:post "总统"@zh ;
+    ns1:residence <http://zh.dbpedia.org/resource/El_Mouradia> ;
+    ns1:termlength 5 .
+
+<http://zh.dbpedia.org/resource/阿尔弗雷德大王> ns1:after <http://zh.dbpedia.org/resource/長者愛德華> ;
+    ns1:before <http://zh.dbpedia.org/resource/埃塞尔雷德_(威塞克斯)> ;
+    ns1:birthDate 849 ;
+    ns1:birthPlace "牛津郡王宫"@zh ;
+    ns1:caption <http://zh.dbpedia.org/resource/牛津大学图书馆> ;
+    ns1:dateOfBurial "约1100年"@zh ;
+    ns1:deathDate 899 ;
+    ns1:deathPlace <http://zh.dbpedia.org/resource/温彻斯特> ;
+    ns1:father <http://zh.dbpedia.org/resource/埃塞尔伍尔夫_(威塞克斯)> ;
+    ns1:fullName "威塞克斯的阿尔弗雷德"@zh ;
+    ns1:issue <http://zh.dbpedia.org/resource/埃塞爾弗萊德>,
+        <http://zh.dbpedia.org/resource/長者愛德華> ;
+    ns1:name "阿尔弗雷德大帝"@zh ;
+    ns1:placeOfBurial "汉普郡温彻斯特"@zh ;
+    ns1:predecessor <http://zh.dbpedia.org/resource/埃塞尔雷德_(威塞克斯)> ;
+    ns1:reign 871 ;
+    ns1:rows 2 ;
+    ns1:successor <http://zh.dbpedia.org/resource/長者愛德華> ;
+    ns1:title <http://zh.dbpedia.org/resource/不列颠统治者> ;
+    ns1:years 871,
+        878 .
+
+<http://zh.dbpedia.org/resource/阿拉维王朝> ns1:coatOfArms 150 ;
+    ns1:country <http://zh.dbpedia.org/resource/摩洛哥> ;
+    ns1:currentHead <http://zh.dbpedia.org/resource/穆罕默德六世_(摩洛哥)> ;
+    ns1:estate "摩洛哥"@zh ;
+    ns1:foundingYear 1631 ;
+    ns1:nationality <http://zh.dbpedia.org/resource/Moroccan> ;
+    ns1:parentHouse "謝里夫 - 哈桑尼"@zh ;
+    ns1:surname "阿拉維王朝"@zh ;
+    ns1:title <http://zh.dbpedia.org/resource/List_of_rulers_of_Morocco> .
+
+<http://zh.dbpedia.org/resource/阿魯渾> ns1:caption "阿八哈骑在马上，身边是他的儿子阿鲁浑，阿鲁浑手中抱着自己的儿子合赞，绘制于14世纪早期"@zh ;
+    ns1:coronation 1284 ;
+    ns1:dateOfBirth 1258 ;
+    ns1:dateOfDeath 1291 ;
+    ns1:father <http://zh.dbpedia.org/resource/阿八哈> ;
+    ns1:fullName "阿鲁浑"@zh ;
+    ns1:mother <http://zh.dbpedia.org/resource/海迷失哈敦> ;
+    ns1:name "阿鲁浑"@zh ;
+    ns1:predecessor <http://zh.dbpedia.org/resource/貼古迭兒> ;
+    ns1:queen <http://zh.dbpedia.org/resource/忽勒塔黑哈敦> ;
+    ns1:reign 1284 ;
+    ns1:successor <http://zh.dbpedia.org/resource/海合都> ;
+    ns1:title "伊儿汗"@zh .
+
+<http://zh.dbpedia.org/resource/陌生人_(艾莉西亚·凯斯歌曲)> ns1:album <http://zh.dbpedia.org/resource/琴韵心声> ;
+    ns1:artist <http://zh.dbpedia.org/resource/艾莉西亚·凯斯> ;
+    ns1:bSide "《秘密日记\""@zh ;
+    ns1:cover "You Don't Know My Name single cover.jpg"@zh ;
+    ns1:format <http://zh.dbpedia.org/resource/12英寸单曲>,
+        <http://zh.dbpedia.org/resource/光盘单曲>,
+        <http://zh.dbpedia.org/resource/音乐下载> ;
+    ns1:genre <http://zh.dbpedia.org/resource/当代节奏蓝调>,
+        <http://zh.dbpedia.org/resource/靈魂樂> ;
+    ns1:label <http://zh.dbpedia.org/resource/J唱片公司> ;
+    ns1:lastSingle "《女朋友》"@zh,
+        "（2002年）"@zh ;
+    ns1:length "366.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:name "陌生人"@zh ;
+    ns1:nextSingle "《如果没有你》"@zh,
+        "（2004年）"@zh ;
+    ns1:producer "坎耶·韦斯特，艾莉西亚·凯斯"@zh ;
+    ns1:recorded 2003 ;
+    ns1:released 2003 ;
+    ns1:thisSingle "《陌生人》"@zh,
+        "（2003年）"@zh ;
+    ns1:writer "艾莉西亚·凯斯，坎耶·韦斯特, Harold Lilly, J. R. Bailey, Mel Kent, Ken Williams"@zh .
+
+<http://zh.dbpedia.org/resource/陶一世> ns1:children <http://zh.dbpedia.org/resource/塞格嫩拉·陶>,
+        <http://zh.dbpedia.org/resource/爱赫特波一世> ;
+    ns1:deathDate 1558 ;
+    ns1:dynasty <http://zh.dbpedia.org/resource/古埃及第十七王朝> ;
+    ns1:father <http://zh.dbpedia.org/resource/伊里奥特弗七世> ;
+    ns1:horus "Merymaat"@zh ;
+    ns1:name "Ahmose, Senakhtenre, I"@zh,
+        "塞纳赫特里·雅赫摩斯"@zh ;
+    ns1:nomen "G39-N5-"@zh,
+        "Iah bore him"@zh,
+        "雅赫摩斯"@zh ;
+    ns1:predecessor <http://zh.dbpedia.org/resource/伊里奥特弗八世> ;
+    ns1:prenomen "M23:t-L2:t-"@zh,
+        "使拉永存"@zh,
+        "塞纳赫特里"@zh ;
+    ns1:reign "约一年"@zh ;
+    ns1:shortDescription "Pharaoh"@zh ;
+    ns1:spouse <http://zh.dbpedia.org/resource/特提舍丽> ;
+    ns1:successor <http://zh.dbpedia.org/resource/塞格嫩拉·陶> .
+
+<http://zh.dbpedia.org/resource/马尔科姆三世> ns1:birthDate "1031-08-26"^^xsd:date ;
+    ns1:birthPlace <http://zh.dbpedia.org/resource/蘇格蘭> ;
+    ns1:caption "马尔科姆三世和他第二任妻子玛格丽特"@zh ;
+    ns1:coronation 1057 ;
+    ns1:deathDate "1093-11-13"^^xsd:date ;
+    ns1:deathPlace "英格兰诺森伯兰阿尼克"@zh ;
+    ns1:father "阿尔巴国王邓肯一世"@zh ;
+    ns1:house <http://zh.dbpedia.org/resource/邓凯尔德王朝> ;
+    ns1:imgw 110 ;
+    ns1:issue <http://zh.dbpedia.org/resource/埃德蒙_(苏格兰)>,
+        <http://zh.dbpedia.org/resource/苏格兰的埃塞雷德>,
+        "布洛涅伯爵夫人玛丽"@zh,
+        "苏格兰亲王爱德华"@zh,
+        "英格兰王后玛蒂尔达"@zh,
+        "阿尔巴国王亚历山大一世"@zh,
+        "阿尔巴国王埃德加"@zh,
+        "阿尔巴国王大卫一世"@zh,
+        "阿尔巴国王邓肯二世"@zh ;
+    ns1:mother "苏珊"@zh ;
+    ns1:name "马尔科姆三世"@zh ;
+    ns1:placeOfBurial <http://zh.dbpedia.org/resource/泰恩茅斯> ;
+    ns1:predecessor <http://zh.dbpedia.org/resource/卢拉赫> ;
+    ns1:reign 1058 ;
+    ns1:spouse <http://zh.dbpedia.org/resource/因加·芬斯多特尔>,
+        <http://zh.dbpedia.org/resource/威塞克斯的玛格丽特> ;
+    ns1:succession <http://zh.dbpedia.org/resource/蘇格蘭君主列表> ;
+    ns1:successor <http://zh.dbpedia.org/resource/唐纳德三世_(苏格兰)> ;
+    ns1:title <http://zh.dbpedia.org/resource/蘇格蘭君主列表> ;
+    ns1:years 1058 .
+
+<http://zh.dbpedia.org/resource/麥可·貝> ns1:almaMater <http://zh.dbpedia.org/resource/衛斯理大學> ;
+    ns1:birthDate "1965-02-17"^^xsd:date ;
+    ns1:birthName "Michael Benjamin Bay"@zh ;
+    ns1:birthPlace "美國加州洛杉磯"@zh ;
+    ns1:caption 2006 ;
+    ns1:education <http://zh.dbpedia.org/resource/Art_Center_College_of_Design> ;
+    ns1:id 881 ;
+    ns1:name "麥可·貝"@zh ;
+    ns1:notableWorks <http://zh.dbpedia.org/resource/珍珠港_(電影)>,
+        <http://zh.dbpedia.org/resource/絕世天劫>,
+        <http://zh.dbpedia.org/resource/變形金剛_(2007年電影)>,
+        "*"@zh ;
+    ns1:occupation <http://zh.dbpedia.org/resource/摄影师>,
+        <http://zh.dbpedia.org/resource/演員>,
+        <http://zh.dbpedia.org/resource/電影導演>,
+        <http://zh.dbpedia.org/resource/電影監製>,
+        "*"@zh ;
+    ns1:relatives <http://zh.dbpedia.org/resource/伦纳德·尼莫伊> ;
+    ns1:type "導演"@zh ;
+    ns1:yearsActive 1986 .
+
+<http://zh.dbpedia.org/resource/Rhythm_zone> ns1:country <http://zh.dbpedia.org/resource/日本> ;
+    ns1:distributor <http://zh.dbpedia.org/resource/愛貝克思> ;
+    ns1:genre <http://zh.dbpedia.org/resource/日本流行音樂>,
+        <http://zh.dbpedia.org/resource/节奏布鲁斯> ;
+    ns1:location "東京都港區"@zh ;
+    ns1:name "rhythm zone"@zh ;
+    ns1:parent <http://zh.dbpedia.org/resource/愛貝克思> .
+
+<http://zh.dbpedia.org/resource/夸克> ns1:antiparticle <http://zh.dbpedia.org/resource/夸克> ;
+    ns1:caption "由二個上夸克及一個下夸克所構成的質子"@zh ;
+    ns1:colorCharge "有"@zh ;
+    ns1:composition <http://zh.dbpedia.org/resource/基本粒子> ;
+    ns1:discovered <http://zh.dbpedia.org/resource/SLAC國家加速器實驗室> ;
+    ns1:electricCharge "+ e, − e"@zh ;
+    ns1:family <http://zh.dbpedia.org/resource/费米子> ;
+    ns1:generation "第一代、第二代及第三代"@zh ;
+    ns1:interaction <http://zh.dbpedia.org/resource/引力>,
+        <http://zh.dbpedia.org/resource/弱相互作用>,
+        <http://zh.dbpedia.org/resource/强相互作用>,
+        <http://zh.dbpedia.org/resource/電磁力> ;
+    ns1:name "夸克"@zh ;
+    ns1:numTypes 6,
+        "（上、下、-{zh-tw:魅;zh-cn:粲}-、奇、頂及底）"@zh ;
+    ns1:symbol "q"@zh ;
+    ns1:theorized <http://zh.dbpedia.org/resource/喬治·茨威格>,
+        <http://zh.dbpedia.org/resource/默里·盖尔曼> .
+
+<http://zh.dbpedia.org/resource/微软> ns1:areaServed "全球"@zh ;
+    ns1:assets 1.7622e+03 ;
+    ns1:ceo <http://zh.dbpedia.org/resource/薩蒂亞·納德拉> ;
+    ns1:chairman <http://zh.dbpedia.org/resource/约翰·W·汤普森> ;
+    ns1:equity 8.008e+02 ;
+    ns1:foundation "新墨西哥州阿尔伯克基"@zh ;
+    ns1:founder <http://zh.dbpedia.org/resource/保羅·艾倫>,
+        <http://zh.dbpedia.org/resource/比尔·盖茨> ;
+    ns1:imageCaption "位于雷德蒙德的17号楼前的大堂入口，17号楼是微软主要办公区内最大的建筑之一"@zh ;
+    ns1:industry <http://zh.dbpedia.org/resource/消費電子產品>,
+        <http://zh.dbpedia.org/resource/软件>,
+        <http://zh.dbpedia.org/resource/電腦硬體> ;
+    ns1:location "華盛頓州雷德蒙德微软路1号总部园区"@zh ;
+    ns1:logo "File:Microsoft.svg"@zh ;
+    ns1:name "微軟股份有限公司"@zh ;
+    ns1:netIncome 1.219e+02 ;
+    ns1:numEmployees 118584 ;
+    ns1:operatingIncome 1.816e+02 ;
+    ns1:products <http://zh.dbpedia.org/resource/Bing>,
+        <http://zh.dbpedia.org/resource/Microsoft_Azure>,
+        <http://zh.dbpedia.org/resource/Microsoft_Dynamics>,
+        <http://zh.dbpedia.org/resource/Microsoft_Office>,
+        <http://zh.dbpedia.org/resource/Microsoft_Surface>,
+        <http://zh.dbpedia.org/resource/Microsoft_Windows>,
+        <http://zh.dbpedia.org/resource/Skype>,
+        <http://zh.dbpedia.org/resource/Xbox>,
+        "……"@zh,
+        "（參見[[#「生態體系」"@zh ;
+    ns1:revenue 9.358e+02 ;
+    ns1:type <http://zh.dbpedia.org/resource/上市公司> .
+
+<http://zh.dbpedia.org/resource/暮光之城系列> ns1:author <http://zh.dbpedia.org/resource/史蒂芬妮·梅爾> ;
+    ns1:books "《布莉的重生－暮光之城：蝕外傳》"@zh,
+        "《暮光之城》"@zh,
+        "《暮光之城：新月》"@zh,
+        "《暮光之城：破曉》"@zh,
+        "《暮光之城：蝕》"@zh ;
+    ns1:genre <http://zh.dbpedia.org/resource/奇幻文學>,
+        <http://zh.dbpedia.org/resource/愛情小說>,
+        <http://zh.dbpedia.org/resource/青少年文學> ;
+    ns1:imageCaption "暮光之城系列，由右至左為︰"@zh ;
+    ns1:language "英文"@zh ;
+    ns1:mediaType "Print"@zh ;
+    ns1:name "Twilight"@zh,
+        "暮光之城"@zh ;
+    ns1:pubDate 2005 ;
+    ns1:publisher "小布朗出版公司"@zh,
+        "尖端出版社"@zh,
+        "接力出版社"@zh .
+

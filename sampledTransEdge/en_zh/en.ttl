@@ -1,0 +1,1608 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/property/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Alaouite_dynasty> ns1:coatOfArms 150 ;
+    ns1:country <http://dbpedia.org/resource/Morocco> ;
+    ns1:currentHead <http://dbpedia.org/resource/Mohammed_VI_of_Morocco> ;
+    ns1:estate "Morocco"@en ;
+    ns1:founder <http://dbpedia.org/resource/Sharif_ibn_Ali> ;
+    ns1:foundingYear 1631 ;
+    ns1:nationality <http://dbpedia.org/resource/Moroccan> ;
+    ns1:surname "Alaouite Dynasty"@en ;
+    ns1:title <http://dbpedia.org/resource/List_of_rulers_of_Morocco>,
+        "Ruling house of Morocco"@en ;
+    ns1:years 1666 .
+
+<http://dbpedia.org/resource/Asian_Football_Confederation> ns1:abbreviation "AFC"@en ;
+    ns1:bg "#003884"@en ;
+    ns1:fg "white"@en ;
+    ns1:headquarters <http://dbpedia.org/resource/Bukit_Jalil>,
+        <http://dbpedia.org/resource/Kuala_Lumpur>,
+        <http://dbpedia.org/resource/Malaysia> ;
+    ns1:language "English and Arabic"@en ;
+    ns1:leaderName <http://dbpedia.org/resource/Salman_Bin_Ibrahim_Al-Khalifa>,
+        "Windsor Paul John"@en ;
+    ns1:leaderTitle <http://dbpedia.org/resource/List_of_Presidents_of_AFC>,
+        "General Secretary"@en,
+        "Vice-president"@en ;
+    ns1:membership 47 ;
+    ns1:motto "The Future is Asia"@en ;
+    ns1:name "Asian Football Confederation"@en ;
+    ns1:parentOrganization <http://dbpedia.org/resource/FIFA> ;
+    ns1:regionServed "Asia and Australia"@en ;
+    ns1:title "AFC"@en,
+        "International football"@en ;
+    ns1:type "Sport organization"@en ;
+    foaf:name "Asian Football Confederation"@en .
+
+<http://dbpedia.org/resource/Avex_Trax> ns1:country "Japan"@en ;
+    ns1:distributor <http://dbpedia.org/resource/Avex_Group> ;
+    ns1:founder <http://dbpedia.org/resource/Max_Matsuura> ;
+    ns1:genre "Various"@en ;
+    ns1:imageName "Avex Trax.jpg"@en ;
+    ns1:location <http://dbpedia.org/resource/Minato,_Tokyo> ;
+    ns1:name "Avex Trax"@en ;
+    ns1:parent <http://dbpedia.org/resource/Avex_Group> ;
+    foaf:name "Avex Trax"@en .
+
+<http://dbpedia.org/resource/Brazil_national_football_team> ns1:2ndregionalName <http://dbpedia.org/resource/Roca_Cup>,
+        <http://dbpedia.org/resource/Superclásico_de_las_Américas> ;
+    ns1:3rdregionalCupApps 3 ;
+    ns1:3rdregionalCupBest 1996,
+        "Runners-up :"@en ;
+    ns1:3rdregionalCupFirst 1996 ;
+    ns1:3rdregionalName <http://dbpedia.org/resource/CONCACAF_Gold_Cup> ;
+    ns1:after 1966,
+        1974,
+        1998,
+        2006 ;
+    ns1:age "1980-05-06"^^xsd:date,
+        "1982-04-22"^^xsd:date,
+        "1983-01-02"^^xsd:date,
+        "1983-05-06"^^xsd:date,
+        "1984-01-25"^^xsd:date,
+        "1984-09-07"^^xsd:date,
+        "1984-09-22"^^xsd:date,
+        "1985-05-04"^^xsd:date,
+        "1985-05-10"^^xsd:date,
+        "1985-05-16"^^xsd:date,
+        "1985-06-24"^^xsd:date,
+        "1985-08-09"^^xsd:date,
+        "1985-09-07"^^xsd:date,
+        "1986-07-25"^^xsd:date,
+        "1987-01-13"^^xsd:date,
+        "1987-03-24"^^xsd:date,
+        "1987-04-22"^^xsd:date,
+        "1987-06-06"^^xsd:date,
+        "1987-06-12"^^xsd:date,
+        "1987-07-23"^^xsd:date,
+        "1988-02-08"^^xsd:date,
+        "1988-05-12"^^xsd:date,
+        "1988-08-09"^^xsd:date,
+        "1989-04-10"^^xsd:date,
+        "1989-07-19"^^xsd:date,
+        "1989-07-22"^^xsd:date,
+        "1990-07-09"^^xsd:date,
+        "1990-09-14"^^xsd:date,
+        "1990-11-26"^^xsd:date,
+        "1991-01-26"^^xsd:date,
+        "1991-07-15"^^xsd:date,
+        "1991-09-09"^^xsd:date,
+        "1991-10-02"^^xsd:date,
+        "1992-02-05"^^xsd:date,
+        "1992-02-23"^^xsd:date,
+        "1992-06-12"^^xsd:date,
+        "1992-08-13"^^xsd:date,
+        "1992-08-24"^^xsd:date,
+        "1992-10-02"^^xsd:date,
+        "1993-02-12"^^xsd:date,
+        "1993-03-05"^^xsd:date,
+        "1993-04-15"^^xsd:date,
+        "1993-10-23"^^xsd:date,
+        "1994-03-22"^^xsd:date,
+        "1994-05-13"^^xsd:date,
+        "1994-05-14"^^xsd:date ;
+    ns1:asstManager "Andrey Lopes"@en ;
+    ns1:background "#FBEC5D"@en ;
+    ns1:before 1954,
+        1966,
+        1990,
+        1998 ;
+    ns1:bg "#FBEC5D"@en ;
+    ns1:body 0,
+        "FFCC00"@en ;
+    ns1:bornDay "1962-07-09"^^xsd:date ;
+    ns1:caps 0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        14,
+        15,
+        17,
+        21,
+        22,
+        27,
+        31,
+        32,
+        33,
+        38,
+        42,
+        45,
+        48,
+        51,
+        55,
+        58,
+        69,
+        87,
+        91,
+        99 ;
+    ns1:captain <http://dbpedia.org/resource/Neymar> ;
+    ns1:club <http://dbpedia.org/resource/AS_Monaco_FC>,
+        <http://dbpedia.org/resource/Al-Ahli_Dubai_F.C.>,
+        <http://dbpedia.org/resource/Arsenal_F.C.>,
+        <http://dbpedia.org/resource/Atlético_Madrid>,
+        <http://dbpedia.org/resource/Beijing_Guoan_F.C.>,
+        <http://dbpedia.org/resource/Botafogo_de_Futebol_e_Regatas>,
+        <http://dbpedia.org/resource/Chelsea_F.C.>,
+        <http://dbpedia.org/resource/Clube_Atlético_Mineiro>,
+        <http://dbpedia.org/resource/FC_Barcelona>,
+        <http://dbpedia.org/resource/FC_Bayern_Munich>,
+        <http://dbpedia.org/resource/FC_Shakhtar_Donetsk>,
+        <http://dbpedia.org/resource/FC_Zenit_Saint_Petersburg>,
+        <http://dbpedia.org/resource/Grêmio_Foot-Ball_Porto_Alegrense>,
+        <http://dbpedia.org/resource/Inter_Milan>,
+        <http://dbpedia.org/resource/Jiangsu_Suning_F.C.>,
+        <http://dbpedia.org/resource/Juventus_F.C.>,
+        <http://dbpedia.org/resource/Liverpool_F.C.>,
+        <http://dbpedia.org/resource/Manchester_City_F.C.>,
+        <http://dbpedia.org/resource/Orlando_City_SC>,
+        <http://dbpedia.org/resource/Paris_Saint-Germain_F.C.>,
+        <http://dbpedia.org/resource/Real_Betis>,
+        <http://dbpedia.org/resource/Real_Madrid_C.F.>,
+        <http://dbpedia.org/resource/S.S._Lazio>,
+        <http://dbpedia.org/resource/Santos_FC>,
+        <http://dbpedia.org/resource/Shandong_Luneng_Taishan_F.C.>,
+        <http://dbpedia.org/resource/Sport_Club_Corinthians_Paulista>,
+        <http://dbpedia.org/resource/Sport_Club_Internacional>,
+        <http://dbpedia.org/resource/Valencia_CF>,
+        <http://dbpedia.org/resource/VfL_Wolfsburg> ;
+    ns1:clubnat "BRA"@en,
+        "CHN"@en,
+        "ENG"@en,
+        "ESP"@en,
+        "FRA"@en,
+        "GER"@en,
+        "ITA"@en,
+        "RUS"@en,
+        "UAE"@en,
+        "UKR"@en,
+        "USA"@en ;
+    ns1:coach <http://dbpedia.org/resource/Dunga> ;
+    ns1:color "#008000"@en ;
+    ns1:confederation <http://dbpedia.org/resource/CONMEBOL> ;
+    ns1:confederationsCupApps 8 ;
+    ns1:confederationsCupBest 199720052009,
+        "Champions :"@en ;
+    ns1:confederationsCupFirst 1997 ;
+    ns1:date "2016-03-24"^^xsd:date,
+        "2016-03-29"^^xsd:date,
+        "2016-06-04"^^xsd:date,
+        "2016-06-08"^^xsd:date,
+        "2016-06-12"^^xsd:date,
+        "2016-10-06"^^xsd:date,
+        "2016-10-11"^^xsd:date,
+        "2016-11-10"^^xsd:date,
+        "2016-11-15"^^xsd:date ;
+    ns1:eloMax 1 ;
+    ns1:eloMaxYear "6.659712E8"^^<http://dbpedia.org/datatype/second> ;
+    ns1:eloMin 18 ;
+    ns1:eloMinDate "November 2001"@en ;
+    ns1:eloRank "--10-02"^^xsd:gMonthDay ;
+    ns1:fg "#008000"@en ;
+    ns1:fifaMax 1 ;
+    ns1:fifaMaxYear 151 ;
+    ns1:fifaMin 22 ;
+    ns1:fifaMinDate "June 2013"@en ;
+    ns1:fifaRank "--01-07"^^xsd:gMonthDay ;
+    ns1:fifaTrigramme "BRA"@en ;
+    ns1:firstGame 3 ;
+    ns1:goals 0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        12,
+        28,
+        29,
+        46 ;
+    ns1:largestLoss 1,
+        6 ;
+    ns1:largestWin 14 ;
+    ns1:lastDay "2014-07-08"^^xsd:date ;
+    ns1:latest "--06-10"^^xsd:gMonthDay,
+        "--09-05"^^xsd:gMonthDay,
+        "--09-08"^^xsd:gMonthDay,
+        "--10-08"^^xsd:gMonthDay,
+        "--10-13"^^xsd:gMonthDay,
+        "--11-12"^^xsd:gMonthDay,
+        "--11-17"^^xsd:gMonthDay,
+        2015 ;
+    ns1:leftarm 0,
+        "FFCC00"@en ;
+    ns1:mostCaps <http://dbpedia.org/resource/Cafu> ;
+    ns1:name <http://dbpedia.org/resource/Alex_Sandro>,
+        <http://dbpedia.org/resource/Alisson_Becker>,
+        <http://dbpedia.org/resource/Casemiro>,
+        <http://dbpedia.org/resource/Cássio_Ramos>,
+        <http://dbpedia.org/resource/Dani_Alves>,
+        <http://dbpedia.org/resource/Danilo_(footballer,_born_1991)>,
+        <http://dbpedia.org/resource/David_Luiz>,
+        <http://dbpedia.org/resource/Diego_Alves>,
+        <http://dbpedia.org/resource/Diego_Tardelli>,
+        <http://dbpedia.org/resource/Douglas_Costa>,
+        <http://dbpedia.org/resource/Douglas_Santos_(footballer)>,
+        <http://dbpedia.org/resource/Elias_Mendes_Trindade>,
+        <http://dbpedia.org/resource/Everton_Ribeiro>,
+        <http://dbpedia.org/resource/Fabinho_(footballer,_born_1993)>,
+        <http://dbpedia.org/resource/Felipe_Anderson>,
+        <http://dbpedia.org/resource/Fernandinho_(footballer)>,
+        <http://dbpedia.org/resource/Filipe_Luís>,
+        <http://dbpedia.org/resource/Frederico_Rodrigues_Santos>,
+        <http://dbpedia.org/resource/Gabriel_Paulista>,
+        <http://dbpedia.org/resource/Geferson>,
+        <http://dbpedia.org/resource/Gil_(footballer,_born_1987)>,
+        <http://dbpedia.org/resource/Hulk_(footballer)>,
+        <http://dbpedia.org/resource/Jefferson_de_Oliveira_Galvão>,
+        <http://dbpedia.org/resource/Jemerson>,
+        <http://dbpedia.org/resource/Kaká>,
+        <http://dbpedia.org/resource/Leandro_Damião>,
+        <http://dbpedia.org/resource/Lucas_Lima>,
+        <http://dbpedia.org/resource/Lucas_Moura>,
+        <http://dbpedia.org/resource/Luiz_Gustavo>,
+        <http://dbpedia.org/resource/Marcelo_Grohe>,
+        <http://dbpedia.org/resource/Marcelo_Vieira>,
+        <http://dbpedia.org/resource/Marquinhos>,
+        <http://dbpedia.org/resource/Miranda_(footballer)>,
+        <http://dbpedia.org/resource/Neto_(football_goalkeeper,_born_1989)>,
+        <http://dbpedia.org/resource/Neymar>,
+        <http://dbpedia.org/resource/Oscar_(footballer,_born_1991)>,
+        <http://dbpedia.org/resource/Philippe_Coutinho>,
+        <http://dbpedia.org/resource/Rafinha_(footballer,_born_1985)>,
+        <http://dbpedia.org/resource/Rafinha_(footballer,_born_1993)>,
+        <http://dbpedia.org/resource/Ramires>,
+        <http://dbpedia.org/resource/Renato_Augusto>,
+        <http://dbpedia.org/resource/Ricardo_Oliveira>,
+        <http://dbpedia.org/resource/Roberto_Firmino>,
+        <http://dbpedia.org/resource/Robinho>,
+        <http://dbpedia.org/resource/Thiago_Silva>,
+        <http://dbpedia.org/resource/Willian_(footballer)>,
+        "Brazil"@en ;
+    ns1:other <http://dbpedia.org/resource/Captain_(association_football)> ;
+    ns1:patternB "5094000.0"^^<http://dbpedia.org/datatype/second>,
+        "_bra14a"@en ;
+    ns1:patternLa "5094000.0"^^<http://dbpedia.org/datatype/second>,
+        "_bra14a"@en ;
+    ns1:patternRa "5094000.0"^^<http://dbpedia.org/datatype/second>,
+        "_bra14a"@en ;
+    ns1:patternSh "5094000.0"^^<http://dbpedia.org/datatype/second>,
+        "_colchester0809t"@en ;
+    ns1:pos "DF"@en,
+        "FW"@en,
+        "GK"@en,
+        "MF"@en ;
+    ns1:regionalCupApps 33 ;
+    ns1:regionalCupBest 199719992004,
+        1919192219491989,
+        "Champions :"@en ;
+    ns1:regionalCupFirst 1916 ;
+    ns1:regionalName <http://dbpedia.org/resource/Copa_América> ;
+    ns1:rightarm 0,
+        "FFCC00"@en ;
+    ns1:round <http://dbpedia.org/resource/Copa_América_Centenario>,
+        2018 ;
+    ns1:shorts 0,
+        "FFFFFF"@en ;
+    ns1:socks 0,
+        "FFFFFF"@en ;
+    ns1:stadium <http://dbpedia.org/resource/Foxborough,_Massachusetts>,
+        <http://dbpedia.org/resource/Gillette_Stadium>,
+        <http://dbpedia.org/resource/Orlando,_Florida>,
+        <http://dbpedia.org/resource/Orlando_Citrus_Bowl>,
+        <http://dbpedia.org/resource/Pasadena,_California>,
+        <http://dbpedia.org/resource/Rose_Bowl_(stadium)> ;
+    ns1:title <http://dbpedia.org/resource/FIFA_World_Cup>,
+        "Brazil other squads"@en ;
+    ns1:titlestyle "background:#FFDF00; color:#008000; border:1px solid #008000;"@en ;
+    ns1:topScorer <http://dbpedia.org/resource/Pelé> ;
+    ns1:worldCupApps 20 ;
+    ns1:worldCupBest 1958196219701994,
+        "Champions :"@en ;
+    ns1:worldCupFirst 1930 ;
+    ns1:years 1958,
+        1962,
+        1970,
+        1994,
+        2002 ;
+    foaf:name "Brazil"@en ;
+    foaf:nick "(Five-Time Champions)"@en,
+        "(Little"@en,
+        "(The Green and Yellow)"@en,
+        ")"@en,
+        "Canary"@en .
+
+<http://dbpedia.org/resource/Buffy_the_Vampire_Slayer_(season_3)> ns1:bgcolour "#4D5C34"@en ;
+    ns1:caption "Region 1 Season 3 DVD cover"@en ;
+    ns1:country "United States"@en ;
+    ns1:directedby <http://dbpedia.org/resource/David_Grossman_(director)>,
+        <http://dbpedia.org/resource/David_Semel>,
+        <http://dbpedia.org/resource/David_Solomon_(TV_producer)>,
+        <http://dbpedia.org/resource/James_A._Contner>,
+        <http://dbpedia.org/resource/James_Whitmore,_Jr.>,
+        <http://dbpedia.org/resource/Michael_Gershman_(director)>,
+        <http://dbpedia.org/resource/Michael_Lange>,
+        "David Greenwalt"@en,
+        "James A. Contner"@en,
+        "Joss Whedon"@en,
+        "Michael Lange"@en,
+        "Regis Kimble"@en ;
+    ns1:episodeList "List of Buffy the Vampire Slayer episodes"@en ;
+    ns1:episodenumber 2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56 ;
+    ns1:fgcolour "#ffffff"@en ;
+    ns1:firstAired "1998-09-29"^^xsd:date ;
+    ns1:lastAired "1999-07-13"^^xsd:date ;
+    ns1:linecolor 4 ;
+    ns1:network <http://dbpedia.org/resource/The_WB> ;
+    ns1:nextSeason <http://dbpedia.org/resource/Buffy_the_Vampire_Slayer_(season_4)> ;
+    ns1:numEpisodes 22 ;
+    ns1:originalairdate "1998-10-06"^^xsd:date,
+        "1998-10-13"^^xsd:date,
+        "1998-10-20"^^xsd:date,
+        "1998-11-03"^^xsd:date,
+        "1998-11-10"^^xsd:date,
+        "1998-11-17"^^xsd:date,
+        "1998-11-24"^^xsd:date,
+        "1998-12-08"^^xsd:date,
+        "1998-12-15"^^xsd:date,
+        "1999-01-12"^^xsd:date,
+        "1999-01-19"^^xsd:date,
+        "1999-01-26"^^xsd:date,
+        "1999-02-09"^^xsd:date,
+        "1999-02-16"^^xsd:date,
+        "1999-02-23"^^xsd:date,
+        "1999-03-16"^^xsd:date,
+        "1999-05-04"^^xsd:date,
+        "1999-05-11"^^xsd:date,
+        "1999-05-18"^^xsd:date,
+        "1999-07-13"^^xsd:date,
+        "1999-09-21"^^xsd:date ;
+    ns1:prevSeason <http://dbpedia.org/resource/Buffy_the_Vampire_Slayer_(season_2)> ;
+    ns1:prodcode 3 ;
+    ns1:seasonName "Buffy the Vampire Slayer"@en ;
+    ns1:shortsummary "A candy created by Ethan Rayne  causes Sunnydale's adults to behave like teenagers. Buffy confronts Rayne and makes him tell her about a plan to sacrifice Sunnydale newborns to a monster in the sewers."@en,
+        "After Oz escapes from his cage, everyone suspects that he committed last night's brutal murders. Only Buffy knows that Angel is a suspect as well."@en,
+        "Angel decides to do the right thing and break up with Buffy. Meanwhile, Buffy has to save the prom from Hellhounds with a fetish for formal wear. Angel shows up for the last dance."@en,
+        "Another Slayer, Faith , arrives in Sunnydale, closely tracked by two vampires, thoroughly modern Mr. Trick  and incredibly ancient Kakistos . Buffy and Faith set out to put an end to Kakistos. Buffy finally accepts Scott Hope's  invitation to date."@en,
+        "Buffy is infected by a demon's blood and gains the ability to read minds. At Sunnydale High, Buffy overhears someone through mind-reading making a violent death threat to the whole school. As she goes insane hearing everyone's thoughts all at once, Angel, Giles, and Wesley struggle to save her."@en,
+        "Cordelia's pain over Xander's betrayal summons Anyanka , a vengeance demon who grants wishes to scorned women. Cordelia wishes that Buffy had never come to Sunnydale, and constructs an alternate reality where the Master  rose from the dead and the Harvest took over Sunnydale. Giles discovers this in the alternate reality and realizes he is able to reverse the events."@en,
+        "Faith tells Giles that Buffy is the one who slew the Deputy Mayor . Angel apprehends Faith, but Wesley thwarts his intervention and allows Faith to escape. She plans to leave town on the next freighter."@en,
+        "Faith's new Watcher, Gwendolyn Post , arrives in Sunnydale. Xander discovers Buffy's secret and manipulates Faith into attempting to slay Angel, while Ms. Post is revealed to be more than meets the eye."@en,
+        "Giles secretly prepares Buffy for the Cruciamentum, an ordeal the Watchers' Council requires every Slayer endure on her eighteenth birthday. Giles helps Buffy, thereby affecting his job as a watcher."@en,
+        "The Slayers get a new Watcher, Wesley Wyndam-Pryce . The girls are having a wild night at The Bronze, where Angel brings info on the whereabouts of the demon, Balthazar ."@en,
+        "Wanting to be a vengeance demon again, Anya tricks Willow into helping with a spell to retrieve her power center, the amulet Giles destroyed in an alternate reality . Instead of the amulet, however, the spell transports Willow's vampire version to an unsuspecting Sunnydale."@en,
+        "When Wesley tells her she cannot leave Sunnydale to go to a fine college, Buffy launches an offensive to shut down the Mayor's plans for Ascension. Willow chooses among colleges while Xander plans a road trip."@en,
+        "While the Mayor prepares for his Ascension, Faith goes around \"tying up\" loose ends, one of those being Angel. Faith shoots Angel with a poisoned arrow, and Buffy must battle Faith to save Angel's life, needing her Slayer blood as antidote."@en,
+        "Xander tries to be cool and hangs out with Jack O'Toole , who resurrects three of his former buddies. Xander soon realizes they are up to something deadly and attempts to hide. Meanwhile, the others need to prevent the Sisterhood of Jhe from reopening the Hellmouth."@en ;
+    ns1:starring <http://dbpedia.org/resource/Alyson_Hannigan>,
+        <http://dbpedia.org/resource/Anthony_Head>,
+        <http://dbpedia.org/resource/Charisma_Carpenter>,
+        <http://dbpedia.org/resource/David_Boreanaz>,
+        <http://dbpedia.org/resource/Nicholas_Brendon>,
+        <http://dbpedia.org/resource/Sarah_Michelle_Gellar>,
+        <http://dbpedia.org/resource/Seth_Green>,
+        "*"@en ;
+    ns1:title <http://dbpedia.org/resource/Amends>,
+        <http://dbpedia.org/resource/Bad_Girls_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/Band_Candy>,
+        <http://dbpedia.org/resource/Beauty_and_the_Beasts>,
+        <http://dbpedia.org/resource/Choices_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/Consequences_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/Dead_Man's_Party_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/Doppelgangland>,
+        <http://dbpedia.org/resource/Earshot_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/Enemies_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/Faith,_Hope_&_Trick>,
+        <http://dbpedia.org/resource/Gingerbread_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/Graduation_Day_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/Helpless_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/Homecoming_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/Lovers_Walk>,
+        <http://dbpedia.org/resource/Revelations_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/The_Prom_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/The_Wish_(Buffy_the_Vampire_Slayer)>,
+        <http://dbpedia.org/resource/The_Zeppo> ;
+    ns1:viewers "(N/A)"@en ;
+    ns1:writtenby <http://dbpedia.org/resource/Dan_Vebber>,
+        <http://dbpedia.org/resource/David_Fury>,
+        <http://dbpedia.org/resource/David_Greenwalt>,
+        <http://dbpedia.org/resource/Doug_Petrie>,
+        <http://dbpedia.org/resource/Jane_Espenson>,
+        <http://dbpedia.org/resource/Marti_Noxon>,
+        "Dan Vebber"@en,
+        "David Fury"@en,
+        "Douglas Petrie"@en,
+        "Jane Espenson"@en,
+        "Joss Whedon"@en,
+        "Marti Noxon"@en,
+        "Story by: Thania St. John & Jane Espenson"@en,
+        "Teleplay by: Jane Espenson"@en ;
+    foaf:name "(season 3)"@en,
+        "Buffy the Vampire Slayer"@en .
+
+<http://dbpedia.org/resource/Cheikh_Anta_Diop_University> ns1:campus "UCAD, BP 5005 Dakar"@en ;
+    ns1:city <http://dbpedia.org/resource/Dakar> ;
+    ns1:country <http://dbpedia.org/resource/Senegal> ;
+    ns1:endowment 2006,
+        "Yearly state budget:"@en ;
+    ns1:established "1957-02-24"^^xsd:date ;
+    ns1:formerNames "University of Dakar"@en ;
+    ns1:free "Free to Senegalese citizens with International Baccalaureate degree"@en ;
+    ns1:freeLabel "Free"@en ;
+    ns1:imageName "Ucd dakar logo.png"@en ;
+    ns1:imageSize 100 ;
+    ns1:latinName "Universitas Dakarensis"@en ;
+    ns1:motto "\"Lux Mea Lex\""@en ;
+    ns1:name "Cheikh Anta Diop University"@en ;
+    ns1:nativeName "Université Cheikh Anta Diop"@en ;
+    ns1:rector "Professor Ibrahima Thioub"@en ;
+    ns1:state <http://dbpedia.org/resource/Dakar_Region> ;
+    ns1:students 60000 ;
+    ns1:type "Public"@en ;
+    foaf:name "Cheikh Anta Diop University"@en,
+        "Université Cheikh Anta Diop"@en,
+        "Universitas Dakarensis"@la .
+
+<http://dbpedia.org/resource/DC_Comics> ns1:caption "The current DC Comics logo"@en ;
+    ns1:country <http://dbpedia.org/resource/United_States> ;
+    ns1:founder <http://dbpedia.org/resource/Malcolm_Wheeler-Nicholson> ;
+    ns1:headquarters <http://dbpedia.org/resource/Burbank,_California>,
+        <http://dbpedia.org/resource/California> ;
+    ns1:id 1,
+        54 ;
+    ns1:imprints <http://dbpedia.org/resource/Mad_(magazine)>,
+        <http://dbpedia.org/resource/Vertigo_(DC_Comics)> ;
+    ns1:keypeople "Bob Harras"@en,
+        "Dan DiDio"@en,
+        "Diane Nelson"@en,
+        "Geoff Johns"@en,
+        "Jim Lee"@en,
+        "John Rood"@en,
+        "Patrick Caldon"@en ;
+    ns1:owner <http://dbpedia.org/resource/Time_Warner> ;
+    ns1:parent <http://dbpedia.org/resource/Warner_Bros.> ;
+    ns1:publications <http://dbpedia.org/resource/List_of_DC_Comics_publications> ;
+    ns1:status "Active"@en ;
+    ns1:title "DC Comics"@en ;
+    ns1:type "publisher"@en .
+
+<http://dbpedia.org/resource/Democratic_Party_(United_States)> ns1:chairperson "Debbie Wasserman Schultz"@en ;
+    ns1:colorcode "#479FDF"@en ;
+    ns1:colors "Blue"@en ;
+    ns1:country "United States"@en ;
+    ns1:headquarters <http://dbpedia.org/resource/South_Capitol_Street>,
+        <http://dbpedia.org/resource/Washington,_D.C.>,
+        430,
+        20003,
+        "SE,"@en ;
+    ns1:ideology <http://dbpedia.org/resource/Modern_liberalism_in_the_United_States>,
+        <http://dbpedia.org/resource/Progressivism>,
+        <http://dbpedia.org/resource/Social_liberalism> ;
+    ns1:international <http://dbpedia.org/resource/Progressive_Alliance> ;
+    ns1:leader1Name "Stephanie Rawlings-Blake"@en ;
+    ns1:leader1Title "Secretary"@en ;
+    ns1:leader2Name "Barack Obama"@en ;
+    ns1:leader2Title "President of the United States"@en ;
+    ns1:leader3Name "Joe Biden"@en ;
+    ns1:leader3Title "Vice President of the United States"@en ;
+    ns1:leader4Name <http://dbpedia.org/resource/Party_leaders_of_the_United_States_Senate>,
+        "Harry Reid"@en ;
+    ns1:leader4Title "Senate leader"@en ;
+    ns1:leader5Name <http://dbpedia.org/resource/Party_leaders_of_the_United_States_House_of_Representatives>,
+        "Nancy Pelosi"@en ;
+    ns1:leader5Title "House leader"@en ;
+    ns1:leader6Name "Steve Bullock"@en ;
+    ns1:leader6Title "Chair of Governors Association"@en ;
+    ns1:logo 150 ;
+    ns1:membership 43100000 ;
+    ns1:membershipYear 2012 ;
+    ns1:name "Democratic Party"@en ;
+    ns1:predecessor <http://dbpedia.org/resource/Democratic-Republican_Party> ;
+    ns1:seats1Title <http://dbpedia.org/resource/United_States_Senate> ;
+    ns1:seats2Title <http://dbpedia.org/resource/United_States_House_of_Representatives> ;
+    ns1:seats3Title <http://dbpedia.org/resource/Governor_(United_States)> ;
+    ns1:seats4Title <http://dbpedia.org/resource/State_legislature_(United_States)> ;
+    ns1:seats5Title <http://dbpedia.org/resource/State_legislature_(United_States)> ;
+    ns1:studentWing <http://dbpedia.org/resource/College_Democrats_of_America> ;
+    ns1:wing <http://dbpedia.org/resource/Democrats_Abroad>,
+        <http://dbpedia.org/resource/National_Federation_of_Democratic_Women> ;
+    ns1:wing1Title "Women's wing"@en ;
+    ns1:wing2Title "Overseas wing"@en ;
+    ns1:youthWing <http://dbpedia.org/resource/Young_Democrats_of_America> ;
+    foaf:name "Democratic Party"@en .
+
+<http://dbpedia.org/resource/FA_Cup> ns1:broadcasters <http://dbpedia.org/resource/BBC_Sport>,
+        <http://dbpedia.org/resource/BT_Sport> ;
+    ns1:confedCup <http://dbpedia.org/resource/UEFA_Europa_League> ;
+    ns1:current 2015 ;
+    ns1:currentChampions <http://dbpedia.org/resource/Arsenal_F.C.> ;
+    ns1:domesticCup <http://dbpedia.org/resource/FA_Community_Shield> ;
+    ns1:founded 1871 ;
+    ns1:logo 150 ;
+    ns1:mostSuccessfulClub <http://dbpedia.org/resource/Arsenal_F.C.> ;
+    ns1:numberOfTeams 736 ;
+    ns1:organiser <http://dbpedia.org/resource/The_Football_Association> ;
+    ns1:region "England"@en .
+
+<http://dbpedia.org/resource/Galatasaray_S.K._(football)> ns1:align "right"@en ;
+    ns1:body "ef2928"@en ;
+    ns1:capacity 52652 ;
+    ns1:clubname "Galatasaray"@en ;
+    ns1:color "#A32638"@en,
+        "#FCB514"@en ;
+    ns1:confed <http://dbpedia.org/resource/UEFA> ;
+    ns1:current 2015 ;
+    ns1:description "Galatasaray War Chant"@en ;
+    ns1:filename "Galatasaray_War_Chant.ogg"@en ;
+    ns1:format <http://dbpedia.org/resource/Ogg> ;
+    ns1:founded ", Galatasaray, Galata, Beyoğlu, Istanbul, Turkey"@en ;
+    ns1:fullname "Galatasaray Spor Kulübü"@en ;
+    ns1:ground <http://dbpedia.org/resource/Türk_Telekom_Arena> ;
+    ns1:league <http://dbpedia.org/resource/Süper_Lig> ;
+    ns1:leftarm "A32638"@en,
+        "FCB514"@en,
+        "ef2928"@en ;
+    ns1:manager "Vacant"@en ;
+    ns1:name <http://dbpedia.org/resource/Alex_Telles>,
+        <http://dbpedia.org/resource/Aurélien_Chedjou>,
+        <http://dbpedia.org/resource/Berk_İsmail_Ünsal>,
+        <http://dbpedia.org/resource/Bilal_Kısa>,
+        <http://dbpedia.org/resource/Blerim_Džemaili>,
+        <http://dbpedia.org/resource/Bruma_(footballer)>,
+        <http://dbpedia.org/resource/Cenk_Gönen>,
+        <http://dbpedia.org/resource/Emre_Can_Coşkun>,
+        <http://dbpedia.org/resource/Emre_Çolak>,
+        <http://dbpedia.org/resource/Endoğan_Adili>,
+        <http://dbpedia.org/resource/Eray_İşcan>,
+        <http://dbpedia.org/resource/Fernando_Muslera>,
+        <http://dbpedia.org/resource/Furkan_Özçal>,
+        <http://dbpedia.org/resource/Hakan_Balta>,
+        <http://dbpedia.org/resource/Hamit_Altıntop>,
+        <http://dbpedia.org/resource/Jason_Denayer>,
+        <http://dbpedia.org/resource/Jem_Karacan>,
+        <http://dbpedia.org/resource/José_Rodríguez_Martínez>,
+        <http://dbpedia.org/resource/Koray_Günter>,
+        <http://dbpedia.org/resource/Lionel_Carole>,
+        <http://dbpedia.org/resource/Lucas_Ontivero>,
+        <http://dbpedia.org/resource/Lukas_Podolski>,
+        <http://dbpedia.org/resource/Martin_Linnes>,
+        <http://dbpedia.org/resource/Olcan_Adın>,
+        <http://dbpedia.org/resource/Oğuzhan_Kayar>,
+        <http://dbpedia.org/resource/Ryan_Donk>,
+        <http://dbpedia.org/resource/Sabri_Sarıoğlu>,
+        <http://dbpedia.org/resource/Salih_Dursun>,
+        <http://dbpedia.org/resource/Selçuk_İnan>,
+        <http://dbpedia.org/resource/Semih_Kaya>,
+        <http://dbpedia.org/resource/Sercan_Yıldırım>,
+        <http://dbpedia.org/resource/Sinan_Gümüş>,
+        <http://dbpedia.org/resource/Tarık_Çamdal>,
+        <http://dbpedia.org/resource/Umut_Bulut>,
+        <http://dbpedia.org/resource/Umut_Gündoğan>,
+        <http://dbpedia.org/resource/Wesley_Sneijder>,
+        <http://dbpedia.org/resource/Yasin_Öztekin>,
+        "Alperen Uysal"@en,
+        "Birhan Vatansever"@en,
+        "İsmail Çipe"@en ;
+    ns1:nat "ARG"@en,
+        "BEL"@en,
+        "BRA"@en,
+        "CMR"@en,
+        "FRA"@en,
+        "GER"@en,
+        "NED"@en,
+        "NOR"@en,
+        "POR"@en,
+        "SPA"@en,
+        "SUI"@en,
+        "TUR"@en,
+        "URU"@en ;
+    ns1:nickname "Aslanlar"@en,
+        "Avrupa Fatihi"@en,
+        "Cimbom"@en,
+        "Gala"@en,
+        "Sarı-Kırmızılılar"@en ;
+    ns1:no 1,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        14,
+        15,
+        18,
+        21,
+        22,
+        23,
+        26,
+        27,
+        28,
+        29,
+        38,
+        44,
+        52,
+        55,
+        64,
+        67,
+        99,
+        "—"@en ;
+    ns1:other <http://dbpedia.org/resource/Captain_(association_football)>,
+        "--06-30"^^xsd:gMonthDay,
+        "--12-31"^^xsd:gMonthDay ;
+    ns1:owner <http://dbpedia.org/resource/Dursun_Özbek> ;
+    ns1:owntitle "President"@en ;
+    ns1:patternB "5457600.0"^^<http://dbpedia.org/datatype/second>,
+        "_galatasaray1516a"@en,
+        "_galatasaray1516t"@en,
+        "_galclassic"@en ;
+    ns1:patternLa "5457600.0"^^<http://dbpedia.org/datatype/second>,
+        "_galatasaray1516a"@en,
+        "_galatasaray1516t"@en ;
+    ns1:patternRa "5457600.0"^^<http://dbpedia.org/datatype/second>,
+        "_galatasaray1516a"@en,
+        "_galatasaray1516t"@en ;
+    ns1:patternSh "_galatasaray1516a"@en,
+        "_galatasaray1516t"@en ;
+    ns1:patternSo "_galatasaray1516t"@en ;
+    ns1:pos "DF"@en,
+        "FW"@en,
+        "GK"@en,
+        "MF"@en ;
+    ns1:position "Süper Lig, 1st"@en ;
+    ns1:rightarm "A32638"@en,
+        "FCB514"@en,
+        "ef2928"@en ;
+    ns1:season 2014 ;
+    ns1:shorts 0,
+        "FFFFFF"@en,
+        "ef2928"@en ;
+    ns1:socks 0,
+        "A32638"@en,
+        "ef2928"@en ;
+    ns1:title "GALATASARAY WAR CHANT"@en,
+        "Galatasaray's \"classic\" home kit"@en ;
+    foaf:name "Galatasaray"@en,
+        "Galatasaray Spor Kulübü"@en ;
+    foaf:nick "Aslanlar (The Lions)"@en,
+        "Avrupa Fatihi (Conqueror ofEurope)"@en,
+        "Cimbom ()"@en,
+        "Gala (mostly used bynon-Turkish nationals)"@en,
+        "Sarı-Kırmızılılar (The Yellow-Reds)"@en .
+
+<http://dbpedia.org/resource/Grey's_Anatomy> ns1:align "left"@en,
+        "right"@en ;
+    ns1:alt "The Grey Anatomy logo"@en ;
+    ns1:audioFormat <http://dbpedia.org/resource/Stereophonic_sound>,
+        "Dolby Digital 5.1"@en ;
+    ns1:camera <http://dbpedia.org/resource/Single-camera_setup> ;
+    ns1:cinematography "Herbert Davis"@en ;
+    ns1:company <http://dbpedia.org/resource/ABC_Studios>,
+        <http://dbpedia.org/resource/ShondaLand>,
+        "The Mark Gordon Company"@en ;
+    ns1:composer <http://dbpedia.org/resource/Danny_Lux> ;
+    ns1:country "United States"@en ;
+    ns1:creator <http://dbpedia.org/resource/Shonda_Rhimes> ;
+    ns1:display "Grey's Anatomy"@en ;
+    ns1:distributor <http://dbpedia.org/resource/Disney–ABC_Domestic_Television>,
+        <http://dbpedia.org/resource/Walt_Disney_Studios_Home_Entertainment> ;
+    ns1:editor "Briana London"@en,
+        "Brittany A. Jones"@en,
+        "David Greenspan"@en,
+        "Edward Ornelas"@en,
+        "Sarah Boyd"@en,
+        "Susan Vaill"@en ;
+    ns1:executiveProducer <http://dbpedia.org/resource/Allan_Heinberg>,
+        <http://dbpedia.org/resource/Betsy_Beers>,
+        <http://dbpedia.org/resource/Debbie_Allen>,
+        <http://dbpedia.org/resource/Joan_Rater>,
+        <http://dbpedia.org/resource/Krista_Vernoff>,
+        <http://dbpedia.org/resource/Mark_Gordon>,
+        <http://dbpedia.org/resource/Mark_Wilding>,
+        <http://dbpedia.org/resource/Marti_Noxon>,
+        <http://dbpedia.org/resource/Peter_Horton>,
+        <http://dbpedia.org/resource/Rob_Corn>,
+        <http://dbpedia.org/resource/Shonda_Rhimes>,
+        <http://dbpedia.org/resource/Tony_Phelan>,
+        "James D. Parriott"@en,
+        "Jeannine Renshaw"@en,
+        "Jeff Rafner"@en,
+        "Kent Hodder"@en,
+        "Nancy Bordson"@en,
+        "Stacy McKee"@en,
+        "Steve Mulholland"@en,
+        "William Harper"@en,
+        "Zoanne Clack"@en ;
+    ns1:firstAired "2005-03-27"^^xsd:date ;
+    ns1:genre <http://dbpedia.org/resource/Medical_drama>,
+        <http://dbpedia.org/resource/Romance_film> ;
+    ns1:language "English"@en ;
+    ns1:lastAired "present"@en ;
+    ns1:list <http://dbpedia.org/resource/List_of_Super_Bowl_lead-out_programs>,
+        2006,
+        "Grey's Anatomy"@en ;
+    ns1:listEpisodes "List of Grey's Anatomy episodes"@en ;
+    ns1:narrated "Ellen Pompeo and various other characters"@en ;
+    ns1:network <http://dbpedia.org/resource/American_Broadcasting_Company> ;
+    ns1:next 2007,
+        "Criminal Minds"@en ;
+    ns1:numEpisodes 257 ;
+    ns1:numSeasons 12 ;
+    ns1:opentheme "\"Cosy in the Rocket\""@en ;
+    ns1:pictureFormat 480,
+        1080 ;
+    ns1:prev 2005,
+        "American Dad!"@en,
+        "The Simpsons"@en,
+        "alongside"@en ;
+    ns1:producer <http://dbpedia.org/resource/Zoanne_Clack>,
+        "Ann Kindberg"@en,
+        "Austin Guzman"@en,
+        "Elisabeth R. Finch"@en,
+        "Gabrielle G. Stanton"@en,
+        "Harry Werksman"@en,
+        "Jeff Rafner"@en,
+        "Linda Klein"@en,
+        "Mark Foreman"@en,
+        "Mimi Schmir"@en,
+        "Peter Norwalk"@en,
+        "Stacy McKee"@en,
+        "Tammy Ann Casper"@en,
+        "William Harper"@en ;
+    ns1:quote "\"ER is high-speed medicine. The camera flies around, adrenaline is rushing. My show is more personal. The idea for the series began when a doctor told me it was incredibly hard to shave her legs in the hospital shower. At first that seemed like a silly detail. But then I thought about the fact that it was the only time and place this woman might have to shave her legs. That's how hard the work is.\""@en,
+        "\"Grey's Anatomy makes an impact on how people's perception of the world is created.\""@en,
+        "\"Grey’s Anatomy offers a different and perhaps more valuable idea of what it means to be strong: the capacity to suffer terribly, break down completely, and then get up again, confident that you’re bigger than the sum of the tragedies you’ve suffered—because everyone else is, too. The layers of history have grown pretty dense and rich, and the friendships that form around them as the characters suffer and survive is the glue of the series, and what—despite a few inevitable hit-or-miss patches—elevates it to something special.\"- Laura Hudson of Wired"@en,
+        "\"She brought this energy that felt very fresh. From the beginning, I've been shaping Cristina around Sandra a little bit. One of my favorite things to do is take as much of her dialogue out of a scene as possible because she does so much nonverbally. Then I just watch what she manages to do without having a word to say.\""@en ;
+    ns1:related "''Private Practice"@en,
+        "A corazón abierto (Colombian telenovela)"@en ;
+    ns1:runtime "2580.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:showName "Grey's Anatomy"@en ;
+    ns1:source "— Brian Quick, University of Illinois"@en ;
+    ns1:species "no"@en ;
+    ns1:starring <http://dbpedia.org/resource/Brooke_Smith_(actress)>,
+        <http://dbpedia.org/resource/Camilla_Luddington>,
+        <http://dbpedia.org/resource/Caterina_Scorsone>,
+        <http://dbpedia.org/resource/Chandra_Wilson>,
+        <http://dbpedia.org/resource/Chyler_Leigh>,
+        <http://dbpedia.org/resource/Ellen_Pompeo>,
+        <http://dbpedia.org/resource/Eric_Dane>,
+        <http://dbpedia.org/resource/Gaius_Charles>,
+        <http://dbpedia.org/resource/Giacomo_Gianniotti>,
+        <http://dbpedia.org/resource/Isaiah_Washington>,
+        <http://dbpedia.org/resource/James_Pickens,_Jr.>,
+        <http://dbpedia.org/resource/Jason_Winston_George>,
+        <http://dbpedia.org/resource/Jerrika_Hinton>,
+        <http://dbpedia.org/resource/Jesse_Williams_(actor)>,
+        <http://dbpedia.org/resource/Jessica_Capshaw>,
+        <http://dbpedia.org/resource/Justin_Chambers>,
+        <http://dbpedia.org/resource/Kate_Walsh_(actress)>,
+        <http://dbpedia.org/resource/Kelly_McCreary>,
+        <http://dbpedia.org/resource/Kevin_McKidd>,
+        <http://dbpedia.org/resource/Kim_Raver>,
+        <http://dbpedia.org/resource/Martin_Henderson>,
+        <http://dbpedia.org/resource/Patrick_Dempsey>,
+        <http://dbpedia.org/resource/Sandra_Oh>,
+        <http://dbpedia.org/resource/Sara_Ramirez>,
+        <http://dbpedia.org/resource/Sarah_Drew>,
+        <http://dbpedia.org/resource/T._R._Knight>,
+        <http://dbpedia.org/resource/Tessa_Ferrer>,
+        "Katherine Heigl"@en ;
+    ns1:themeMusicComposer <http://dbpedia.org/resource/Psapp> ;
+    ns1:websiteTitle "Official website"@en ;
+    ns1:width 25,
+        30 ;
+    ns1:wikt "no"@en ;
+    foaf:name "Grey's Anatomy"@en .
+
+<http://dbpedia.org/resource/Haakon_VI_of_Norway> ns1:before <http://dbpedia.org/resource/Magnus_IV_of_Sweden> ;
+    ns1:birthDate 1340 ;
+    ns1:birthPlace "Likely Sweden"@en ;
+    ns1:burialPlace <http://dbpedia.org/resource/St_Mary's_Church,_Oslo> ;
+    ns1:caption "The royal seal of Haakon VI"@en ;
+    ns1:deathPlace <http://dbpedia.org/resource/Norway>,
+        <http://dbpedia.org/resource/Oslo> ;
+    ns1:father <http://dbpedia.org/resource/Magnus_IV_of_Sweden> ;
+    ns1:house <http://dbpedia.org/resource/House_of_Bjelbo> ;
+    ns1:issue <http://dbpedia.org/resource/Olaf_II_of_Denmark> ;
+    ns1:mother <http://dbpedia.org/resource/Blanche_of_Namur> ;
+    ns1:name "Haakon VI"@en ;
+    ns1:predecessor <http://dbpedia.org/resource/Magnus_IV_of_Sweden> ;
+    ns1:regent <http://dbpedia.org/resource/Magnus_IV_of_Sweden> ;
+    ns1:reign "--08-15"^^xsd:gMonthDay,
+        1362 ;
+    ns1:religion <http://dbpedia.org/resource/Catholic_Church> ;
+    ns1:rows 2 ;
+    ns1:spouse <http://dbpedia.org/resource/Margaret_I_of_Denmark> ;
+    ns1:succession <http://dbpedia.org/resource/Monarchy_of_Norway>,
+        <http://dbpedia.org/resource/Monarchy_of_Sweden> ;
+    ns1:successor <http://dbpedia.org/resource/Albert,_King_of_Sweden>,
+        <http://dbpedia.org/resource/Olaf_II_of_Denmark> ;
+    ns1:title <http://dbpedia.org/resource/List_of_Norwegian_monarchs>,
+        <http://dbpedia.org/resource/List_of_Swedish_monarchs> ;
+    ns1:years 1343,
+        1362 ;
+    foaf:name "Haakon VI"@en .
+
+<http://dbpedia.org/resource/House_of_Bernadotte> ns1:before <http://dbpedia.org/resource/House_of_Holstein-Gottorp_(Swedish_line)> ;
+    ns1:coatOfArms 135 ;
+    ns1:country <http://dbpedia.org/resource/Norway>,
+        <http://dbpedia.org/resource/Sweden> ;
+    ns1:currentHead "Carl XVI Gustaf of Sweden"@en ;
+    ns1:deposition "Norway: 1905: dissolution of the union between Norway and Sweden"@en ;
+    ns1:estate "Sweden, Norway"@en ;
+    ns1:finalRuler "Norway: Oscar II"@en ;
+    ns1:founder <http://dbpedia.org/resource/Charles_XIV_John_of_Sweden> ;
+    ns1:rows 2 ;
+    ns1:surname "House of Bernadotte"@en ;
+    ns1:title "Ruling House of the Kingdom of Sweden"@en ;
+    ns1:titles """*King of Sweden
+"By the Grace of God King of the Swedes, the Goths and the Wends"
+*King of Norway 
+"By the Grace of God King of Norway\""""@en ;
+    ns1:years 1818 .
+
+<http://dbpedia.org/resource/House_of_Tudor> ns1:coatOfArms 140,
+        "Tudor Rose"@en ;
+    ns1:country "England"@en,
+        "Ireland"@en,
+        "Wales"@en ;
+    ns1:currentHead "Extinct"@en ;
+    ns1:dissolution "1603-03-24"^^xsd:date ;
+    ns1:ethnicity <http://dbpedia.org/resource/English_people>,
+        <http://dbpedia.org/resource/Welsh_people> ;
+    ns1:finalRuler <http://dbpedia.org/resource/Elizabeth_I_of_England> ;
+    ns1:founder <http://dbpedia.org/resource/Henry_VII_of_England> ;
+    ns1:foundingYear "1485-08-22"^^xsd:date ;
+    ns1:parentHouse <http://dbpedia.org/resource/Tudors_of_Penmynydd> ;
+    ns1:surname "House of Tudor"@en ;
+    ns1:title "Royal house of the Kingdom of England"@en ;
+    ns1:titles """* King of England
+* King of Ireland
+* King of France
+* Lord of Ireland
+* Prince of Wales"""@en ;
+    ns1:years 1485 .
+
+<http://dbpedia.org/resource/Jive_Records> ns1:country <http://dbpedia.org/resource/United_States> ;
+    ns1:distributor <http://dbpedia.org/resource/RCA_Music_Group>,
+        <http://dbpedia.org/resource/RCA_Records> ;
+    ns1:founder <http://dbpedia.org/resource/Clive_Calder> ;
+    ns1:genre "Various"@en ;
+    ns1:imageName "Logo of Jive Records.png"@en ;
+    ns1:imageSize 150 ;
+    ns1:location <http://dbpedia.org/resource/New_York>,
+        <http://dbpedia.org/resource/New_York_City> ;
+    ns1:name "JIVE Records"@en ;
+    ns1:parent <http://dbpedia.org/resource/Sony_Music_Entertainment> ;
+    foaf:name "JIVE Records"@en .
+
+<http://dbpedia.org/resource/List_of_Presidents_of_Peru> ns1:appointer <http://dbpedia.org/resource/Peruvian_general_election,_2006> ;
+    ns1:body "the Republic of Peru"@en ;
+    ns1:formation "1821-07-28"^^xsd:date ;
+    ns1:imagesize 150 ;
+    ns1:inaugural <http://dbpedia.org/resource/José_de_San_Martín> ;
+    ns1:incumbent <http://dbpedia.org/resource/Ollanta_Humala> ;
+    ns1:incumbentsince "2011-07-28"^^xsd:date ;
+    ns1:insignia "Presidential Standard of Peru.svg"@en ;
+    ns1:insigniacaption "Presidential standard"@en ;
+    ns1:insigniasize 150 ;
+    ns1:post "President"@en ;
+    ns1:residence <http://dbpedia.org/resource/Government_Palace_(Peru)> ;
+    ns1:termlength "Five years, not eligible for reelection immediately"@en .
+
+<http://dbpedia.org/resource/Malcolm_III_of_Scotland> ns1:birthDate "c. 1031"@en ;
+    ns1:birthPlace <http://dbpedia.org/resource/Scotland> ;
+    ns1:caption "Victorian depiction of Malcolm and his second wife, Margaret"@en ;
+    ns1:coronation "--04-25"^^xsd:gMonthDay ;
+    ns1:deathDate "1093-11-13"^^xsd:date ;
+    ns1:deathPlace "Alnwick, Northumberland, England"@en ;
+    ns1:father <http://dbpedia.org/resource/Duncan_I_of_Scotland> ;
+    ns1:house <http://dbpedia.org/resource/House_of_Dunkeld> ;
+    ns1:issue <http://dbpedia.org/resource/Alexander_I_of_Scotland>,
+        <http://dbpedia.org/resource/David_I_of_Scotland>,
+        <http://dbpedia.org/resource/Duncan_II_of_Scotland>,
+        <http://dbpedia.org/resource/Edgar,_King_of_Scotland>,
+        <http://dbpedia.org/resource/Edmund_of_Scotland>,
+        <http://dbpedia.org/resource/Ethelred_of_Scotland>,
+        <http://dbpedia.org/resource/Mary_of_Scotland,_Countess_of_Boulogne>,
+        <http://dbpedia.org/resource/Matilda_of_Scotland>,
+        "Edward, Prince of Scotland"@en ;
+    ns1:mother "Suthen"@en ;
+    ns1:name "Malcolm III"@en ;
+    ns1:placeOfBurial <http://dbpedia.org/resource/Tynemouth> ;
+    ns1:predecessor <http://dbpedia.org/resource/Lulach> ;
+    ns1:reign 1058 ;
+    ns1:spouse <http://dbpedia.org/resource/Ingibiorg_Finnsdotter>,
+        <http://dbpedia.org/resource/Saint_Margaret_of_Scotland> ;
+    ns1:succession <http://dbpedia.org/resource/List_of_Scottish_monarchs> ;
+    ns1:successor <http://dbpedia.org/resource/Donald_III_of_Scotland> ;
+    ns1:title <http://dbpedia.org/resource/List_of_Scottish_monarchs> ;
+    ns1:years 1058 ;
+    foaf:name "Malcolm III"@en .
+
+<http://dbpedia.org/resource/Microsoft> ns1:areaServed "Worldwide"@en ;
+    ns1:assets "1.7622E11"^^<http://dbpedia.org/datatype/usDollar> ;
+    ns1:commons "Category:Microsoft"@en ;
+    ns1:display "Microsoft"@en ;
+    ns1:equity "8.008E10"^^<http://dbpedia.org/datatype/usDollar> ;
+    ns1:foundation <http://dbpedia.org/resource/Albuquerque,_New_Mexico>,
+        <http://dbpedia.org/resource/New_Mexico>,
+        <http://dbpedia.org/resource/United_States> ;
+    ns1:founders <http://dbpedia.org/resource/Bill_Gates>,
+        <http://dbpedia.org/resource/Paul_Allen> ;
+    ns1:homepage <https://www.microsoft.com/> ;
+    ns1:hoovers "Microsoft_Corporation.c86cc6059119a54b"@en ;
+    ns1:imageCaption """Front lobby entrance of building 17, one of the largest buildings on Microsoft's main campus in
+Redmond, Washington"""@en ;
+    ns1:industry <http://dbpedia.org/resource/Computer_hardware>,
+        <http://dbpedia.org/resource/Consumer_electronics>,
+        <http://dbpedia.org/resource/Software> ;
+    ns1:keyPeople <http://dbpedia.org/resource/Bill_Gates>,
+        <http://dbpedia.org/resource/John_W._Thompson>,
+        <http://dbpedia.org/resource/Satya_Nadella>,
+        "Brad Smith"@en ;
+    ns1:locationCity <http://dbpedia.org/resource/Microsoft_Redmond_Campus>,
+        <http://dbpedia.org/resource/Redmond,_Washington> ;
+    ns1:locationCountry "U.S."@en ;
+    ns1:logo "Microsoft logo and wordmark.svg"@en ;
+    ns1:logoAlt "Introduced in 2012, Microsoft's logo consists of a square divided into four sub-squares colored red, green, yellow and blue"@en ;
+    ns1:mw "no"@en ;
+    ns1:name "Microsoft Corporation"@en ;
+    ns1:netIncome "1.219E10"^^<http://dbpedia.org/datatype/usDollar> ;
+    ns1:numEmployees 118584 ;
+    ns1:operatingIncome "1.816E10"^^<http://dbpedia.org/datatype/usDollar> ;
+    ns1:products <http://dbpedia.org/resource/List_of_Microsoft_software>,
+        <http://dbpedia.org/resource/Microsoft_Azure>,
+        <http://dbpedia.org/resource/Microsoft_Dynamics>,
+        <http://dbpedia.org/resource/Microsoft_Mobile>,
+        <http://dbpedia.org/resource/Microsoft_Office>,
+        <http://dbpedia.org/resource/Microsoft_Servers>,
+        <http://dbpedia.org/resource/Microsoft_Surface>,
+        <http://dbpedia.org/resource/Microsoft_Visual_Studio>,
+        <http://dbpedia.org/resource/Microsoft_Windows>,
+        <http://dbpedia.org/resource/Skype>,
+        <http://dbpedia.org/resource/Xbox>,
+        "*"@en ;
+    ns1:revenue "9.358E10"^^<http://dbpedia.org/datatype/usDollar> ;
+    ns1:secCik 789019 ;
+    ns1:services <http://dbpedia.org/resource/Bing>,
+        <http://dbpedia.org/resource/MSN>,
+        <http://dbpedia.org/resource/Microsoft_Developer_Network>,
+        <http://dbpedia.org/resource/Microsoft_TechNet>,
+        <http://dbpedia.org/resource/OneDrive>,
+        <http://dbpedia.org/resource/Outlook.com>,
+        <http://dbpedia.org/resource/Xbox_Live>,
+        "*"@en ;
+    ns1:species "no"@en ;
+    ns1:subsid <http://dbpedia.org/resource/List_of_mergers_and_acquisitions_by_Microsoft> ;
+    ns1:symbol "MSFT"@en ;
+    ns1:tradedAs <http://dbpedia.org/resource/Dow_Jones_Industrial_Average>,
+        <http://dbpedia.org/resource/NASDAQ-100>,
+        <http://dbpedia.org/resource/S&P_500_Index> ;
+    ns1:type <http://dbpedia.org/resource/Public_company> ;
+    ns1:voy "no"@en ;
+    ns1:wikt "no"@en ;
+    foaf:name "Microsoft Corporation"@en .
+
+<http://dbpedia.org/resource/President_of_Algeria> ns1:appointer <http://dbpedia.org/resource/Elections_in_Algeria> ;
+    ns1:body "Algeria"@en ;
+    ns1:formation "1963-09-15"^^xsd:date ;
+    ns1:imagesize 165 ;
+    ns1:inaugural <http://dbpedia.org/resource/Ahmed_Ben_Bella> ;
+    ns1:incumbent <http://dbpedia.org/resource/Abdelaziz_Bouteflika> ;
+    ns1:incumbentsince "1999-04-27"^^xsd:date ;
+    ns1:insignia "Presidential Standard of Algeria.svg"@en ;
+    ns1:insigniacaption "Presidential Standard"@en ;
+    ns1:insigniasize 165 ;
+    ns1:nativeName "رئيس الجمهورية الجزائرية"@en ;
+    ns1:nativeNameLang "ar"@en ;
+    ns1:post "President"@en ;
+    ns1:residence <http://dbpedia.org/resource/El_Mouradia> ;
+    ns1:termlength "1.57788E8"^^<http://dbpedia.org/datatype/second> .
+
+<http://dbpedia.org/resource/President_of_Tunisia> ns1:body "the Tunisian Republic"@en ;
+    ns1:formation "1957-07-25"^^xsd:date ;
+    ns1:imagesize 170 ;
+    ns1:inaugural <http://dbpedia.org/resource/Habib_Bourguiba> ;
+    ns1:incumbent <http://dbpedia.org/resource/Beji_Caid_Essebsi> ;
+    ns1:incumbentsince "2014-12-31"^^xsd:date ;
+    ns1:insignia "Standard of the President of Tunisia.svg"@en ;
+    ns1:insigniacaption "Standard of the President of Tunisia"@en ;
+    ns1:insigniasize 130 ;
+    ns1:nativeName "(Président de la République tunisienne)"@en ;
+    ns1:post "President"@en ;
+    ns1:residence <http://dbpedia.org/resource/Carthage>,
+        <http://dbpedia.org/resource/Carthage_Palace> ;
+    ns1:style "Son Excellence"@en ;
+    ns1:termlength "Five years, renewable once"@en .
+
+<http://dbpedia.org/resource/Pyotr_Stolypin> ns1:after <http://dbpedia.org/resource/Alexander_Alexandrovich_Makarov>,
+        <http://dbpedia.org/resource/Vladimir_Kokovtsov> ;
+    ns1:before <http://dbpedia.org/resource/Ivan_Goremykin>,
+        <http://dbpedia.org/resource/Pyotr_Durnovo> ;
+    ns1:birthDate "1862-04-14"^^xsd:date ;
+    ns1:birthName "Pyotr Arkadyevich Stolypin"@en ;
+    ns1:birthPlace <http://dbpedia.org/resource/Dresden>,
+        <http://dbpedia.org/resource/German_Confederation>,
+        <http://dbpedia.org/resource/Kingdom_of_Saxony> ;
+    ns1:deathDate "1911-09-18"^^xsd:date ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kiev>,
+        <http://dbpedia.org/resource/Russian_Empire> ;
+    ns1:monarch <http://dbpedia.org/resource/Nicholas_II_of_Russia> ;
+    ns1:name "Pyotr Stolypin"@en ;
+    ns1:nationality "Russian"@en ;
+    ns1:order 3 ;
+    ns1:predecessor <http://dbpedia.org/resource/Ivan_Goremykin> ;
+    ns1:restingPlace <http://dbpedia.org/resource/Kiev_Pechersk_Lavra> ;
+    ns1:spouse "Olga Borisovna Neidhardt"@en ;
+    ns1:successor <http://dbpedia.org/resource/Vladimir_Kokovtsov> ;
+    ns1:termEnd "1911-09-18"^^xsd:date ;
+    ns1:termStart "1906-07-21"^^xsd:date ;
+    ns1:title <http://dbpedia.org/resource/List_of_Ministers_of_Interior_of_Imperial_Russia>,
+        <http://dbpedia.org/resource/Prime_Minister_of_Russia> ;
+    ns1:years "--04-26"^^xsd:gMonthDay,
+        "--07-21"^^xsd:gMonthDay ;
+    foaf:name "Pyotr Stolypin"@en .
+
+<http://dbpedia.org/resource/Republican_People's_Party_(Turkey)> ns1:abbreviation "CHP"@en ;
+    ns1:colors "Blue"@en,
+        "Red"@en,
+        "White"@en ;
+    ns1:country "Turkey"@en ;
+    ns1:date "January 2016"@en ;
+    ns1:european "Party of European Socialists"@en ;
+    ns1:flag 150,
+        "Six Arrows"@en ;
+    ns1:founded "1919-09-07"^^xsd:date,
+        "1923-09-09"^^xsd:date,
+        "1992-09-09"^^xsd:date,
+        "*"@en ;
+    ns1:headquarters <http://dbpedia.org/resource/Ankara>,
+        <http://dbpedia.org/resource/Çankaya,_Ankara>,
+        """* Anadolu Bulvarı 12, 06510
+* Söğütözü,"""@en,
+        ","@en ;
+    ns1:ideology <http://dbpedia.org/resource/Kemalism>,
+        <http://dbpedia.org/resource/Social_democracy> ;
+    ns1:international <http://dbpedia.org/resource/Progressive_Alliance>,
+        <http://dbpedia.org/resource/Socialist_International> ;
+    ns1:leader1Name <http://dbpedia.org/resource/Selin_Sayek_Böke> ;
+    ns1:leader1Title "Spokesperson"@en ;
+    ns1:leader2Name <http://dbpedia.org/resource/Mustafa_Kemal_Atatürk> ;
+    ns1:leader2Title "Founder and \"Honorary President\""@en ;
+    ns1:leader3Title "Mascot"@en ;
+    ns1:logo <http://dbpedia.org/resource/File:Cumhuriyet_Halk_Partisi.png> ;
+    ns1:membership 1083353 ;
+    ns1:membershipYear 2014 ;
+    ns1:name "Republican People's Party"@en ;
+    ns1:nativeName "Cumhuriyet Halk Partisi"@en ;
+    ns1:nativeNameLang "Turkish"@en ;
+    ns1:position <http://dbpedia.org/resource/Centre-left_politics> ;
+    ns1:predecessor "Association for the Defense of the Rights of Anatolia and Rumelia"@en ;
+    ns1:president <http://dbpedia.org/resource/Kemal_Kılıçdaroğlu> ;
+    ns1:reason "Acronyms?"@en ;
+    ns1:seats1Title <http://dbpedia.org/resource/Grand_National_Assembly_of_Turkey> ;
+    ns1:seats2Title <http://dbpedia.org/resource/Metropolitan_municipalities_in_Turkey> ;
+    ns1:seats3Title <http://dbpedia.org/resource/List_of_municipalities_in_Turkey> ;
+    ns1:seats5Title <http://dbpedia.org/resource/Turkish_local_elections,_2014> ;
+    ns1:secretaryGeneral <http://dbpedia.org/resource/Kamil_Okyay_Sındır> ;
+    ns1:slogan "Önce Türkiye"@en ;
+    ns1:studentWing "Halk-Lis"@en ;
+    ns1:wing "CHP Kadın Kolları"@en ;
+    ns1:wing1Title <http://dbpedia.org/resource/Women's_wing> ;
+    ns1:youthWing <http://dbpedia.org/resource/Republican_People's_Party_Youth> ;
+    foaf:name "Cumhuriyet Halk Partisi"@en,
+        "Republican People's Party"@en .
+
+<http://dbpedia.org/resource/Spanish_Armed_Forces> ns1:active 132798 ;
+    ns1:age 18 ;
+    ns1:amount "5.767E9"^^<http://dbpedia.org/datatype/euro> ;
+    ns1:branches <http://dbpedia.org/resource/Military_Emergencies_Unit>,
+        <http://dbpedia.org/resource/Spanish_Air_Force>,
+        <http://dbpedia.org/resource/Spanish_Army>,
+        <http://dbpedia.org/resource/Spanish_Navy>,
+        <http://dbpedia.org/resource/Spanish_Royal_Guard>,
+        25 ;
+    ns1:caption "Spanish Armed Forces Recruitment Logo"@en,
+        "Tri-service badge"@en ;
+    ns1:commander "Fernando García Sánchez"@en,
+        "General Admiral"@en ;
+    ns1:commanderInChief <http://dbpedia.org/resource/Felipe_VI_of_Spain>,
+        <http://dbpedia.org/resource/Majesty>,
+        "(Captain general)"@en ;
+    ns1:commanderInChiefTitle <http://dbpedia.org/resource/Commander-in-chief> ;
+    ns1:commanderTitle "Chief of the Defense Staff"@en ;
+    ns1:country "Spain"@en ;
+    ns1:domesticSuppliers <http://dbpedia.org/resource/Abengoa>,
+        <http://dbpedia.org/resource/Airbus_Group>,
+        <http://dbpedia.org/resource/Gamesa_Corporación_Tecnológica>,
+        <http://dbpedia.org/resource/Indra_Sistemas>,
+        <http://dbpedia.org/resource/Navantia>,
+        <http://dbpedia.org/resource/Santa_Bárbara_Sistemas> ;
+    ns1:exports "4.174E9"^^<http://dbpedia.org/datatype/euro> ;
+    ns1:headquarters <http://dbpedia.org/resource/Madrid>,
+        <http://dbpedia.org/resource/Spain> ;
+    ns1:history <http://dbpedia.org/resource/Military_history_of_Spain> ;
+    ns1:image <http://dbpedia.org/resource/File:Spanish_Armed_Forces_logo.svg> ;
+    ns1:imports "2.415E9"^^<http://dbpedia.org/datatype/euro> ;
+    ns1:minister <http://dbpedia.org/resource/Pedro_Morenés> ;
+    ns1:ministerTitle <http://dbpedia.org/resource/Ministry_of_Defence_(Spain)> ;
+    ns1:name "Spanish Armed Forces"@en ;
+    ns1:nativeName "Fuerzas Armadas Españolas"@en ;
+    ns1:percentGdp "~0.6%"@en ;
+    ns1:reserve 16200 ;
+    foaf:name "Fuerzas Armadas Españolas"@en,
+        "Spanish Armed Forces"@en .
+
+<http://dbpedia.org/resource/Star_Alliance> ns1:airports 1321 ;
+    ns1:align "right"@en ;
+    ns1:alliance "Star Alliance"@en ;
+    ns1:allianceSlogan "The Way The Earth Connects"@en ;
+    ns1:alt "Air Canada plane landing"@en,
+        "Lufthansa plane at airport"@en,
+        "Scandinavian Airlines plane taking off"@en,
+        "Thai Airways plane taking off."@en,
+        "United Airlines plane in flight"@en ;
+    ns1:annualPassengers 637620000 ;
+    ns1:annualRpk 1331 ;
+    ns1:countries 193 ;
+    ns1:dailyFlights 18521 ;
+    ns1:direction "vertical"@en ;
+    ns1:fleet 4456 ;
+    ns1:footer "Air Canada, Lufthansa, Scandinavian Airlines, Thai Airways International and United Airlines are the five founding members of the alliance."@en ;
+    ns1:footerAlign "center"@en ;
+    ns1:fullMembers 27 ;
+    ns1:headquarters <http://dbpedia.org/resource/Frankfurt>,
+        <http://dbpedia.org/resource/Germany>,
+        ","@en ;
+    ns1:image "2010-05-27"^^xsd:date,
+        "C-GHQQ YVR .jpg"@en,
+        "HS-TQC .jpg"@en,
+        "LN-RMM .jpg"@en,
+        "United 787 at DEN.jpg"@en ;
+    ns1:keyPeople <http://dbpedia.org/resource/Calin_Rovinescu>,
+        <http://dbpedia.org/resource/Chairman>,
+        "Mark Schwab, CEO"@en ;
+    ns1:launchDate "1997-05-14"^^xsd:date ;
+    ns1:logo "Star Alliance Logo.svg"@en ;
+    ns1:size 350 ;
+    ns1:sponsoredMembers 40 ;
+    ns1:updated "2014-04-05"^^xsd:date ;
+    ns1:width 200 .
+
+<http://dbpedia.org/resource/Switzerland_national_under-21_football_team> ns1:age "1992-01-04"^^xsd:date,
+        "1992-01-07"^^xsd:date,
+        "1992-01-13"^^xsd:date,
+        "1992-01-25"^^xsd:date,
+        "1992-01-31"^^xsd:date,
+        "1992-02-26"^^xsd:date,
+        "1992-02-27"^^xsd:date,
+        "1992-03-27"^^xsd:date,
+        "1992-06-02"^^xsd:date,
+        "1992-08-03"^^xsd:date,
+        "1992-08-08"^^xsd:date,
+        "1992-10-01"^^xsd:date,
+        "1992-12-13"^^xsd:date,
+        "1992-12-19"^^xsd:date,
+        "1993-01-07"^^xsd:date,
+        "1993-02-04"^^xsd:date,
+        "1993-02-08"^^xsd:date,
+        "1993-02-19"^^xsd:date,
+        "1993-03-05"^^xsd:date,
+        "1993-04-15"^^xsd:date,
+        "1993-05-25"^^xsd:date,
+        "1993-05-30"^^xsd:date,
+        "1993-07-10"^^xsd:date,
+        "1993-07-28"^^xsd:date,
+        "1994-01-26"^^xsd:date,
+        "1994-03-14"^^xsd:date,
+        "1994-06-06"^^xsd:date,
+        "1994-06-20"^^xsd:date,
+        "1994-07-19"^^xsd:date ;
+    ns1:association <http://dbpedia.org/resource/Swiss_Football_Association> ;
+    ns1:attendance 837,
+        2616 ;
+    ns1:body "FF0000"@en,
+        "FFFFFF"@en ;
+    ns1:caps 0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11,
+        15,
+        16,
+        24,
+        28 ;
+    ns1:club <http://dbpedia.org/resource/Aston_Villa_F.C.>,
+        <http://dbpedia.org/resource/BSC_Young_Boys>,
+        <http://dbpedia.org/resource/Bayer_04_Leverkusen>,
+        <http://dbpedia.org/resource/Eintracht_Braunschweig>,
+        <http://dbpedia.org/resource/FC_Aarau>,
+        <http://dbpedia.org/resource/FC_Biel-Bienne>,
+        <http://dbpedia.org/resource/FC_Luzern>,
+        <http://dbpedia.org/resource/FC_Sion>,
+        <http://dbpedia.org/resource/FC_Wohlen>,
+        <http://dbpedia.org/resource/FC_Zürich>,
+        <http://dbpedia.org/resource/Grasshopper_Club_Zürich>,
+        <http://dbpedia.org/resource/Lech_Poznań>,
+        <http://dbpedia.org/resource/Lille_OSC>,
+        <http://dbpedia.org/resource/Olympiacos_CFP>,
+        <http://dbpedia.org/resource/S.L._Benfica>,
+        <http://dbpedia.org/resource/U.C._Sampdoria>,
+        <http://dbpedia.org/resource/Udinese_Calcio>,
+        <http://dbpedia.org/resource/West_Ham_United_F.C.>,
+        <http://dbpedia.org/resource/Wil>,
+        "Unattached"@en ;
+    ns1:clubnat "ENG"@en,
+        "FRA"@en,
+        "GER"@en,
+        "GRE"@en,
+        "ITA"@en,
+        "POL"@en,
+        "POR"@en,
+        "SUI"@en ;
+    ns1:coach <http://dbpedia.org/resource/Pierluigi_Tami> ;
+    ns1:date "2014-11-14"^^xsd:date,
+        "2014-11-18"^^xsd:date ;
+    ns1:firstGame "U21: ?"@en,
+        "U23: ?"@en ;
+    ns1:goals 0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        "Frey"@en,
+        "Gerhardt"@en,
+        "King"@en,
+        "Musa Araz"@en ;
+    ns1:largestLoss "''Records for competitive"@en,
+        "?"@en,
+        "matches only.''"@en ;
+    ns1:largestWin "?"@en ;
+    ns1:latest "--02-06"^^xsd:gMonthDay,
+        "--03-26"^^xsd:gMonthDay,
+        "--06-06"^^xsd:gMonthDay,
+        "--08-14"^^xsd:gMonthDay,
+        "--09-05"^^xsd:gMonthDay,
+        "--09-09"^^xsd:gMonthDay,
+        "--10-14"^^xsd:gMonthDay,
+        "--11-14"^^xsd:gMonthDay ;
+    ns1:leftarm "FF0000"@en,
+        "FFFFFF"@en ;
+    ns1:name <http://dbpedia.org/resource/Alessandro_Martinelli>,
+        <http://dbpedia.org/resource/Benjamin_Siegrist>,
+        <http://dbpedia.org/resource/Berat_Djimsiti>,
+        <http://dbpedia.org/resource/Bruno_Martignoni>,
+        <http://dbpedia.org/resource/Cristian_Miani>,
+        <http://dbpedia.org/resource/Darko_Jevtić>,
+        <http://dbpedia.org/resource/Haris_Tabakovic>,
+        <http://dbpedia.org/resource/Janick_Kamber>,
+        <http://dbpedia.org/resource/Josip_Drmić>,
+        <http://dbpedia.org/resource/Leonardo_Bertone>,
+        <http://dbpedia.org/resource/Loris_Benito>,
+        <http://dbpedia.org/resource/Léo_Lacroix_(footballer)>,
+        <http://dbpedia.org/resource/Marko_Bürki>,
+        <http://dbpedia.org/resource/Max_Veloso>,
+        <http://dbpedia.org/resource/Michael_Frey_(footballer)>,
+        <http://dbpedia.org/resource/Mike_Kleiber>,
+        <http://dbpedia.org/resource/Moritz_Bauer>,
+        <http://dbpedia.org/resource/Mërgim_Brahimi>,
+        <http://dbpedia.org/resource/Nassim_Ben_Khalifa>,
+        <http://dbpedia.org/resource/Oliver_Buff>,
+        <http://dbpedia.org/resource/Olivier_Jäckle>,
+        <http://dbpedia.org/resource/Pajtim_Kasami>,
+        <http://dbpedia.org/resource/Raphael_Spiegel>,
+        <http://dbpedia.org/resource/Remo_Freuler>,
+        <http://dbpedia.org/resource/Salim_Khelifi>,
+        <http://dbpedia.org/resource/Saulo_Decarli>,
+        <http://dbpedia.org/resource/Silvan_Widmer>,
+        <http://dbpedia.org/resource/Simone_Rapp>,
+        <http://dbpedia.org/resource/Yanick_Brecher>,
+        <http://dbpedia.org/resource/Yvon_Mvogo>,
+        "Switzerland Under-21"@en ;
+    ns1:no 1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19 ;
+    ns1:patternB "_sui06"@en ;
+    ns1:pos "DF"@en,
+        "FW"@en,
+        "GK"@en,
+        "MF"@en ;
+    ns1:referee "Massimiliano Irrati"@en,
+        "Tomasz Musiał"@en ;
+    ns1:report "[ Report]"@en ;
+    ns1:result "D"@en ;
+    ns1:rightarm "FF0000"@en,
+        "FFFFFF"@en ;
+    ns1:round <http://dbpedia.org/resource/Exhibition_game> ;
+    ns1:score 1 ;
+    ns1:shorts "FF0000"@en,
+        "FFFFFF"@en ;
+    ns1:socks "FF0000"@en,
+        "FFFFFF"@en ;
+    ns1:stadium <http://dbpedia.org/resource/Karl-Liebknecht-Stadion>,
+        <http://dbpedia.org/resource/Potsdam>,
+        <http://dbpedia.org/resource/Stockhorn_Arena>,
+        <http://dbpedia.org/resource/Thun> ;
+    ns1:time "1080.0"^^<http://dbpedia.org/datatype/second>,
+        "1110.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:uefau21champApps 3 ;
+    ns1:uefau21champBest "Runner-up: 2011"@en ;
+    ns1:uefau21champFirst 2002 ;
+    foaf:name "Switzerland Under-21"@en .
+
+<http://dbpedia.org/resource/Ubisoft> ns1:brands <http://dbpedia.org/resource/Assassin's_Creed>,
+        <http://dbpedia.org/resource/Far_Cry>,
+        <http://dbpedia.org/resource/Just_Dance_(video_game_series)>,
+        <http://dbpedia.org/resource/Tom_Clancy's>,
+        "Game series ''"@en ;
+    ns1:caption "Logo used since 2003"@en ;
+    ns1:divisions <http://dbpedia.org/resource/Ubisoft_Motion_Pictures> ;
+    ns1:founders "Guillemot family"@en ;
+    ns1:imageCaption "Ubisoft head office in Montreuil"@en ;
+    ns1:imageSize 200 ;
+    ns1:industry <http://dbpedia.org/resource/Video_game>,
+        <http://dbpedia.org/resource/Video_game_development>,
+        <http://dbpedia.org/resource/Video_game_industry> ;
+    ns1:keyPeople "Yves Guillemot"@en ;
+    ns1:locationCity <http://dbpedia.org/resource/Montreuil,_Seine-Saint-Denis>,
+        <http://dbpedia.org/resource/Paris> ;
+    ns1:locationCountry <http://dbpedia.org/resource/France> ;
+    ns1:logo "Ubisoft.png"@en ;
+    ns1:name "Ubisoft Entertainment S.A."@en ;
+    ns1:numEmployees 9200 ;
+    ns1:numEmployeesYear 2014 ;
+    ns1:subsid <http://dbpedia.org/resource/Red_Storm_Entertainment>,
+        <http://dbpedia.org/resource/Ubisoft_Massive>,
+        <http://dbpedia.org/resource/Ubisoft_Milan>,
+        <http://dbpedia.org/resource/Ubisoft_Montpellier>,
+        <http://dbpedia.org/resource/Ubisoft_Montreal>,
+        <http://dbpedia.org/resource/Ubisoft_Quebec>,
+        <http://dbpedia.org/resource/Ubisoft_Reflections>,
+        <http://dbpedia.org/resource/Ubisoft_Shanghai> ;
+    ns1:type <http://dbpedia.org/resource/S.A._(corporation)> ;
+    foaf:name "Ubisoft Entertainment S.A."@en .
+
+<http://dbpedia.org/resource/Valve_Corporation> ns1:areaServed "Worldwide"@en ;
+    ns1:equityYear 2012 ;
+    ns1:expiry "2016-10-22"^^xsd:date ;
+    ns1:founded <http://dbpedia.org/resource/Kirkland,_Washington>,
+        <http://dbpedia.org/resource/Washington_(state)>,
+        ","@en,
+        ", United States"@en ;
+    ns1:founders <http://dbpedia.org/resource/Gabe_Newell>,
+        <http://dbpedia.org/resource/Mike_Harrington> ;
+    ns1:imageCaption "Lobby area of Valve's offices in Bellevue, Washington"@en ;
+    ns1:industry <http://dbpedia.org/resource/Digital_distribution>,
+        <http://dbpedia.org/resource/Video_game_industry> ;
+    ns1:keyPeople "Gabe Newell"@en ;
+    ns1:locationCity <http://dbpedia.org/resource/Bellevue,_Washington>,
+        <http://dbpedia.org/resource/Washington_(state)> ;
+    ns1:locationCountry "United States"@en ;
+    ns1:locations 2 ;
+    ns1:logo "Valve logo.svg"@en ;
+    ns1:name "Valve Corporation"@en ;
+    ns1:numEmployees "~330"@en ;
+    ns1:numEmployeesYear 2013 ;
+    ns1:products <http://dbpedia.org/resource/Counter-Strike_(series)>,
+        <http://dbpedia.org/resource/Day_of_Defeat>,
+        <http://dbpedia.org/resource/Dota_2>,
+        <http://dbpedia.org/resource/GoldSrc>,
+        <http://dbpedia.org/resource/Half-Life_(series)>,
+        <http://dbpedia.org/resource/Left_4_Dead_(series)>,
+        <http://dbpedia.org/resource/Portal_(series)>,
+        <http://dbpedia.org/resource/Source_(game_engine)>,
+        <http://dbpedia.org/resource/SteamOS>,
+        <http://dbpedia.org/resource/Steam_(software)>,
+        <http://dbpedia.org/resource/Team_Fortress_Classic>,
+        <http://dbpedia.org/resource/VOGL>,
+        <http://dbpedia.org/resource/Valve_Anti-Cheat>,
+        "''"@en,
+        "Software:"@en,
+        "Video games:"@en ;
+    ns1:reason "Persistent disruptive editing"@en ;
+    ns1:small "yes"@en ;
+    ns1:subsid "Valve S.a.r.l."@en ;
+    ns1:type <http://dbpedia.org/resource/Privately_held_company> ;
+    foaf:name "Valve Corporation"@en .
+
+<http://dbpedia.org/resource/UEFA> ns1:abbreviation "UEFA"@en ;
+    ns1:bg "#E70410"@en ;
+    ns1:fg "white"@en ;
+    ns1:headquarters "Nyon, Switzerland"@en ;
+    ns1:language <http://dbpedia.org/resource/English_language>,
+        <http://dbpedia.org/resource/French_language>,
+        <http://dbpedia.org/resource/German_language> ;
+    ns1:leaderName <http://dbpedia.org/resource/Hryhoriy_Surkis>,
+        <http://dbpedia.org/resource/Lennart_Johansson>,
+        <http://dbpedia.org/resource/Michael_van_Praag>,
+        <http://dbpedia.org/resource/Ángel_María_Villar>,
+        "Giancarlo Abete"@en,
+        "Marios Lefkaritis"@en,
+        "Theodore Theodoridis"@en ;
+    ns1:leaderTitle <http://dbpedia.org/resource/List_of_Presidents_of_UEFA>,
+        "General Secretary"@en,
+        "Honorary President"@en,
+        "Vice Presidents"@en ;
+    ns1:mainOrgan "UEFA Congress"@en ;
+    ns1:membership 54 ;
+    ns1:name "Union of European Football Associations"@en ;
+    ns1:parentOrganization <http://dbpedia.org/resource/FIFA> ;
+    ns1:regionServed "Europe"@en ;
+    ns1:size 175 ;
+    ns1:title <http://dbpedia.org/resource/Association_football>,
+        <http://dbpedia.org/resource/International>,
+        "UEFA"@en ;
+    ns1:type "Sports organisation"@en ;
+    foaf:name "Union of European Football Associations"@en .
+
+<http://dbpedia.org/resource/Wyoming> ns1:2000density 2.31e+00 ;
+    ns1:2000densityus 5.97e+00 ;
+    ns1:2010pop 586107 ;
+    ns1:admittancedate "1890-07-10"^^xsd:date ;
+    ns1:admittanceorder 44 ;
+    ns1:arearank 9 ;
+    ns1:bird <http://dbpedia.org/resource/Western_meadowlark> ;
+    ns1:capital <http://dbpedia.org/resource/Cheyenne,_Wyoming> ;
+    ns1:centre "Wyoming: Outline • Index"@en ;
+    ns1:circumcisionStatistics 73 ;
+    ns1:demonym <http://dbpedia.org/resource/Wyoming> ;
+    ns1:densityrank 49 ;
+    ns1:dinosaur "Triceratops"@en ;
+    ns1:fish <http://dbpedia.org/resource/Cutthroat_trout> ;
+    ns1:flag "Flag of Wyoming.svg"@en ;
+    ns1:flaglink <http://dbpedia.org/resource/Flag_of_Wyoming> ;
+    ns1:flower <http://dbpedia.org/resource/Castilleja_linariifolia> ;
+    ns1:former "Wyoming Territory"@en ;
+    ns1:fossil "Knightia"@en ;
+    ns1:fullname "State of Wyoming"@en ;
+    ns1:governor <http://dbpedia.org/resource/Matt_Mead> ;
+    ns1:grass <http://dbpedia.org/resource/Pascopyrum> ;
+    ns1:highestelev 4.2091e+03 ;
+    ns1:highestelevus 13809 ;
+    ns1:highestpoint <http://dbpedia.org/resource/Gannett_Peak> ;
+    ns1:isocode "US-WY"@en ;
+    ns1:landarea 251498 ;
+    ns1:landareaus 97101 ;
+    ns1:largestcity "capital"@en ;
+    ns1:largestmetro <http://dbpedia.org/resource/Cheyenne_metropolitan_area> ;
+    ns1:latitude 41 ;
+    ns1:legislature <http://dbpedia.org/resource/Wyoming_Legislature> ;
+    ns1:length 450 ;
+    ns1:lengthus 280 ;
+    ns1:lieutenantGovernorAlt "Secretary of State"@en ;
+    ns1:longitude 104 ;
+    ns1:lowerhouse <http://dbpedia.org/resource/Wyoming_House_of_Representatives> ;
+    ns1:lowestelev 945 ;
+    ns1:lowestelevus 3101 ;
+    ns1:lowestpoint "Belle Fourche River at"@en ;
+    ns1:mammal <http://dbpedia.org/resource/American_bison> ;
+    ns1:meanelev 2040 ;
+    ns1:meanelevus 6700 ;
+    ns1:mineral <http://dbpedia.org/resource/Nephrite> ;
+    ns1:motto <http://dbpedia.org/resource/List_of_Wyoming_state_symbols>,
+        "Equal Rights"@en ;
+    ns1:name "Wyoming"@en ;
+    ns1:nickname "Cowboy State; Big Wyoming;"@en,
+        "Equality State ;"@en,
+        "Wonderful Wyoming"@en ;
+    ns1:officiallang <http://dbpedia.org/resource/English_language> ;
+    ns1:pcwater 7e-01 ;
+    ns1:poprank 50 ;
+    ns1:postalabbreviation "WY"@en ;
+    ns1:quarter 2007 ;
+    ns1:quarterreleasedate 2007 ;
+    ns1:representative <http://dbpedia.org/resource/Cynthia_Lummis> ;
+    ns1:reptile "Horned lizard"@en ;
+    ns1:routeMarker "WY-789.svg"@en ;
+    ns1:seal "Seal of Wyoming.svg"@en ;
+    ns1:seallink <http://dbpedia.org/resource/Seal_of_Wyoming> ;
+    ns1:senators <http://dbpedia.org/resource/John_Barrasso>,
+        <http://dbpedia.org/resource/Mike_Enzi> ;
+    ns1:soil <http://dbpedia.org/resource/Forkwood> ;
+    ns1:song "\"Wyoming\" by Charles E. Winter & George E. Knapp"@en ;
+    ns1:state "off"@en ;
+    ns1:timezone <http://dbpedia.org/resource/Coordinated_Universal_Time>,
+        <http://dbpedia.org/resource/Mountain_Time_Zone> ;
+    ns1:title <http://dbpedia.org/resource/List_of_U.S._states_by_date_of_admission_to_the_Union>,
+        25 ;
+    ns1:totalarea 253348 ;
+    ns1:totalareaus 97814 ;
+    ns1:tree <http://dbpedia.org/resource/Populus_deltoides> ;
+    ns1:upperhouse <http://dbpedia.org/resource/Wyoming_Senate> ;
+    ns1:waterarea 1851 ;
+    ns1:waterareaus 714 ;
+    ns1:website "wyoming.gov"@en ;
+    ns1:width 581 ;
+    ns1:widthus 360 ;
+    ns1:years "--07-10"^^xsd:gMonthDay ;
+    foaf:name "State of Wyoming"@en .
+
