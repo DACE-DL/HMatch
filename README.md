@@ -11,6 +11,8 @@ The original datasets are four: French (fr), English (en), Chinese (zh) and Japa
 
 The sampled datasets, sampledXXX, presented here are sampled from the original KGs using various statistical methods such as BERT, and TransEdge.
 
+The KG track datasets from OAEI can be downloaded here: https://oaei.webdatacommons.org/tdrs/testdata/persistent/knowledgegraph/v4/knowledgegraph_v4.zip
+
 
 # Running
 Direction 1:
