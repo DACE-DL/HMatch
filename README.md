@@ -15,7 +15,7 @@ The identity links obtained from BERT-INT and TransEdge are respectively present
 
 The KG track datasets from OAEI can be downloaded here: https://oaei.webdatacommons.org/tdrs/testdata/persistent/knowledgegraph/v4/knowledgegraph_v4.zip. 
 The sampled memory-alpha and stexpanded are contained in sampledma-stex.
-The identity links obtained from BERT-INT and TransEdge are respectively present in  and . 
+The identity links obtained from BERT-INT and TransEdge are respectively present in idLinksKGsBERT-INT and idLinksKGsTransEdge. 
 
 # Running
 Direction 1:
