@@ -145,14 +145,29 @@ def sort_lines_by_fourth_tab(file_path):
 
 
 # Example usage
+with open(sys.argv[1], 'r') as file:
+    lines = file.readlines()
+
+filtered_lines = [line for line in lines if not line.split('\t')[-4] == '{}']
+
+with open(sys.argv[1], 'w') as file:
+    file.writelines(filtered_lines)
+
 file_path = sys.argv[1]  # Replace 'link_keys_bert_enfr.txt' with the path to your file containing link keys
 sort_lines_by_fourth_tab(file_path)
 sparql_queries = generate_sparql_queries_from_file(file_path)
 graph1 = Graph()
 graph2 = Graph()
 
-graph1.parse(sys.argv[2], format="ttl")
-graph2.parse(sys.argv[3], format="ttl")
+if 'ttl' in sys.argv[2]:
+    graph1.parse(sys.argv[2], format="ttl")
+if 'ttl' in sys.argv[3]:
+    graph2.parse(sys.argv[3], format="ttl")
+if 'xml' in sys.argv[2]:
+    graph1.parse(sys.argv[2], format="xml")
+if 'xml' in sys.argv[3]:
+    graph2.parse(sys.argv[3], format="xml")
+
 unique_subjects = set()
 
 # Iterate over all triples in the graph
@@ -166,21 +181,47 @@ foaf = Namespace("http://xmlns.com/foaf/0.1/")
 #ns1 = Namespace("http://dbpedia.org/property/")
 if 'fr' in sys.argv[1]:
     ns1=Namespace("http://fr.dbpedia.org/property/")
+    ns2=Namespace("http://fr.dbpedia.org/property/jusqu'")
+    graph2.bind("ns2", ns2)
+    #http://fr.dbpedia.org/property/
+    graph1.bind("foaf", foaf)
+    graph1.bind("ns1", ns1)
+    graph2.bind("foaf", foaf)
+    graph2.bind("ns1", ns1)
 if 'ja' in sys.argv[1]:
     ns1=Namespace("http://ja.dbpedia.org/property/")
+    graph1.bind("foaf", foaf)
+    graph1.bind("ns1", ns1)
+    graph2.bind("foaf", foaf)
+    graph2.bind("ns1", ns1)
 if 'zh' in sys.argv[1]:
     ns1=Namespace("http://zh.dbpedia.org/property/")
+    graph1.bind("foaf", foaf)
+    graph1.bind("ns1", ns1)
+    graph2.bind("foaf", foaf)
+    graph2.bind("ns1", ns1)
 #skos=Namespace("http://www.w3.org/2004/02/skos/core#")
 # Add namespace bindings to the graph
-graph1.bind("foaf", foaf)
-#graph1.bind("ns1", ns1)
-graph2.bind("foaf", foaf)
-graph2.bind("ns1", ns1)
+
+
 #graph2.bind("skos", skos)
+# Get the namespaces from the graph
+namespaces1 = dict(graph1.namespace_manager.namespaces())
+
+# Bind the namespaces to your graph
+for prefix, uri in namespaces1.items():
+    graph1.bind(prefix, Namespace(uri))
+namespaces2 = dict(graph2.namespace_manager.namespaces())
+
+# Bind the namespaces to your graph
+for prefix, uri in namespaces2.items():
+    graph2.bind(prefix, Namespace(uri))
 print("The number of individuals in both datasets: ", total_subjects_count)
 j=0
 average_dis = 0
 average_cov = 0
+count_dis=0
+count_cov=0
 first_elements1 = [t[0] for t in sparql_queries]
 first_elements2 = [t[1] for t in sparql_queries]
 
@@ -189,8 +230,6 @@ for query1, query2 in zip(first_elements1, first_elements2):
 
     print(query1)
     print(query2)
-    count_dis=0
-    count_cov=0
     set_ab = set()
     for q1, q2 in zip(query1, query2):
         result1_dict = {}
