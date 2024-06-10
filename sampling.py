@@ -19,7 +19,6 @@ def retrieve_triples_with_subjects(dataset1_path, dataset2_path, alignment_file_
                         alignments.add((parts[0][1:-1], parts[2][1:-2]))
 
         else:
-            print('here1')
             graph1.parse(f_dataset1, format='ttl')
             graph2.parse(f_dataset2, format='ttl')
             for line in f_alignments:
@@ -90,6 +89,7 @@ def retrieve_triples_with_subjects(dataset1_path, dataset2_path, alignment_file_
     with open(output_file_path1, 'wb') as f_output1, open(output_file_path2, 'wb') as f_output2:
         f_output1.write(result_graph1.serialize(format='turtle').encode('utf-8'))
         f_output2.write(result_graph2.serialize(format='turtle').encode('utf-8'))
+
 #Example usage:
 retrieve_triples_with_subjects(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5])
 
