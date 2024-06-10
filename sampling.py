@@ -29,24 +29,24 @@ def retrieve_triples_with_subjects(dataset1_path, dataset2_path, alignment_file_
             with open(output_file_path1, 'wb') as f_output1, open(output_file_path2, 'wb') as f_output2:
                 triples1_dict = defaultdict(list)
                 for triple in all_triples1:
-                    key = str(rdflib.term.URIRef(triple[0].replace("Special:FilePath/", "").lower()))
+                    key = str(rdflib.term.URIRef(triple[0].replace("Special:FilePath/", "").casefold()))
+                    #print(key)
                     triples1_dict[key].append(triple)
 
                 triples2_dict = defaultdict(list)
                 for triple in all_triples2:
-                    key = str(rdflib.term.URIRef(triple[0].replace("Special:FilePath/", "").lower()))
+                    key = str(rdflib.term.URIRef(triple[0].replace("Special:FilePath/", "").casefold()))
                     triples2_dict[key].append(triple)
 
             # Iterate over alignments and directly add triples to result_graph1 and result_graph2
             for alignment in alignments:
                 subject1_uri, subject2_uri = alignment
-
-                if subject1_uri in triples1_dict.keys():
-                    for t in triples1_dict[subject1_uri]:
+                if subject1_uri.casefold() in triples1_dict.keys():
+                    for t in triples1_dict[subject1_uri.casefold()]:
                         result_graph1.add(t)
 
-                if subject2_uri in triples2_dict.keys():
-                    for t in triples2_dict[subject2_uri]:
+                if subject2_uri.casefold() in triples2_dict.keys():
+                    for t in triples2_dict[subject2_uri.casefold()]:
                         result_graph2.add(t)
 
 
@@ -88,6 +88,8 @@ def retrieve_triples_with_subjects(dataset1_path, dataset2_path, alignment_file_
                 f_output2.write(result_graph2.serialize(format='turtle').encode('utf-8'))
 
                 return
+
+
 #Example usage:
 retrieve_triples_with_subjects(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5])
 
