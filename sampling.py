@@ -17,6 +17,44 @@ def retrieve_triples_with_subjects(dataset1_path, dataset2_path, alignment_file_
                     parts = line.strip().split(' ')
                     if len(parts) > 2:
                         alignments.add((parts[0][1:-1], parts[2][1:-2]))
+     # Create result graphs outside the loop
+            result_graph1 = rdflib.Graph()
+            result_graph2 = rdflib.Graph()
+
+            # Find all triples for each graph to avoid repeated searches
+            all_triples1 = list(graph1.triples((None, None, None)))
+            all_triples2 = list(graph2.triples((None, None, None)))
+
+            # Open output files outside the loop
+            with open(output_file_path1, 'wb') as f_output1, open(output_file_path2, 'wb') as f_output2:
+                triples1_dict = defaultdict(list)
+                for triple in all_triples1:
+                    key = str(rdflib.term.URIRef(triple[0].replace("Special:FilePath/", "").lower()))
+                    triples1_dict[key].append(triple)
+
+                triples2_dict = defaultdict(list)
+                for triple in all_triples2:
+                    key = str(rdflib.term.URIRef(triple[0].replace("Special:FilePath/", "").lower()))
+                    triples2_dict[key].append(triple)
+
+            # Iterate over alignments and directly add triples to result_graph1 and result_graph2
+            for alignment in alignments:
+                subject1_uri, subject2_uri = alignment
+
+                if subject1_uri in triples1_dict.keys():
+                    for t in triples1_dict[subject1_uri]:
+                        result_graph1.add(t)
+
+                if subject2_uri in triples2_dict.keys():
+                    for t in triples2_dict[subject2_uri]:
+                        result_graph2.add(t)
+
+
+            # Serialize and write the result graphs to separate output files
+            with open(output_file_path1, 'wb') as f_output1, open(output_file_path2, 'wb') as f_output2:
+                f_output1.write(result_graph1.serialize(format='turtle').encode('utf-8'))
+                f_output2.write(result_graph2.serialize(format='turtle').encode('utf-8'))
+
 
         else:
             graph1.parse(f_dataset1, format='ttl')
@@ -50,46 +88,6 @@ def retrieve_triples_with_subjects(dataset1_path, dataset2_path, alignment_file_
                 f_output2.write(result_graph2.serialize(format='turtle').encode('utf-8'))
 
                 return
-
-
-    # Create result graphs outside the loop
-    result_graph1 = rdflib.Graph()
-    result_graph2 = rdflib.Graph()
-
-    # Find all triples for each graph to avoid repeated searches
-    all_triples1 = list(graph1.triples((None, None, None)))
-    all_triples2 = list(graph2.triples((None, None, None)))
-
-    # Open output files outside the loop
-    with open(output_file_path1, 'wb') as f_output1, open(output_file_path2, 'wb') as f_output2:
-        triples1_dict = defaultdict(list)
-        for triple in all_triples1:
-            key = str(rdflib.term.URIRef(triple[0].replace("Special:FilePath/", "").lower()))
-            triples1_dict[key].append(triple)
-
-        triples2_dict = defaultdict(list)
-        for triple in all_triples2:
-            key = str(rdflib.term.URIRef(triple[0].replace("Special:FilePath/", "").lower()))
-            triples2_dict[key].append(triple)
-
-    # Iterate over alignments and directly add triples to result_graph1 and result_graph2
-    for alignment in alignments:
-        subject1_uri, subject2_uri = alignment
-
-        if subject1_uri in triples1_dict.keys():
-            for t in triples1_dict[subject1_uri]:
-                result_graph1.add(t)
-
-        if subject2_uri in triples2_dict.keys():
-            for t in triples2_dict[subject2_uri]:
-                result_graph2.add(t)
-
-
-    # Serialize and write the result graphs to separate output files
-    with open(output_file_path1, 'wb') as f_output1, open(output_file_path2, 'wb') as f_output2:
-        f_output1.write(result_graph1.serialize(format='turtle').encode('utf-8'))
-        f_output2.write(result_graph2.serialize(format='turtle').encode('utf-8'))
-
 #Example usage:
 retrieve_triples_with_subjects(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5])
 
