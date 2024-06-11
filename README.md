@@ -7,11 +7,12 @@ HMatch is a hybrid approach which combines embedding-based methods and link keys
 # Dataset Description
 
 This repository contains the original DB15PK multi-lingual KGs. The original datasets are four: English (En.), French (Fr.), Chinese (Zh.) and Japanese (Ja.).
+
 Memory-alpha and stexpanded KGs can be downloaded here: https://oaei.webdatacommons.org/tdrs/testdata/persistent/knowledgegraph/v4/knowledgegraph_v4.zip. 
 
 The identity links obtained from BERT-INT and TransEdge for each of the KGs are respectively present in BERT-INT-IDL and TransEdge-IDL. 
 
-The reference identity links used for the evaluation.
+The reference identity links used for the evaluation are present in References.
 
 
 # Running
