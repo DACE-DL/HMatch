@@ -14,12 +14,12 @@
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Khitomer_accords> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Khitomer_accords>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Haakona> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Irw_haakona>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Henry_archer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Henry_archer>.
-<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Uss_defiant_(2370)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Uss_defiant_(nx-74205)>.
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Uss_defiant_(2370)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Uss_defiant_(NX-74205)>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Captain_of_engineering> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Captain_of_engineering>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Argus_x> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Argus_x>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Shakaar_edon> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Shakaar_edon>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Vosk> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Vosk>.
-<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Garrovick_(captain)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Steve_garrovick>.
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Garrovick_(Captain)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Steve_garrovick>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Class_m> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Class_m_planet>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Dominion> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Dominion>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Federation_alliance> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Federation_alliance>.
@@ -57,7 +57,7 @@
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ss_botany_bay> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ss_botany_bay>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nacene> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nacene>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Vorik> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Vorik>.
-<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Uss_galaxy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Uss_galaxy_(ncc-70637)>.
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Uss_galaxy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Uss_galaxy_(NCC-70637)>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Lela_dax> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Lela_dax>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ferengi_alliance> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ferengi_alliance>.
 <http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cloaking_device> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cloaking_device>.
